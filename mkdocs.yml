@@ -20,7 +20,16 @@ docs_dir: docs
 nav: 
     - Page d'accueil : index.md
     - Actualités : actualites.md
-    - Check-list : check-list.md
+    - Foire aux questions : FAQ.md
+    - La réglementation d'ici et d'ailleurs : reglementation.md
+    - Suivi des compétences : check-list.md
+    - Prise en main : priseenmain.md
+    - Le Pack Office : packoffice.md
+    - Photos et vidéos : photosvideos.md
+    - Espace Numérique de Travail : ent.md
+    - Les inclassables mais indispensables : indispensables.md
+    - Les spéciales enseignants : prof.md
+    - Tuto application : tuto.md
     
 
 
