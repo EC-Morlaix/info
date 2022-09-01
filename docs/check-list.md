@@ -21,4 +21,3 @@
 <figcaption>Le self service</figcaption>
 </figure>
 
-la vidéo est franchement nulle
