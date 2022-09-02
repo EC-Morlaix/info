@@ -1,5 +1,5 @@
 
-## Prérequis
+## Prise en main
 
 - [ ] Je connais mon adresse mail et mon code ecmorlaix.
 
