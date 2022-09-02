@@ -15,6 +15,7 @@
 
 - [ ] Je suis connectée avec mon adresse ecmorlaix sur les différentes applications (OneDrive, Word, PowerPoint, Excel, Teams).
 
+**:construction:**
 
 ## L'identifiant ecmorlaix
 
