@@ -13,18 +13,18 @@ et Libertés » (n°78-17 du 6 janvier 1978).
 ### 1. Description des services mis à disposition par les établissements :
 
 L’établissement met à disposition de chaque utilisateur, sous réserve de ses autorisations d’accès, les services suivants :
-* Accès au réseau Internet
-* Accès aux espaces de stockages partagés
-* Accès aux ordinateurs, tablettes et périphériques (Imprimantes, vidéoprojecteurs, etc…)
-* Accès à l’espace numérique de travail (E.N.T) :  
-    - Service MICROSOFT OFFICE 365 (Messagerie, stockage en ligne, Suite Office, etc…)
-    - Service ECOLE DIRECTE (Notes, Absences, Cahier de texte, Cahier d’appel, etc…)
-    - Service APPLE ICLOUD (Compte utilisateur Apple, Stockage en ligne)
-    - Service VIE SCOLAIRE (Emploi du temps)
-    - Service GLPI (Réservation de matériel, demande d’assistance informatique et technique)
-    - Service PMB (Base documentaire des C.D.I)
+* Accès au réseau Internet  
+* Accès aux espaces de stockages partagés  
+* Accès aux ordinateurs, tablettes et périphériques (Imprimantes, vidéoprojecteurs, etc…)  
+* Accès à l’espace numérique de travail (E.N.T) :   
+    - Service MICROSOFT OFFICE 365 (Messagerie, stockage en ligne, Suite Office, etc…)  
+    - Service ECOLE DIRECTE (Notes, Absences, Cahier de texte, Cahier d’appel, etc…)  
+    - Service APPLE ICLOUD (Compte utilisateur Apple, Stockage en ligne)  
+    - Service VIE SCOLAIRE (Emploi du temps)  
+    - Service GLPI (Réservation de matériel, demande d’assistance informatique et technique)  
+    - Service PMB (Base documentaire des C.D.I)  
 * Les droits d’utilisation des logiciels nécessaires à la réalisation des activités, pour lesquels les établissements s’engagent à acquérir les
-licences d’utilisation correspondantes.
+licences d’utilisation correspondantes.  
 L’utilisateur pourra accéder à ces services sous condition d’acceptation de la présente charte, et dans le cadre d’un usage professionnel et/ou
 pédagogique.
 
@@ -52,9 +52,9 @@ règles de la présente charte.
 L’utilisateur est informé que l’établissement se réserve le droit de contrôler le bon usage des services mis à sa disposition.
 Ce contrôle visera :
 
-* La vérification de la conformité de l’usage des services aux règles édictées dans la présente charte
-* Le respect par l’utilisateur des règles de protection de l’ordre public (Accès, échanges ou stockage de contenus illicites)
-* La protection de la sécurité du réseau et des ressources informatiques des établissements
+* La vérification de la conformité de l’usage des services aux règles édictées dans la présente charte  
+* Le respect par l’utilisateur des règles de protection de l’ordre public (Accès, échanges ou stockage de contenus illicites)  
+* La protection de la sécurité du réseau et des ressources informatiques des établissements  
 
 L’utilisateur accepte que l’établissement puisse prendre connaissance des informations et données nécessaires à l’administration du réseau
 (Volumétrie, Incidents, trafic, etc…)
@@ -90,15 +90,15 @@ rapport avec l'objectif professionnel et/ou pédagogique (jeux en ligne, réseau
 ### 7. Respect de la législation par l’utilisateur :
 
 L'utilisateur s'engage à inscrire son usage des services informatiques dans le cadre de la réglementation en vigueur.
-A ce titre, l'utilisateur s'engage notamment à respecter les interdictions légales :
-* Porter atteinte à la vie privée d'autrui ;
-* Avoir un comportement diffamatoire, injurieux ou violent ;
-* Inciter à la consommation de substances illégales ;
-* Consulter, échanger ou stocker des fichiers à caractère pédophile ou pornographique ;
-* Faire l'apologie de crimes ;
-* Avoir un comportement de provocation à la violence, aux crimes et délits, au suicide, à la discrimination ou à la haine raciale ;
+A ce titre, l'utilisateur s'engage notamment à respecter les interdictions légales :  
+* Porter atteinte à la vie privée d'autrui ;  
+* Avoir un comportement diffamatoire, injurieux ou violent ;  
+* Inciter à la consommation de substances illégales ;  
+* Consulter, échanger ou stocker des fichiers à caractère pédophile ou pornographique ;  
+* Faire l'apologie de crimes ;  
+* Avoir un comportement de provocation à la violence, aux crimes et délits, au suicide, à la discrimination ou à la haine raciale ;  
 * Consulter, télécharger, échanger, stocker, reproduire, représenter ou diffuser des fichiers en violation de la législation des droits d'auteur
-et/ou des droits de la propriété intellectuelle.
+et/ou des droits de la propriété intellectuelle.  
 
 ### 8. Sanctions :
 En cas de non-respect par l'utilisateur des règles présentées dans cette charte ou de violation de la réglementation française, l'établissement se
