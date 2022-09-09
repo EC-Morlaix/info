@@ -25,15 +25,15 @@ Ouvert aux enseignants, il permet de présenter les possibilités offertes par l
 
 ## FAQ
 
-*Un élève a perdu ses codes ecoledirecte*
---> L'élève pourra recevoir ses codes école directe en se rendant à l'accueil auprès de Nathalie Ondo-Oddou.
+*Un élève a perdu ses codes ecoledirecte*  
+     --> L'élève pourra recevoir ses codes école directe en se rendant à l'accueil auprès de Nathalie Ondo-Oddou.
 
-*Un élève a accès à écoledirecte mais dit ne pas avoir accès à sa carte de self numérique*
---> Il est connecté sur le compte ecoledirecte de ses parents.
+*Un élève a accès à écoledirecte mais dit ne pas avoir accès à sa carte de self numérique*  
+    --> Il est connecté sur le compte ecoledirecte de ses parents.
 
-*Je ne vois pas certains élèves sur l'application en classe*
---> Les élèves, pour être visibles sur enclasse, doivent utiliser le Wifi du lycée. S'ils utilisent leur partage de connexion, ils ne sont pas visibles ! 
+*Je ne vois pas certains élèves sur l'application en classe*  
+    --> Les élèves, pour être visibles sur enclasse, doivent utiliser le Wifi du lycée. S'ils utilisent leur partage de connexion, ils ne sont pas visibles ! 
 Attention, ils vont à l'encontre de la charte du numérique qu'ils ont signé.
 
-*Où puis-je trouver un exemple de la charte du numérique ?*
---> Juste [ici](https://www.ecmorlaix.fr/uploads/2018/09/charte-informatique-2019.pdf)
+*Où puis-je trouver un exemple de la charte du numérique ?*  
+    --> Juste [ici](https://www.ecmorlaix.fr/uploads/2018/09/charte-informatique-2019.pdf)
