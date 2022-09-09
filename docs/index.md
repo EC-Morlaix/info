@@ -13,7 +13,7 @@ Sur ce site vous trouverez tout ce qu'il faut pour vous aider dans la prise en m
 
 ![De la craie à la tablette](./images/tablettes_craies.jpg "de la craie à la tablette"){.center}
 
-Si vous souhaitez rajouter un tutoriel que vous en avez confectionné merci de prendre contact par [mail](mailto:assistance@ecmorlaix.fr).
+Si vous souhaitez rajouter un tutoriel que vous avez confectionné merci de prendre contact par [mail](mailto:assistance@ecmorlaix.fr).
 
 
 
