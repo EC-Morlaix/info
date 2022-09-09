@@ -12,7 +12,8 @@ et Libertés » (n°78-17 du 6 janvier 1978).
 
 ### 1. Description des services mis à disposition par les établissements :
 
-L’établissement met à disposition de chaque utilisateur, sous réserve de ses autorisations d’accès, les services suivants :
+L’établissement met à disposition de chaque utilisateur, sous réserve de ses autorisations d’accès, les services suivants :  
+
 * Accès au réseau Internet  
 * Accès aux espaces de stockages partagés  
 * Accès aux ordinateurs, tablettes et périphériques (Imprimantes, vidéoprojecteurs, etc…)  
@@ -91,6 +92,7 @@ rapport avec l'objectif professionnel et/ou pédagogique (jeux en ligne, réseau
 
 L'utilisateur s'engage à inscrire son usage des services informatiques dans le cadre de la réglementation en vigueur.
 A ce titre, l'utilisateur s'engage notamment à respecter les interdictions légales :  
+
 * Porter atteinte à la vie privée d'autrui ;  
 * Avoir un comportement diffamatoire, injurieux ou violent ;  
 * Inciter à la consommation de substances illégales ;  
