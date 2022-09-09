@@ -12,12 +12,20 @@
     - [ ] Powerpoint
     - [ ] Teams
     - [ ] Excel
+    - [ ] EcoleDirecte
+
+![Les applications de base](https://github.com/EC-Morlaix/info/blob/main/docs/images/appli_de_base.png)
 
 - [ ] Je suis connectée avec mon adresse ecmorlaix sur les différentes applications (OneDrive, Word, PowerPoint, Excel, Teams).
 
 **:construction:**
 
 ## L'identifiant ecmorlaix
+
+Ton adresse ecmorlaix conserve le format suivant : prenom.nom@eleves.ecmorlaix.fr
+Ton identifiant ecoledirecte est la première lettre de ton prénom suivi de ton nom, exemple : pnom.
+
+Mémorises ton mot de passe en l'inscrivant quelque part ! 
 
 ## AirDrop
 
