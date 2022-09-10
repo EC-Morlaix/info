@@ -13,7 +13,7 @@
 
 !!! warning ""
 
-    - [ ] ==Mémorises ton mot de passe en l'inscrivant quelque part !== 
+    - [ ] ==J'ai mémorisé mon mot de passe et je l'ai aussi inscrit en lieu sûr !== 
 
 ### Mise en place
 
