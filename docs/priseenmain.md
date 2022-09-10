@@ -17,19 +17,22 @@
 
 ### Mise en place
 
-![Les applications de base](./images/appli_de_base.png){align=left}
+![Les applications de base](./images/appli_de_base.png){align=right width=45%}
 
-- [ ] J’ai les applications du pack office sur ma tablette :
+- [ ] J’ai toutes les applications suivantes sur ma tablette :
     - [ ] Outlook
     - [ ] Word
     - [ ] Powerpoint
     - [ ] Teams
     - [ ] Excel
     - [ ] EcoleDirecte
-- [ ] Je suis connectée avec mon adresse ecmorlaix sur les différentes applications (OneDrive, Word, PowerPoint, Excel, Teams).
 
 ???+ tip "Pack Office"
     - [ ] J’ai compris que je peux aussi télécharger le pack office 365 (word, outlook, powerpoint, excel) sur cinq appareils numériques gratuitement grâce à mon adresse ecmorlaix. (ent.ecmorlaix.fr).
+
+- [ ] Je suis connectée avec mon adresse ecmorlaix sur les différentes applications (OneDrive, Word, PowerPoint, Excel, Teams).
+
+
 
 - [ ] J’ai trouvé où se trouvait le AirDrop.
 - [ ] J’ai rangé les widgets d’application sur l’écran d’accueil de ma tablette.
