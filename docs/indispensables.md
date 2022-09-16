@@ -62,7 +62,7 @@ Les logiciels Word et Power Point vous permettent de générer des documents de 
 Teams est une application de communication et de partage de documents. Grâce à la création d'équipe, vous pouvez communiquer et partager des documents tout en collaborant dessus.
 
 <figure>
-[<iframe title="Utilisation de One Drive - épisode 4" width="560" height="315" src="https://tube-enseignement-professionnel.apps.education.fr/videos/embed/89f5393d-df1a-4176-a667-79e4b428e8b1" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>](https://tube-enseignement-professionnel.apps.education.fr/w/ruDWnyxJqgfV3pdZ29g7iv?start=1s)
+<iframe title="Teams" width="560" height="315" src="https://tube-enseignement-professionnel.apps.education.fr/videos/embed/ce74abfd-b83d-4f12-9557-6bafa0c99a87" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
     <figcaption>Utilisation de Teams : créer des équipes pour travailler</gifcaption>
 </figure> 
 
