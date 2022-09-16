@@ -4,6 +4,12 @@
 
 ## Les petites news du numérique
 
+Lors de la semaine du 12 septembre, les nouveaux élèves ont reçu leur tablette !
+
+![Les élèves quand on leur dit que la tablette est un outil pédagogique](./images/meme_bébé.jpg)
+*Les élèves quand on leur dit que la tablette est un outil pédagogique !*
+
+
 ## Espace Numérique de Travail
 
 Pour accéder à l'ENT de l'établissement, cliquez [ici](https://ent.ecmorlaix.fr/#features-section).
