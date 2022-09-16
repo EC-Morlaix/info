@@ -2,6 +2,8 @@
 
 ## Le suivi des compétences
 
+A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre enseignant en cliquant sur le carré avec la flèche qui va vers le haut ![Icone partage](./images/partager-message.jpg){width=10% align=left} puis "annoter". Cela génère un PDF que vous pouvez envoyer à votre enseignant (même icone) par Air Drop ou par mail.
+
 ### Prérequis
 
 - [ ] Je connais mon adresse mail, mon code ecmorlaix et mon compte Ecole Directe.
