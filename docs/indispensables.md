@@ -28,3 +28,56 @@ Site en construction
 </figure>  
     
 **Pour rappel**, vous pouvez ==télécharger le pack office 365== (word, outlook, powerpoint, excel) sur cinq appareils numériques gratuitement grâce à mon adresse ecmorlaix. (ent.ecmorlaix.fr).
+
+## One Drive
+
+<figure>
+<iframe title="Utilisation de One Drive - épisode 1" width="560" height="315" src="https://tube-enseignement-professionnel.apps.education.fr/videos/embed/8ac29882-43f0-42bf-8719-dfb5be54c560" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+    <figcaption>Utilisation de One Drive, épisode 1 : présentation et création de documents</gifcaption>
+</figure>  
+
+<figure>
+<iframe title="Utilisation de One Drive - épisode 2" width="560" height="315" src="https://tube-enseignement-professionnel.apps.education.fr/videos/embed/ce77f910-1157-414d-bd39-fe9e8dcad4a6" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+    <figcaption>Utilisation de One Drive, épisode 2 : création et enregistrement d'un document</gifcaption>
+</figure> 
+
+<figure>
+<iframe title="Utilisation de One Drive - épisode 3" width="560" height="315" src="https://tube-enseignement-professionnel.apps.education.fr/videos/embed/e74d39ea-8ab8-4fc0-a8a5-56fd5f1e3c53" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+    <figcaption>Utilisation de One Drive, épisode 3 : renommer et déplacer un document</gifcaption>
+</figure> 
+
+<figure>
+<iframe title="Utilisation de One Drive - épisode 4" width="560" height="315" src="https://tube-enseignement-professionnel.apps.education.fr/videos/embed/89f5393d-df1a-4176-a667-79e4b428e8b1" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+    <figcaption>Utilisation de One Drive, épisode 4 : partager un document pour travailler dessus ensemble</gifcaption>
+</figure> 
+
+## Word et Power Point
+
+Les logiciels Word et Power Point vous permettent de générer des documents de traitement de texte ou de présentation.
+
+
+
+## Teams
+
+Teams est une application de communication et de partage de documents. Grâce à la création d'équipe, vous pouvez communiquer et partager des documents tout en collaborant dessus.
+
+<figure>
+[<iframe title="Utilisation de One Drive - épisode 4" width="560" height="315" src="https://tube-enseignement-professionnel.apps.education.fr/videos/embed/89f5393d-df1a-4176-a667-79e4b428e8b1" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>](https://tube-enseignement-professionnel.apps.education.fr/w/ruDWnyxJqgfV3pdZ29g7iv?start=1s)
+    <figcaption>Utilisation de Teams : créer des équipes pour travailler</gifcaption>
+</figure> 
+
+## Le PDF
+
+Le PDF est un format de fichier permettant de conserver les caractéristiques d'un document. C'est un mode d'impression d'un fichier de manière numérique. 
+
+Il est utile lorsque vous devez envoyer un document à quelqu'un et que vous ne souhaitez pas que le document soit modifiable.
+
+<figure>
+<iframe title="Le PDF - épisode 1" width="560" height="315" src="https://tube-enseignement-professionnel.apps.education.fr/videos/embed/4731e285-c29c-48bd-b05b-a4671d76ff0d" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+    <figcaption>Le PDF, épisode 1 : enregistrer un PDF, l'annoter et le renvoyer</gifcaption>
+</figure> 
+
+<figure>
+<iframe title="Le PDF - épisode 2" width="560" height="315" src="https://tube-enseignement-professionnel.apps.education.fr/videos/embed/474bbb4d-060e-447e-a1e8-1d3135666d55" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+    <figcaption>Le PDF, épisode 2 : enregistrer un fichier au format PDF</gifcaption>
+</figure> 
