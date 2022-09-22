@@ -43,3 +43,9 @@ Attention, ils vont à l'encontre de la charte du numérique qu'ils ont signé.
 
 *Où puis-je trouver un exemple de la charte du numérique ?*  
     --> Juste [ici](https://www.ecmorlaix.fr/uploads/2018/09/charte-informatique-2019.pdf)
+    
+*Quel outil peut m'aider à rédiger car je fais beaucoup de fautes d'orthographe ?*
+    --> Tu peux dicter le texte à rédiger sur Word en utilisant le micro. Word souligne en rouge lorsque le mot n'est pas connu ou présente une faute et en bleu lorsqu'il y a une faute d'accord.
+    
+*J'ai preparé un design sur Canva mais je n'arrive pas à le télécharger car il faut payer ?*
+    --> Si c'est pour un travail à rendre à ton enseignant partage le document ou fais une capture d'écran que tu lui envoies.
