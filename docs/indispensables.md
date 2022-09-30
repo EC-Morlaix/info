@@ -55,6 +55,21 @@ Site en construction
 
 Les logiciels Word et Power Point vous permettent de générer des documents de traitement de texte ou de présentation.
 
+<figure>
+<iframe title="Utilisation de Word, épisode 1" width="560" height="315" src="https://tube-enseignement-professionnel.apps.education.fr/videos/embed/3ad21958-5f3f-4a3f-8980-5b2a012ce44b" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+    <figcaption>Utilisation de Word, épisode 1 : présentation générale et mise en page</gifcaption>
+</figure> 
+
+<figure>
+<iframe title="Utilisation de Word, épisode 2" width="560" height="315" src="https://tube-enseignement-professionnel.apps.education.fr/videos/embed/6361396e-9a02-4b53-be64-2f2f52f31360" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+    <figcaption>Utilisation de Word, épisode 2 : intégration d'une photo, d'un en-tête et d'un pied de page</gifcaption>
+</figure> 
+
+<figure>
+<iframe title="Utilisation de Word, épisode 3" width="560" height="315" src="https://tube-enseignement-professionnel.apps.education.fr/videos/embed/4a819256-d296-4b1c-8747-75bb7dcc7210" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+    <figcaption>Utilisation de Word, épisode 3 : titre et correcteur d'orthographe</gifcaption>
+</figure> 
+
 
 
 ## Teams
