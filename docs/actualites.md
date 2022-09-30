@@ -4,6 +4,8 @@
 
 ## Les petites news du numérique
 
+Cette semaine, nouveau tuto sur l'utilisation de Word.
+
 Lors de la semaine du 12 septembre, les nouveaux élèves ont reçu leur tablette !
 
 ![Les élèves quand on leur dit que la tablette est un outil pédagogique](./images/meme_bébé.jpg)
