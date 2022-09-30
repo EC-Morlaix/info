@@ -5,6 +5,7 @@
 ## Les petites news du numérique
 
 Le 30 septembre, cette semaine, nouveau tuto sur l'utilisation de Word.
+
 Vous saviez que tout s'enregistre automatiquement sur le pack office ?? 
 Si ce n'est pas enregistré, vous retrouverez votre document dans les brouillons ou "consulté récemment"
 
