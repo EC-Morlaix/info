@@ -4,7 +4,10 @@
 
 ## Les petites news du numérique
 
-Cette semaine, nouveau tuto sur l'utilisation de Word.
+Le 30 septembre, cette semaine, nouveau tuto sur l'utilisation de Word.
+Vous saviez que tout s'enregistre automatiquement sur le pack office ?? 
+Si ce n'est pas enregistré, vous retrouverez votre document dans les brouillons ou "consulté récemment"
+![Une coupure de courant ??? No panic ! Si vous êtes enregistrés, la sauvegarde est automatique !](./images/1BF9A846-5ACD-4EE7-A72F-880B2E373CC0.gif) 
 
 Lors de la semaine du 12 septembre, les nouveaux élèves ont reçu leur tablette !
 
