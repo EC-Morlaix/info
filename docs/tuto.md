@@ -21,7 +21,9 @@
 
 > Mais il faut être connecté à l'office365 d'ecmorlaix pour la visualiser... -->
 
+### [ADN - Tutoriel Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}
 
+[![building_websites](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/assets/Escalidraw/obsidian.svg){.center width=50%}<br>Découvrez des fonctionnalités du logiciel Obsidian pour prendre des notes (texte, dessin, photo, audio, vidéo, ...), gérer toutes ses connaissances personnelles et ses projets, produire et publier un document multimédia, un pdf, une carte mentale, un diaporama, un site visible sur le web... Se construire un second cerveau numérique.](https://ericecmorlaix.github.io/adn-Tutoriel_site_web/ "Cliquer pour commencer..."){target="_blank" .md-button}
 
 ### [ADN - Tutoriel site web](https://ericecmorlaix.github.io/adn-Tutoriel_site_web/){target=_blank}
 
