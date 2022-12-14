@@ -20,7 +20,7 @@ Voir également de nombreuses autres propositions écologiques sur le site de [l
 
 ## Défi du grand ménage numérique
 
-==Et si nous prennions comme bonne résolution en 2023 de réduire, ou pour le moins de maitriser, la taille du stockage de toutes nos données sur les différents espaces mis à notre disposition par l'ECA.M ?==
+==Et si nous prenions comme bonne résolution en 2023 de réduire, ou pour le moins de maitriser, la taille du stockage de toutes nos données sur les différents espaces mis à notre disposition par l'ECA.M ?==
 
 Pour cela, il faut dans un premier temps mesurer le volume occupé par tous nos fichiers, puis d'y faire un peu de tri, et enfin mesurer à nouveau l'espace ainsi gagné...
 
@@ -30,10 +30,10 @@ Pour connaitre la taille que vos données occupent :
 
 -  sur iCloud, sur votre iPad rendez-vous dans :  **Réglages > [votre nom] > iCloud** :
 -  sur votre iPad, rendez-vous dans :  **Réglages > Général > Stockage iPad** :
--  sur votre OneDrive, dans Safari, connectez-vous à Office365 puis dans OneDrive,  cliquez sur le mot OneDrive à droite du logo ECA.M, cliquez sur la roue dentée  **paramètres> paramètres de votre espace OneDrive > Autres paramètres > Métriques de stockage** ;
--  sur votre Outlook, dans Safari, connectez-vous à Office365 puis dans Outlook, cliquez sur le mot Outlook à droite du logo ECA.M, cliquez alors sur les trois points et choisir la roue dentée  **paramètres>Afficher tous les paramètres d'Outlook>Général>Stockage** ;
+-  sur votre OneDrive, dans Safari, connectez vous à Office365 puis dans OneDrive,  cliquez sur le mot OneDrive à droite du logo ECA.M, cliquez sur la roue dentée  **paramètres> paramètres de votre espace OneDrive > Autres paramètres > Métriques de stockage** ;
+-  sur votre Outlook, dans Safari, connectez vous à Office365 puis dans Outlook, cliquez sur le mot Outlook à droite du logo ECA.M, cliquez alors sur les trois points et choisir la roue dentée  **paramètres>Afficher tous les paramètres d'Outlook>Général>Stockage** ;
 
-Notez toutes ces valeurs et repportez les dans le [questionnaire du défi du grand ménage numérique 2023](){target=_blank}...
+Notez toutes ces valeurs et reportez les dans le [questionnaire du défi du grand ménage numérique 2023](https://forms.office.com/Pages/ResponsePage.aspx?id=15R5OuUcb0Km4-7gYW4qbK8if53guTRDmm-NDtFB1m9UQUpKN1I5V0JVVDQyTTFLSjVKNDJITEFDTiQlQCN0PWcu){target=_blank}...
 
 ### Faire du ménage
 
