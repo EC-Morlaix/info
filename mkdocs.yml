@@ -25,6 +25,7 @@ nav:
     - Les indispensables : indispensables.md
     - Les spéciales enseignants : prof.md
     - Tutoriel : tuto.md
+    - Sobriété : sobre.md
     
 
     # Référencer vos autres pages ci-dessus...
@@ -99,10 +100,10 @@ markdown_extensions: # https://squidfunk.github.io/mkdocs-material/reference/abb
 
 plugins:
   - search # Inclure une barre de recherche
-  - mkdocs-jupyter: # Convertir les fichiers .ipynb et .py en pages du site https://github.com/danielfrg/mkdocs-jupyter
-      kernel_name: python3
-      execute: False
-      include_source: True
+  # - mkdocs-jupyter: # Convertir les fichiers .ipynb et .py en pages du site https://github.com/danielfrg/mkdocs-jupyter
+  #     kernel_name: python3
+  #     execute: False
+  #     include_source: True
 
 
 extra:

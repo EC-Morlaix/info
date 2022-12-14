@@ -4,18 +4,20 @@
 
 ## Les petites news du numérique
 
-Le 30 septembre, cette semaine, nouveau tuto sur l'utilisation de Word.
+- Le 15 décembre, [premier pas vers plus de sobriété numérique](./sobre)...
 
-Vous saviez que tout s'enregistre automatiquement sur le pack office ?? 
+- Le 30 septembre, nouveau tuto sur l'utilisation de Word.
+
+- Vous saviez que tout s'enregistre automatiquement sur le pack office ?? 
 Si ce n'est pas enregistré, vous retrouverez votre document dans les brouillons ou "consulté récemment"
 
 
-![Une coupure de courant ??? No panic ! Si vous êtes enregistrés, la sauvegarde est automatique !](./images/1BF9A846-5ACD-4EE7-A72F-880B2E373CC0.gif) 
+- ![Une coupure de courant ??? No panic ! Si vous êtes enregistrés, la sauvegarde est automatique !](./images/1BF9A846-5ACD-4EE7-A72F-880B2E373CC0.gif) 
 
-Lors de la semaine du 12 septembre, les nouveaux élèves ont reçu leur tablette !
+- Lors de la semaine du 12 septembre, les nouveaux élèves ont reçu leur tablette !
 
-![Les élèves quand on leur dit que la tablette est un outil pédagogique](./images/meme_bébé.jpg)
-*Les élèves quand on leur dit que la tablette est un outil pédagogique !*
+- ![Les élèves quand on leur dit que la tablette est un outil pédagogique](./images/meme_bébé.jpg)
+> *Les élèves quand on leur dit que la tablette est un outil pédagogique !*
 
 
 ## Espace Numérique de Travail
@@ -56,4 +58,4 @@ Attention, ils vont à l'encontre de la charte du numérique qu'ils ont signé.
     --> Tu peux dicter le texte à rédiger sur Word en utilisant le micro. Word souligne en rouge lorsque le mot n'est pas connu ou présente une faute et en bleu lorsqu'il y a une faute d'accord.
     
 *J'ai preparé un design sur Canva mais je n'arrive pas à le télécharger car il faut payer ?*
-    --> Si c'est pour un travail à rendre à ton enseignant partage le document ou fais une capture d'écran que tu lui envoies.
+    --> Si c'est pour un travail à rendre à ton enseignant partage le document ~~ou fais une capture d'écran que tu lui envoies~~ ==peu [sobre](./sobre) !==.
