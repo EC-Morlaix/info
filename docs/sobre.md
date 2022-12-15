@@ -30,9 +30,9 @@ Pour connaitre la taille que vos données occupent :
 
 <!-- -  sur iCloud, sur votre iPad rendez-vous dans :  **Réglages > [votre nom] > iCloud** : -->
 -  sur votre iPad, rendez-vous dans :  **Réglages > Général > Stockage iPad** ;
--  sur iCloud,  dans Safari, connectez vous à [iCloud](https://www.icloud.com/){target=_blank}, cliquez sur le troisième logo en partant de la droite (le rectangle avec douze petits carrés), puis choisir **Votre stockage iCloud** :
--  sur votre OneDrive, dans Safari, connectez vous à [Office365](https://www.office.com/) puis dans OneDrive,  cliquez sur le mot OneDrive à droite du logo ECA.M, cliquez sur la roue dentée  **paramètres> paramètres de votre espace OneDrive > Autres paramètres > Métriques de stockage** ;
--  sur votre Outlook, dans Safari, connectez vous à [Office365](https://www.office.com/) puis dans Outlook, cliquez sur le mot Outlook à droite du logo ECA.M, cliquez alors sur les trois points et choisir la roue dentée  **paramètres>Afficher tous les paramètres d'Outlook>Général>Stockage** ;
+-  sur iCloud,  dans Safari, connectez vous à [iCloud](https://www.icloud.com/){target=_blank}, cliquez sur le troisième logo en partant de la droite (le rectangle avec douze petits carrés), puis choisir **Votre stockage iCloud** ;
+-  sur votre OneDrive, dans Safari, connectez vous à [Office365](https://www.office.com/) puis dans **OneDrive**,  cliquez sur le mot **OneDrive** à droite du logo ECA.M, cliquez sur la roue dentée  **paramètres> paramètres de votre espace OneDrive > Autres paramètres > Métriques de stockage** ;
+-  sur votre Outlook, dans Safari, connectez vous à [Office365](https://www.office.com/) puis dans **Outlook**, cliquez sur le mot **Outlook** à droite du logo ECA.M, cliquez alors sur les trois points et choisir la roue dentée  **paramètres>Afficher tous les paramètres d'Outlook>Général>Stockage** ;
 
 Notez toutes ces valeurs et reportez les dans le [questionnaire du défi du grand ménage numérique 2023](https://forms.office.com/Pages/ResponsePage.aspx?id=15R5OuUcb0Km4-7gYW4qbK8if53guTRDmm-NDtFB1m9UQUpKN1I5V0JVVDQyTTFLSjVKNDJITEFDTiQlQCN0PWcu){target=_blank}...
 
