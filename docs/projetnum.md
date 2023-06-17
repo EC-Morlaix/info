@@ -50,7 +50,17 @@ L’espace Numérique de Travail (https://ent.ecmorlaix.fr) est conçu sur la ba
 
 ## Pilier pédagogique
 
-L'ensemble des chartes élèves et familles est consultable ici 
+L'ensemble des chartes élèves et familles est consultable ici (Lien)
+
+En cas de non-respect à la charte d'utilisation de l'IPAD, des sanctions pourront être posées. 
+
+
+| Activité | Sanction          | 
+| :--------------- :|:---------------:|
+| Oubli de l'IPAD ou IPAD déchargé  |   remarque Ecole Directe      |  
+| Utilisation non appropriée   | Retenue             |   
+| Envoi d'e-mail innaproprié  | remarque ou retenue          |
+
 
 ## Pilier didactique
 
