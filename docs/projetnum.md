@@ -30,6 +30,8 @@ L'ensemble du projet est consultable (adresse), cette page permet de mettre les 
  Si besoin, l'enseignant peut faire un ticket GLPI pour être informé de l'évolution de la prise en charge.<br>
  Une permanence informatique pour les élèves se déroule les mardis et les jeudis de 9h55 à 10h10 dans le BOX rouge de l'Atrium.
 3. En cas de casse d'une tablette d'un élève : celui-ci doit voir Doriane DOUARIN à la comptabilité pour faire réparer sa tablette par le prestataire. Il recevra une tablette de prêt et sera informé par mail pour la récupération de sa tablette.
+4. Gestion APPLE TV : En cas de disfonctionnement, débrancher l'appareil et le rebrancher.
+5. Pour tout problème : Wifi, télécommande ... faire un ticket GLPI pour remonter le problème afin qu'il soit resolu le plus rapidement possible.
 
 ### Espace Numérique de Travail 
 
