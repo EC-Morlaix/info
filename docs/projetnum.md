@@ -9,10 +9,13 @@ L'ensemble du projet est consultable (adresse), cette page permet de mettre les 
 
 ## Pilier technique
 
-### Préparation des bases de données
+### Préparation et gestion des bases de données
 
 1. Les professeurs principaux doivent renseigner les bases TEAMS des enseignants de leur classe (# LNDM - Enseigants - 1G1) ou (# LLPR - Enseignant - 2MRC)
-2. Chaque enseignant peut créer son groupe ou sa classe sur l'application "En Classe".
+2. Les professeurs principaux devront compléter le tableau (délégués) en complétant les délégués et parents correspondants de leur classe. 
+3. Les professeurs principaux communiqueront les adresses mails de parents correspondants aux familles via école directe.
+4. Les professeurs principaux enverront les dates et heures des conseils de classe aux parents correspondants.
+5. Chaque enseignant peut créer son groupe ou sa classe sur l'application "En Classe".
 
 ### Préparation des tablettes professeurs et élèves 
 
@@ -42,4 +45,16 @@ L’espace Numérique de Travail (https://ent.ecmorlaix.fr) est conçu sur la ba
 
 ### Mise à disposition des applications sur les logiciels "Enseignants" ou "Elèves"
 
-- Faire une demande par mail à Delphine NUNEZ pour toute demande d'application. 
+- Faire une demande par mail à Delphine NUNEZ pour toute demande d'application.
+
+
+## Pilier pédagogique
+
+L'ensemble des chartes élèves et familles est consultable ici 
+
+## Pilier didactique
+
+### Formation Enseignant
+
+
+### Formation Elève
