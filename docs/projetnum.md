@@ -76,16 +76,21 @@ En cas de non-respect à la charte d'utilisation de l'IPAD, des sanctions pourro
 
 ### Formation Enseignant
 
-- Formation des nouveaux enseignants en août pour une prise en main des outils principaux de la tablette :
+1. Formation des nouveaux enseignants en août pour une prise en main des outils principaux de la tablette :
+  
   - Mail, One Drive
   - Ecole Directe
   - Air play
   - GLPI
   - ...
-- ADN : Atelier du Numérique
+    
+2. ADN : Atelier du Numérique
+  
   - Proposition d'un atelier hebdomadaire selon les demandes et disponibilités. Un questionnaire forms en lien sur l'ECA.M Info
-  -  
+  - Formation en journée pédagogique, temps forts.   
 
 ### Formation Elève
 
 - Une formation pour les élèves de seconde. (lien vers site élève)
+
+
