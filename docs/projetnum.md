@@ -67,9 +67,9 @@ En cas de non-respect à la charte d'utilisation de l'IPAD, des sanctions pourro
 
 | Activité | Sanction          | 
 | :--------------- :|:---------------:|
-| Oubli de l'IPAD ou IPAD déchargé  |   remarque Ecole Directe      |  
+| Oubli de l'IPAD ou IPAD déchargé  |   Remarque Ecole Directe      |  
 | Utilisation non appropriée   | Retenue             |   
-| Envoi d'e-mail innaproprié  | remarque ou retenue          |
+| Envoi d'e-mail innaproprié  | Remarque ou retenue          |
 | 3 remarques  |  1 retenue          |
 ## Pilier didactique
 
