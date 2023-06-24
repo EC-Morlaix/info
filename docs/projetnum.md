@@ -15,10 +15,10 @@ L'ensemble du projet est consultable (adresse), cette page permet de donner les 
 
 ### Préparation et gestion des bases de données
 1. Rôle des professeurs principaux :
-   a. Renseigner les bases TEAMS des enseignants de leur classe (# LNDM - Enseigants - 1G1) ou (# LLPR - Enseignant - 2MRC)
-   b. Compléter le tableau (délégués) en complétant les délégués et parents correspondants de leur classe.
-   c. Communiquer les adresses mails de parents correspondants aux familles via école directe.
-   d. Communiquer les dates et heures des conseils de classe aux parents correspondants et élèves délégués
+   - Renseigner les bases TEAMS des enseignants de leur classe (# LNDM - Enseigants - 1G1) ou (# LLPR - Enseignant - 2MRC)
+   - Compléter le tableau (délégués) en complétant les délégués et parents correspondants de leur classe.
+   - Communiquer les adresses mails de parents correspondants aux familles via école directe.
+   - Communiquer les dates et heures des conseils de classe aux parents correspondants et élèves délégués
 2. Chaque enseignant peut créer son groupe ou sa classe sur l'application "En Classe".
 
 ### Préparation des tablettes professeurs et élèves 
