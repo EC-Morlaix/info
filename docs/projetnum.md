@@ -1,6 +1,7 @@
 # Projet Numérique 
 
-Le conseil numérique a travaillé pendant 1 an pour rédiger un projet numérique et pour mettre en place des procédures sur différents piliers : <br>
+Le conseil numérique a travaillé pendant 1 an pour rédiger un projet numérique et pour mettre en place des procédures sur différents piliers : <br
+
 - Pilier technique
 - Pilier pédagogique
 - Pilier didactique
@@ -15,11 +16,12 @@ L'ensemble du projet est consultable (adresse), cette page permet de donner les 
 
 ### Préparation et gestion des bases de données
 1. Rôle des professeurs principaux :
-   - Renseigner les bases TEAMS des enseignants de leur classe (# LNDM - Enseigants - 1G1) ou (# LLPR - Enseignant - 2MRC)
-   - Compléter le tableau (délégués) en complétant les délégués et parents correspondants de leur classe.
-   - Communiquer les adresses mails de parents correspondants aux familles via école directe.
-   - Communiquer les dates et heures des conseils de classe aux parents correspondants et élèves délégués
-2. Chaque enseignant peut créer son groupe ou sa classe sur l'application "En Classe".
+
+    - Renseigner les bases TEAMS des enseignants de leur classe (# LNDM - Enseigants - 1G1) ou (# LLPR - Enseignant - 2MRC)
+    - Compléter le tableau (délégués) en complétant les délégués et parents correspondants de leur classe.
+    - Communiquer les adresses mails de parents correspondants aux familles via école directe.
+    - Communiquer les dates et heures des conseils de classe aux parents correspondants et élèves délégués
+3. Chaque enseignant peut créer son groupe ou sa classe sur l'application "En Classe".
 
 ### Préparation des tablettes professeurs et élèves 
 
