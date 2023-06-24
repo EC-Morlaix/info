@@ -71,6 +71,8 @@ En cas de non-respect à la charte d'utilisation de l'IPAD, des sanctions pourro
 | Utilisation non appropriée   | Retenue             |   
 | Envoi d'e-mail innaproprié  | Remarque ou retenue          |
 | 3 remarques  |  1 retenue          |
+
+
 ## Pilier didactique
 
 ### Formation Enseignant
