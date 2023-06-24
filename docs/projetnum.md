@@ -1,6 +1,6 @@
 # Projet Numérique 
 
-Le conseil numérique a travaillé pendant 1 an pour rédiger un projet numérique et pour mettre en place des procédures sur différents piliers : <br
+Le conseil numérique a travaillé pendant 1 an pour rédiger un projet numérique et pour mettre en place des procédures sur différents piliers : 
 
 - Pilier technique
 - Pilier pédagogique
