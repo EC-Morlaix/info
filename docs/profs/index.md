@@ -8,7 +8,7 @@ Le conseil numérique a travaillé pendant 1 an pour rédiger un projet numériq
 
 Grâce à ce projet, le lycée a obtenu le label Excellence Numérique niveau 4 
 <center>
-![Label Excellence Numérique](./images/badgeniveau4.png)
+![Label Excellence Numérique](../images/badgeniveau4.png)
 </center>
   
 L'ensemble du projet est consultable (adresse), cette page permet de donner les procédures adoptées en conseil numérique
