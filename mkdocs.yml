@@ -113,10 +113,10 @@ extra:
       link: mailto:assistance@ecmorlaix.fr
       name: Pour toute question, suggestion ou commentaire, écrire à l'auteur
     - icon: fontawesome/brands/github
-      link: https://github.com/EC-Morlaix/info/profs
+      link: https://github.com/EC-Morlaix/info/
       name: dépôt github
     - icon: fontawesome/solid/school
-      link: https://www.ecmorlaix.fr/
+      link: https://EC-Morlaix.github.io/info/profs
       name: EC@M
 
 
