@@ -35,7 +35,7 @@ L'ensemble du projet est consultable (adresse), cette page permet de donner les 
 2. La distribution des tablettes des élèves de seconde se déroule selon un planning établi en conseil numérique
    
 3. Une formation est prévue pour chaque élève :<br>
-[prise en maine](./priseenmain.md) <br>
+[prise en main](./priseenmain.md) <br>
 Une vérification des bons usages de la tablette sera fait quelques semaines plus tard (en parallèle de la journée d'intégration).
 
 ### Gestion des casses ou des panne 
