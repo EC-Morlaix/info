@@ -26,7 +26,8 @@ L'ensemble du projet est consultable (adresse), cette page permet de donner les 
     - Compléter le tableau (délégués) en complétant les délégués et parents correspondants de leur classe.
     - Communiquer les adresses mails de parents correspondants aux familles via école directe.
     - Communiquer les dates et heures des conseils de classe aux parents correspondants et élèves délégués
-3. Chaque enseignant peut créer son groupe ou sa classe sur l'application "En Classe".
+  
+2. Chaque enseignant peut créer son groupe ou sa classe sur l'application "En Classe".
 
 ### Préparation des tablettes professeurs et élèves 
 
