@@ -19,6 +19,8 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
 
 ### Mise en place
 
+Des tutoriels sont accessibles [indispensables](./indispensables.md)
+
 ![Les applications de base](./images/appli_de_base.png){align=right width=45%}
 
 - [ ] J’ai toutes les applications suivantes sur ma tablette :
