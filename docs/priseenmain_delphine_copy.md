@@ -24,9 +24,10 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
 - [ ] J’ai toutes les applications suivantes sur ma tablette :
     - [ ] Outlook
     - [ ] Word
-    - [ ] Powerpoint
-    - [ ] Teams
-    - [ ] Excel
+    - [ ] OneDrive
+#    - [ ] Powerpoint
+#    - [ ] Teams
+#    - [ ] Excel
     - [ ] EcoleDirecte
 
 ???+ tip "Pack Office"
@@ -39,15 +40,17 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
 - [ ] J’ai trouvé où se trouvait le AirDrop.
 - [ ] J’ai rangé les widgets d’application sur l’écran d’accueil de ma tablette.
 
+## Sauvegarde Cloud
 
-## De One Drive 
-
-- [ ] Je créé des dossiers dans OneDrive (une matière = un dossier + un dossier STAGE).
-- [ ] Je sais ouvrir un document en partant du dossier source.
-- [ ] Je sais renommer ce document.
-- [ ] Je sais partager ce document pour que la personne puisse le consulter uniquement.
-- [ ] Je sais partager ce document pour que la personne puisse le modifier.
-- [ ] Je sais créer une copie de ce document pour l’enregistrer dans un autre dossier.
+??? tip "One Drive "
+=== Activités 
+==== Bilan
+    - [ ] Je créé des dossiers dans OneDrive (une matière = un dossier + un dossier STAGE).
+    - [ ] Je sais ouvrir un document en partant du dossier source.
+    - [ ] Je sais renommer ce document.
+    - [ ] Je sais partager ce document pour que la personne puisse le consulter uniquement.
+    - [ ] Je sais partager ce document pour que la personne puisse le modifier.
+    - [ ] Je sais créer une copie de ce document pour l’enregistrer dans un autre dossier.
 
 ## De Word
 
