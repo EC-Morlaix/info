@@ -39,7 +39,7 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
 
 ## Sauvegarde Cloud
 
-??? tip "One Drive "
+!!! tip "One Drive "
     === Activités 
     ==== Bilan
         - [ ] Je créé des dossiers dans OneDrive (une matière = un dossier + un dossier STAGE).
