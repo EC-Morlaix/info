@@ -25,9 +25,6 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
     - [ ] Outlook
     - [ ] Word
     - [ ] OneDrive
-#    - [ ] Powerpoint
-#    - [ ] Teams
-#    - [ ] Excel
     - [ ] EcoleDirecte
 
 ???+ tip "Pack Office"
@@ -43,14 +40,14 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
 ## Sauvegarde Cloud
 
 ??? tip "One Drive "
-=== Activités 
-==== Bilan
-    - [ ] Je créé des dossiers dans OneDrive (une matière = un dossier + un dossier STAGE).
-    - [ ] Je sais ouvrir un document en partant du dossier source.
-    - [ ] Je sais renommer ce document.
-    - [ ] Je sais partager ce document pour que la personne puisse le consulter uniquement.
-    - [ ] Je sais partager ce document pour que la personne puisse le modifier.
-    - [ ] Je sais créer une copie de ce document pour l’enregistrer dans un autre dossier.
+    === Activités 
+    ==== Bilan
+        - [ ] Je créé des dossiers dans OneDrive (une matière = un dossier + un dossier STAGE).
+        - [ ] Je sais ouvrir un document en partant du dossier source.
+        - [ ] Je sais renommer ce document.
+        - [ ] Je sais partager ce document pour que la personne puisse le consulter uniquement.
+        - [ ] Je sais partager ce document pour que la personne puisse le modifier.
+        - [ ] Je sais créer une copie de ce document pour l’enregistrer dans un autre dossier.
 
 ## De Word
 
