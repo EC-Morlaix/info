@@ -50,25 +50,28 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
         - [ ] Je sais partager ce document pour que la personne puisse le modifier.
         - [ ] Je sais créer une copie de ce document pour l’enregistrer dans un autre dossier.
 
-## De Word
+## Traitement de Texte
 
-- [ ] Je sais ouvrir une page blanche sur Word.
-- [ ] Je sais enregistrer ce document Word dans mon dossier OneDrive.
-- [ ] Je sais enregistrer ce document Word dans un dossier OneDrive partagé.
-- [ ] Je sais justifier un texte sur word/open office
-- [ ] Je sais modifier la police, la taille et le style de police.
-- [ ] Je sais enregistrer un document sur l’ordinateur/ Tablette
-- [ ] Je sais insérer une image dans un fichier word et modifier le format du texte autour.
-- [ ] Je sais enregistrer ce fichier en PDF.			
-- [ ] Je sais copier/coller ou couper/coller un texte.
-- [ ] Je sais formater mes titres et mon corps de texte sur word.
-- [ ] Je sais ce qu’est un interligne 1,5 et le mettre.			
-- [ ] Je sais utiliser le micro pour dicter un texte.
-- [ ] Je sais mettre un pied de page.			
-- [ ] Je sais mettre un en-tête.
-- [ ] Je sais mettre un numéro de page.
-- [ ] Je sais où aller pour lire le texte que j’ai tapé sur Word.
-- [ ] Je sais insérer une zone de texte.
+!!! tip "Word"
+    === "Activités :"
+    === "Bilan :"
+        - [ ] Je sais ouvrir une page blanche sur Word.
+        - [ ] Je sais enregistrer ce document Word dans mon dossier OneDrive.
+        - [ ] Je sais enregistrer ce document Word dans un dossier OneDrive partagé.
+        - [ ] Je sais justifier un texte sur word/open office
+        - [ ] Je sais modifier la police, la taille et le style de police.
+        - [ ] Je sais enregistrer un document sur l’ordinateur/ Tablette
+        - [ ] Je sais insérer une image dans un fichier word et modifier le format du texte autour.
+        - [ ] Je sais enregistrer ce fichier en PDF.			
+        - [ ] Je sais copier/coller ou couper/coller un texte.
+        - [ ] Je sais formater mes titres et mon corps de texte sur word.
+        - [ ] Je sais ce qu’est un interligne 1,5 et le mettre.			
+        - [ ] Je sais utiliser le micro pour dicter un texte.
+        - [ ] Je sais mettre un pied de page.			
+        - [ ] Je sais mettre un en-tête.
+        - [ ] Je sais mettre un numéro de page.
+        - [ ] Je sais où aller pour lire le texte que j’ai tapé sur Word.
+        - [ ] Je sais insérer une zone de texte.
 
 ## De Outlook
 - [ ] Je sais rédiger un mail (un objet clair, des formules de politesse, ...).
