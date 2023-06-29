@@ -73,23 +73,43 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
         - [ ] Je sais où aller pour lire le texte que j’ai tapé sur Word.
         - [ ] Je sais insérer une zone de texte.
 
-## De Outlook
-- [ ] Je sais rédiger un mail (un objet clair, des formules de politesse, ...).
-- [ ] Je sais envoyer un mail (un ou plusieurs destinataires principaux ou en copie).
-- [ ] Je sais envoyer un document en pièce jointe (le destinataire pourra facilement identifier le fichier joint par son nom).
-- [ ] Je sais enregistrer une pièce jointe reçue par mail.
-- [ ] Je sais déplacer le fichier (donc je sais où le retrouver).
-- [ ] Je sais le renommer.
-- [ ] Je sais compléter un fichier PDF.
+!!! tip "Note"
+    === "Activités :"
+    === "Bilan :"
+        - [ ] Je sais créer une nouvelle note
+        - [ ] Je sais créer un dossier de notes
+        - [ ] Je sais prendre un scan d'un document
+        - [ ] Je sais extraire un pdf à partir de scan de document
+        - [ ] Je sais insérer une image dans une note
+
+        
+## Mail 
+!!! tip  "Outlook"
+    === "Activités :"
+    === "Bilan :"
+        - [ ] Je sais rédiger un mail (un objet clair, des formules de politesse, ...).
+        - [ ] Je sais envoyer un mail (un ou plusieurs destinataires principaux ou en copie).
+        - [ ] Je sais envoyer un document en pièce jointe (le destinataire pourra facilement identifier le fichier joint par son nom).
+        - [ ] Je sais enregistrer une pièce jointe reçue par mail.
+        - [ ] Je sais déplacer le fichier (donc je sais où le retrouver).
+        - [ ] Je sais le renommer.
+        - [ ] Je sais compléter un fichier PDF.
 
 
-## De l'appareil photo
+## Médias
 
-- [ ] Je sais prendre une photo (dans le respect du droit à l'image).
-- [ ] Je sais écrire et modifier la photo.
-- [ ] Je sais l’enregistrer dans mes fichiers OneDrive.
+!!! tip  "Appareil photo"
+    === "Activités :"
+    === "Bilan :"
+        - [ ] Je sais prendre une photo (dans le respect du droit à l'image).
+        - [ ] Je sais écrire et modifier la photo.
+        - [ ] Je sais l’enregistrer dans mes fichiers OneDrive.
 
-
+!!! tip  "Vidéos"
+    === "Activités :"
+    === "Bilan :"
+        - [ ] 
+        
 
 
 
