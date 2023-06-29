@@ -42,7 +42,7 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
 
 !!! tip "One Drive "
     === "Activités :" 
-    ==== "Bilan :"
+    === "Bilan :"
         - [ ] Je créé des dossiers dans OneDrive (une matière = un dossier + un dossier STAGE).
         - [ ] Je sais ouvrir un document en partant du dossier source.
         - [ ] Je sais renommer ce document.
