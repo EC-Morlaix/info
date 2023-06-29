@@ -27,7 +27,11 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
     - [ ] OneDrive
     - [ ] EcoleDirecte
 
-
+- [ ] Je note que je pourrais charger d'autres applications à la maison :
+    - [ ] Excel
+    - [ ] PowerPoint
+    - [ ] Teams
+          
 ???+ tip "Pack Office"
     - [ ] J’ai compris que je peux aussi télécharger le pack office 365 (word, outlook, powerpoint, excel) sur cinq appareils numériques gratuitement grâce à mon adresse ecmorlaix. (ent.ecmorlaix.fr).
 
@@ -108,7 +112,8 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
 !!! tip  "Vidéos"
     === "Activités :"
     === "Bilan :"
-        - [ ] 
+        - [ ] Je sais utiliser les paramètres de l'appareil photo pour créer une vidéo.
+        - [ ] Je sais comment faire une vidéo capture d'écran.
         
 
 
