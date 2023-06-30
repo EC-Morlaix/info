@@ -15,7 +15,7 @@ Le label évalue les compétences sur les champs d'actions suivants :<br>
 ![Compétences](./images/Competences.png)
 
   
-L'ensemble du projet est consultable (adresse), cette page permet de donner les procédures adoptées en conseil numérique
+L'ensemble du projet est consultable [Projet Numérique]([https://example.com/](https://ecmorlaix-my.sharepoint.com/:w:/g/personal/delphine_nunez_ecmorlaix_fr/EdqqJrWTxZ5KgsBirrbtb7wBeIIwkNzd4K2p65_XZgB-AQ?e=yOkNRT) "Projet") , cette page permet de donner les procédures adoptées en conseil numérique
 
 ## Pilier technique
 
@@ -88,6 +88,6 @@ En cas de non-respect à la charte d'utilisation de l'IPAD, des sanctions pourro
 
 ### Formation Elève
 
-- Une formation pour les élèves de seconde. [prise en maine](./priseenmain.md) <br>
+- Une formation pour les élèves de seconde. [prise en main](./priseenmain.md) <br>
 
 
