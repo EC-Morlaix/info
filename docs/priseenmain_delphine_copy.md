@@ -39,10 +39,18 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
 - [ ] Je suis connectée avec mon adresse ecmorlaix sur les différentes applications (OneDrive, Word, PowerPoint, Excel, Teams).
 
+## Présentation de l'IPAD
+
+!!! tip "IPAD "
+    === "Activités :" 
+    === "Bilan :"
+        - [ ] J’ai trouvé où se trouvait le AirDrop.
+        - [ ] J’ai rangé les widgets d’application sur l’écran d’accueil de ma tablette.
+        - [ ] J'ai vu comment changer le wifi.
+        - [ ] Je sais paramétrer le Dock.
+        - [ ] Je sais partager mon écran pour afficher deux applications. 
 
 
-- [ ] J’ai trouvé où se trouvait le AirDrop.
-- [ ] J’ai rangé les widgets d’application sur l’écran d’accueil de ma tablette.
 
 ## Sauvegarde Cloud
 
