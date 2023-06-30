@@ -64,6 +64,16 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
         - [ ] Je sais partager ce document pour que la personne puisse le modifier.
         - [ ] Je sais créer une copie de ce document pour l’enregistrer dans un autre dossier.
 
+## Navigateur
+
+!!! tip "Safari "
+    === "Activités :" 
+    === "Bilan :"
+        - [ ] Je sais ouvrir Safari et faire une recherche.
+        - [ ] Je sais mettre une page en favori.
+        - [ ] Je sais mettre une page en raccourci écran.
+        - [ ] Je sais faire une recherche de mot clé sur une page.
+
 ## Traitement de Texte
 
 !!! tip "Word"
@@ -87,7 +97,9 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
         - [ ] Je sais où aller pour lire le texte que j’ai tapé sur Word.
         - [ ] Je sais insérer une zone de texte.
 
-!!! tip "Note"
+## Prise de Notes
+
+!!! tip "Notes"
     === "Activités :"
     === "Bilan :"
         - [ ] Je sais créer une nouvelle note
