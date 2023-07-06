@@ -95,15 +95,23 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
             === "Consigne profs :"
 
                 - **Créer** dans votre OneDrive un dossier nommé `Portraits` partagé en lecture avec les élèves de la classe ;
-                - y **placer** le fichier [`Portrait_chinois.docx`](../assets/OneDrive/Portrait_chinois.docx) à partager en écriture pour permettre aux élèves de le compléter ;
+                - y **placer** le fichier [`Portrait_chinois.docx`](../assets/OneDrive/Portrait_chinois.docx) à partager en écriture pour permettre aux élèves de le compléter en ligne ;
                 - **Organiser** la modification : _un élève par ligne dans l'ordre alphabétique de la classe_....
 
         ???+ example "4 - Cadavre Exquis :"
         
             === "Consigne élèves :"
-                ;
+
+                - Dans chaque groupe un premier élève récupère une copie du fichier `Cadavre_exquis.docx` partagé par votre professeur et le renomme au nom du groupe ;
+                - Ce premier élève complète la phrase "Il était une fois..." avec un premier groupe de mots ;
+                - Il transmet alors ce fichier modifier par AirDrop à son voisin dans le groupe qui réitère l'opération ;
+                - Et ainsi de suite... 
+                - Le dernier dépose dans le dossier `Cadavres_exquis` de la classe le fichier final modifié par chaque membre du groupe.
+
             === "Consigne profs :"
-                ;
+
+                - **Créer** dans votre OneDrive un dossier nommé `Cadavres_exquis` partagé en écriture avec les élèves de la classe et y **placer** le fichier [`Cadavre_exquis.docx`](../assets/OneDrive/Cadavre_exquis.docx) ;
+                - **Organiser** la complétion progressive et la circulation du document (un tour minimum) jusqu'à sa publication...
         
 
  
