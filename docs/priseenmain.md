@@ -56,15 +56,33 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
 !!! tip "One Drive "
     === "Activités :"
+        ???+ "1 - Créer des dossiers"
+            === "Consigne élèves :"
+                Depuis l'application `Fichiers` créer dans Onedrive :
+                    - Un dossier nommé `Vie_de_classe` contenant un sous-dossier nommé 'Stages' ;            
+                    - Un dossier nommé `Cours` contenant des sous-dossiers par matière ;
+            === "Consigne profs :"
+                Présenter une arborescence de dossiers OneDrive depuis l'application `Fichiers`
 
-        1. Créer un dossier dans Onedrive :
-            - Un dossier nommé `Vie_de_classe`
-            - contenant un sous-dossier nommé 'Stages'
-            - Un dossier nommé `Cours` ;
-            - contenant des sous-dossiers par matière ;
-        2. Enregistre le fichier `Convention.pdf` reçu par airdrop dans ce dossier stage et le renommer `Convention_Nom_Prenom.pdf`
-        3. Portrait chinois
-        4. Cadavre Exquis
+        ???+  "2 - Récupérer un fichier :"
+            === "Consigne élèves :"
+                Enregistrer le fichier `Convention.pdf` reçu par airdrop dans votre dossier stage et le renommer `Convention_Nom_Prenom.pdf`.
+            === "Consigne profs :"
+                Transmettre le fichier `Convention.pdf` par airdrop ;
+         
+        ???+  "3 - Portrait chinois :"
+        
+            === "Consigne élèves :"
+                ;
+            === "Consigne profs :"
+                ;
+
+        ???+  "4 - Cadavre Exquis :"
+        
+            === "Consigne élèves :"
+                ;
+            === "Consigne profs :"
+                ;
         
 
  
