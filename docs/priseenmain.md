@@ -67,20 +67,29 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
         ???+ example "2 - Récupérer un fichier :"
             === "Consigne élèves :"
-                **Enregistrer** dans votre dossier `Stages` le fichier `Convention.pdf` reçu par airdrop et le **renommer** `Convention_Nom_Prenom.pdf`, puis le **partager en lecture seule avec votre professeur principal.
+
+                - **Enregistrer** dans votre dossier `Stages` le fichier `Convention.pdf` reçu par airdrop ;
+                - le **renommer** `Convention_Nom_Prenom.pdf`;
+                - puis le **partager** en lecture seule avec votre professeur principal.
             === "Consigne profs :"
 
                 - **Transmettre** le fichier [`Convention.pdf`]() par AirDrop à chaque élèves de la classe ;
-                - **Présenter** le nommage et le partage de fichiers...
+                - **Présenter** le nommage et le partage de fichiers ;
+                - **Vérifier** le bon partage pour chaque élève.
          
-        ???+  "3 - Portrait chinois :"
+        ???+ example "3 - Portrait chinois :"
         
             === "Consigne élèves :"
-                ;
-            === "Consigne profs :"
-                **Créer** dans votre OneDrive un dossier nommé `Portraits_chinois` partagé en lecture avec les élèves de la classe et contenant le fichier partagé en écriture à compléter par les élèves ;
+                
+                - **Ouvrir** le document `Portrait_chinois.docx` partagé avec vous en écriture par votre professeur ;
+                - **Renseigner** tous les champs d'une ligne du tableau en respectant l'ordre alphabétique des noms de votre classe ; 
+                - **Enregistrer** dans le dossier `Vie_de_classe` de votre OneDrive personnel une copie du document complété après la synthèse collective...
 
-        ???+  "4 - Cadavre Exquis :"
+            === "Consigne profs :"
+
+                - **Créer** dans votre OneDrive un dossier nommé `Portraits` partagé en lecture avec les élèves de la classe et y **placer** le fichier [`Portrait_chinois.docx`](../assets/OneDrive/Portrait_chinois.docx) à partager en écriture pour permettre aux élèves de le compléter ; **Organiser** la modification : _un élève par ligne dans l'ordre alphabétique de la classe_....
+
+        ???+ example "4 - Cadavre Exquis :"
         
             === "Consigne élèves :"
                 ;
