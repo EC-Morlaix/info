@@ -56,26 +56,29 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
 !!! tip "One Drive "
     === "Activités :"
-        ???+ "1 - Créer des dossiers"
+        ???+ example "1 - Créer des dossiers"
             === "Consigne élèves :"
-                Depuis l'application `Fichiers` créer dans Onedrive :
-                    - Un dossier nommé `Vie_de_classe` contenant un sous-dossier nommé 'Stages' ;            
-                    - Un dossier nommé `Cours` contenant des sous-dossiers par matière ;
-            === "Consigne profs :"
-                Présenter une arborescence de dossiers OneDrive depuis l'application `Fichiers`
+                Depuis l'application `Fichiers`, **créer** dans Onedrive :
 
-        ???+  "2 - Récupérer un fichier :"
-            === "Consigne élèves :"
-                Enregistrer le fichier `Convention.pdf` reçu par airdrop dans votre dossier stage et le renommer `Convention_Nom_Prenom.pdf`.
+                - Un dossier nommé `Vie_de_classe` contenant un sous-dossier nommé `Stages` ;            
+                - Un dossier nommé `Cours` contenant des sous-dossiers par matière...
             === "Consigne profs :"
-                Transmettre le fichier `Convention.pdf` par airdrop ;
+                **Présenter** la création d'une arborescence de dossiers OneDrive depuis l'application `Fichiers`...
+
+        ???+ example "2 - Récupérer un fichier :"
+            === "Consigne élèves :"
+                **Enregistrer** dans votre dossier `Stages` le fichier `Convention.pdf` reçu par airdrop et le **renommer** `Convention_Nom_Prenom.pdf`, puis le **partager en lecture seule avec votre professeur principal.
+            === "Consigne profs :"
+
+                - **Transmettre** le fichier [`Convention.pdf`]() par AirDrop à chaque élèves de la classe ;
+                - **Présenter** le nommage et le partage de fichiers...
          
         ???+  "3 - Portrait chinois :"
         
             === "Consigne élèves :"
                 ;
             === "Consigne profs :"
-                ;
+                **Créer** dans votre OneDrive un dossier nommé `Portraits_chinois` partagé en lecture avec les élèves de la classe et contenant le fichier partagé en écriture à compléter par les élèves ;
 
         ???+  "4 - Cadavre Exquis :"
         
