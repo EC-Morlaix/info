@@ -56,21 +56,28 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
 !!! tip "One Drive "
     === "Activités :"
+
         ???+ example "1 - Créer des dossiers"
+
             === "Consigne élèves :"
+
                 Depuis l'application `Fichiers`, **créer** dans Onedrive :
 
                 - Un dossier nommé `Vie_de_classe` contenant un sous-dossier nommé `Stages` ;            
                 - Un dossier nommé `Cours` contenant des sous-dossiers par matière...
+
             === "Consigne profs :"
+
                 **Présenter** la création d'une arborescence de dossiers OneDrive depuis l'application `Fichiers`...
 
         ???+ example "2 - Récupérer un fichier :"
+
             === "Consigne élèves :"
 
                 - **Enregistrer** dans votre dossier `Stages` le fichier `Convention.pdf` reçu par airdrop ;
                 - le **renommer** `Convention_Nom_Prenom.pdf`;
                 - puis le **partager** en lecture seule avec votre professeur principal.
+
             === "Consigne profs :"
 
                 - **Transmettre** le fichier [`Convention.pdf`]() par AirDrop à chaque élèves de la classe ;
@@ -87,7 +94,9 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
             === "Consigne profs :"
 
-                - **Créer** dans votre OneDrive un dossier nommé `Portraits` partagé en lecture avec les élèves de la classe et y **placer** le fichier [`Portrait_chinois.docx`](../assets/OneDrive/Portrait_chinois.docx) à partager en écriture pour permettre aux élèves de le compléter ; **Organiser** la modification : _un élève par ligne dans l'ordre alphabétique de la classe_....
+                - **Créer** dans votre OneDrive un dossier nommé `Portraits` partagé en lecture avec les élèves de la classe ;
+                - y **placer** le fichier [`Portrait_chinois.docx`](../assets/OneDrive/Portrait_chinois.docx) à partager en écriture pour permettre aux élèves de le compléter ;
+                - **Organiser** la modification : _un élève par ligne dans l'ordre alphabétique de la classe_....
 
         ???+ example "4 - Cadavre Exquis :"
         
