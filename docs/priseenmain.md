@@ -144,7 +144,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
                 1. **Consulter** le document source : photo ci-contre
                 
-                ![Document rendu final](./images/Document rendu final.png){align=right width=45%}
+                ![Document rendu final](../images/Document rendu final.png){align=right width=45%}
                 
                 2. Depuis l'application `Word`, **ouvrir** une page blanche
                 3. **Enregistrer** le document sur votre ipad dans « Sur mon IPad » sous le nom « Atelier traitement de texte »
