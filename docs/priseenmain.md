@@ -139,23 +139,27 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
     === "Activités :"
     === "Bilan :"
         - [ ] Je sais ouvrir une page blanche sur Word.
-        - [ ] Je sais enregistrer ce document Word dans mon dossier OneDrive.
-        - [ ] Je sais enregistrer ce document Word dans un dossier OneDrive partagé.
-        - [ ] Je sais justifier un texte sur word/open office
-        - [ ] Je sais modifier la police, la taille et le style de police.
-        - [ ] Je sais enregistrer un document sur l’ordinateur/ Tablette
-        - [ ] Je sais insérer une image dans un fichier word et modifier le format du texte autour.
-        - [ ] Je sais enregistrer ce fichier en PDF.			
-        - [ ] Je sais copier/coller ou couper/coller un texte.
-        - [ ] Je sais formater mes titres et mon corps de texte sur word.
-        - [ ] Je sais ce qu’est un interligne 1,5 et le mettre.			
-        - [ ] Je sais utiliser le micro pour dicter un texte.
+        - [ ] Je sais enregistrer ce document Word sur mon Ipad.
+        - [ ] Je sais enregistrer ce document Word  en le renommant dans mon dossier OneDrive.
+        - [ ] Je sais copier/coller un texte.
         - [ ] Je sais mettre un pied de page.			
         - [ ] Je sais mettre un en-tête.
-        - [ ] Je sais mettre un numéro de page.
-        - [ ] Je sais où aller pour lire le texte que j’ai tapé sur Word.
+        - [ ] Je sais mettre en gras.
+        - [ ] Je sais mettre un numéro de page de manière automatique.
+        - [ ] Je sais ce qu’est un interligne 1,5 et le mettre.	
+        - [ ] Je sais justifier un texte sur word/open office
+        - [ ] Je sais modifier la police, la taille et le style de police.
+        - [ ] Je sais faire et enregistrer une capture d'écran
+        - [ ] Je sais utiliser les numérotations automatique.
+        - [ ] Je sais insérer une photo dans un fichier word.
+        - [ ] Je sais modifier l'habillage de l'image en permettant le texte autour.
         - [ ] Je sais insérer une zone de texte.
-
+        - [ ] Je sais utiliser l'outil dessin dans un fichier Word.
+        - [ ] Je sais dicter à ma tablette pour rédiger un paragraphe.
+        - [ ] Je sais surligner un texte.
+        - [ ] Je sais exporter ce fichier en PDF.			
+        - [ ] Je sais utiliser le lecteur immersif.
+     
 ## Prise de Notes
 
 !!! tip "Notes"
