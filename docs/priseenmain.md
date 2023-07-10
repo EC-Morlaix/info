@@ -137,6 +137,47 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
 !!! tip "Word"
     === "Activités :"
+    
+        ???+ example "1 - Reproduire la mise en page d'un document"
+
+            === "Consigne élèves :"
+
+                1. **Consulter** le document source : ici
+                2. Depuis l'application `Word`, **ouvrir** une page blanche
+                3. **Enregistrer** le document sur votre ipad dans « Sur mon IPad » sous le nom « Atelier traitement de texte »
+                4. **Copier-coller** le texte suivant : 
+                *Responsabilité de l’élève L’élève s’engage à̀ : Respecter le règlement intérieur du lycée. Utiliser les appareils de manière responsable et éthique.  Utiliser toutes les ressources technologiques de manière appropriée afin de ne pas endommager les équipements de l’ensemble scolaire. Aider l’établissement à protéger les systèmes et équipements informatiques en contactant le service informatique pour tout problème de sécurité. Surveiller et protéger l’appareil et l’accès à ses données personnels (mots de passe appropriés) ; Ne prêter sa tablette à personne. Ne pas modifier la configuration initiale de l’iPad (profil, …). Activités strictement interdites aux élèves Sans être exhaustive, voici la liste de ce qui est interdit lors de l’usage de l’iPad : Toute infraction à la charte d’utilisation et aux lois en vigueur.*
+                5. **Double-cliquer** en haut du document pour accéder à l’en-tête 
+                6. **Écrire** le texte « Charte d’utilisation de la tablette » en majuscule
+                7. Mettre la phrase en **gras**
+                8. Se rendre en bas du document
+                9. **Écrire** le texte « Établissement Catholiques Associés des pays de MORLAIX »
+                10. **Insérer** le numéro de page : Insérer —> Feuille avec le # —> Cliquer sur « Inclure le nombre de page » —> Sélectionner en bas à droite
+                11. **Sélectionner** le texte brut et mettre une interligne de 1,5 pts
+                12. **Remettre** les titres 1 et 2 en forme :
+                        a. Couleur : au choix
+                        b. Taille : 16
+                        c. Police : Times New Roman
+                        d. Numérotation à mettre automatiquement 
+                13. **Formater** le corps de texte 
+                        a. Justifier le texte
+                        b. Mettre des puces pour chaque engagement
+                14. Prendre une *capture d’écran* de l’écran d’accueil
+                15. **Enregistrer** la capture dans les photos
+                16. **Insérer** cette photo dans le fichier Word
+                17. **Modifier** l’habillage de l’image « Renvoi à la ligne automatique » en cliquant sur « Rapproché »
+                18. **Insérer** une zone de texte en bas à droite
+                19. Y **écrire** votre nom, votre prénom et « lu et approuvé »
+                20. **Signer** à l’aide du crayon dans Dessin
+                21. **Dicter** à votre tablette la date, le lieu et l’heure de la rédaction du document
+                22. **Surligner** le texte préalablement dicté
+                23. **Enregistrer** votre document dans un dossier OneDrive
+                24. **Exporter** le document au format PDF
+
+            === "Consigne profs :"
+
+                **Présenter** les outils de mise en page et de correction disponibles sur `Word`...
+                
     === "Bilan :"
         - [ ] Je sais ouvrir une page blanche sur Word.
         - [ ] Je sais enregistrer ce document Word sur mon Ipad.
