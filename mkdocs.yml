@@ -2,7 +2,7 @@
 
 # Informations du site 
 site_name: EC@M ressources info
-site_description: Site de ressources en informatique pour l'ENT de l'ensemble scolaire EC@M
+site_description: Site de ressources de l'ensemble scolaire EC@M
 site_author: "Jocelyne COZ, Eric MADEC, Delphine NUNEZ, Patrice BELLOUR" 
 copyright: Document partagé par <a href="https://github.com/EC-Morlaix/info" target="_blank">EC@Morlaix</a> &copy; 2022 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a> <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
 site_url: https://EC-Morlaix.github.io/info #  modifier au format https://votrePseudoGitHub.github.io/votreDepot/
@@ -18,15 +18,19 @@ docs_dir: docs
 
 # Menu de navigation
 nav: 
-    - Page d'accueil : index.md
-    - Actualités : actualites.md
-    - La réglementation : reglementation.md
-    - Prise en main : priseenmain.md
-    - Les indispensables : indispensables.md
-    - Les spéciales enseignants : prof.md
-    - Projet Numérique : projetnum.md
-    - Tutoriel : tuto.md
-    - Sobriété : sobre.md
+- Accueil : index.md
+- Documents administratifs pour les enseignants et personnels : adminprofs.md
+- Documents administratifs pour les élèves : admineleves.md
+- Numérique :
+    Page d'accueil : numindex.md
+    Actualités : actualites.md
+    La réglementation : reglementation.md
+    Prise en main : priseenmain.md
+    Les indispensables : indispensables.md
+    Les spéciales enseignants : prof.md
+    Projet Numérique : projetnum.md
+    Tutoriel : tuto.md
+    Sobriété : sobre.md
     
 
     # Référencer vos autres pages ci-dessus...
