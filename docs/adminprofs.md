@@ -8,7 +8,7 @@
 - D.D.F.P.T : Jean-Marie POULIQUEN
 - Assistante de direction : Anne ROHOU
 - Accueil : Nathalie ONDO-ODDOU
-- Comptabilité :
+- Service Comptabilité :
      - Céline BRELIVET
      - Christina BELLEC
      - Doriane DOUARIN
@@ -16,5 +16,11 @@
      - Patrice BELLOUR
      - Aurélien BIGOIS
 
+- Coordinatrice Lycée Professionnel -  Secteur Santé - Social : Marie MANSON-CHABEAUTI
+- Coordinatrice Lycée Professionnel -  Secteur Vente : Cécile CHESNOT
+
+- Coordinateur Lycée Général et Technologique - Niveau Seconde : Mathieu MARCHADOUR
+- Coordinatrice Lycée Général et Technologique - Niveau Première et Terminale : Delphine NUNEZ
+- Coordinateur Lycée Général et Technologique - Orientation : Fabien QUINIO
 
   
