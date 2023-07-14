@@ -19,7 +19,14 @@
 - Service Informatique :
      - Patrice BELLOUR
      - Aurélien BIGOIS
-
+ - Service de Vie Scolaire
+     - Patricia HAIRIE
+     - Anais BOUGUYON
+     - Virginie COIGNET
+     - Maryline ROCHER
+     - Thierry LECLERCQ
+     - Tiphanie CURT
+        
 ### Coordinateurs 
 
 - Coordinatrice Lycée Professionnel -  Secteur Santé - Social : Marie MANSON-CHABEAUTI
