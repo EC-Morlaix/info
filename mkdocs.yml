@@ -1,7 +1,7 @@
 # Fichier de configuration du site à personnaliser
 
 # Informations du site 
-site_name: EC@M ressources info
+site_name: EC@M ressources
 site_description: Site de ressources de l'ensemble scolaire EC@M
 site_author: "Jocelyne COZ, Eric MADEC, Delphine NUNEZ, Patrice BELLOUR" 
 copyright: Document partagé par <a href="https://github.com/EC-Morlaix/info" target="_blank">EC@Morlaix</a> &copy; 2022 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a> <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
