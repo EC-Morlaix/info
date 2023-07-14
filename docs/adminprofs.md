@@ -33,7 +33,7 @@
 - Coordinatrice Lycée Professionnel -  Secteur Vente : Cécile CHESNOT
 
 - Coordinateur Lycée Général et Technologique - Niveau Seconde : Mathieu MARCHADOUR
-- Coordinatrice Lycée Général et Technologique - Niveau Première et Terminale : Delphine NUNEZ
+- Coordinatrice Lycée Général et Technologique - Niveaux Première et Terminale : Delphine NUNEZ
 - Coordinateur Lycée Général et Technologique - Orientation : Fabien QUINIO
 
 ### Professeurs principaux  
