@@ -19,7 +19,11 @@ docs_dir: docs
 # Menu de navigation
 nav: 
 - Accueil : index.md
-- Documents administratifs pour les enseignants et personnels : adminprofs.md
+- Documents administratifs pour les enseignants et personnels : 
+    Organistion : adminprofs.md
+    Documents Ressources : docressources.md
+    Lycée Pofessionnel : lyceepro.md
+    Lycée Général et Technologique : lyceelgt.md
 - Documents administratifs pour les élèves : admineleves.md
 - Numérique :
     Page d'accueil : numindex.md
