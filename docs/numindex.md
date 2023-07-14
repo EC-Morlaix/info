@@ -1,4 +1,4 @@
-# Page d'accueil
+# Page d'accueil Numérique
 
 [![logo ECAM](./images/logo_ecam.jpg "ENT Lycée"){width=30% align=left}](https://ent.ecmorlaix.fr/){target=_blank}
 
