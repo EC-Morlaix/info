@@ -127,11 +127,28 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
 !!! tip "Safari "
     === "Activités :" 
+        1. Ouvrir Safari
+        2. Faire une recherche sur les programmes du théâtre de Morlaix.
+            a. Chercher la date et l'heure d'une représentation en octobre
+            b. Faire une recherche sur la page ![recherche](./images/recherchepage.jpg)
+        3. Ouvrir un nouvel onglet
+        4. Mettre une page en favori.
+        5. Classer les favoris
+            a. Créer des dossiers de favoris
+            b. Renommer les dossiers
+        6.Mettre une page sur l'écran d'accueil
+        7. Créer un dossier regroupant les pages web enregistrées. 
+        8. Envoyer un lien vers une page web
+        9. Envoyer une page via AirDrop
+        10. Créer un lien Hypertexte dans un éditeur ou traitement de texte  
+        [Théatre](https://www.theatre-du-pays-de-morlaix.fr/)
+        
     === "Bilan :"
         - [ ] Je sais ouvrir Safari et faire une recherche.
         - [ ] Je sais mettre une page en favori.
-        - [ ] Je sais mettre une page en raccourci écran.
         - [ ] Je sais faire une recherche de mot clé sur une page.
+        - [ ] Je sais mettre une page en raccourci écran.
+        - [ ] Je sais organiser mes pages web enregistrées (en favori ou sur l'IPAD).
 
 ## Traitement de Texte
 
@@ -207,7 +224,18 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 ## Prise de Notes
 
 !!! tip "Notes"
+    === "Remarque"
+        L'application Notes doit être utilisée en cahier de brouillon, pour rendre un travail ou le partager, privilégier les traitements de texte (Word, Pages,...)
     === "Activités :"
+        1. Créer un dossier par matière + 1 dossier administration + 1 dossier formation IPAD
+        2. Dans le dossier "formation IPAD", créer une nouvelle note
+        3. Tester la prise de notes : titre, copie d'un texte, mise en page, image, date...
+        4. Scanner un document
+        5. Créer un pdf à partir de ses scans
+        6. Organiser les pages pour changer l'ordre
+        7. Renommer le pdf
+        8. Enregistrer le pdf dans OneDrive 
+        9. Partager le pdf (mail, AirDrop, OneDrive)
     === "Bilan :"
         - [ ] Je sais créer une nouvelle note
         - [ ] Je sais créer un dossier de notes
