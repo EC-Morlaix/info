@@ -129,8 +129,8 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
     === "Activités :" 
         1. Ouvrir Safari
         2. Faire une recherche sur les programmes du théâtre de Morlaix.
-            a. Chercher la date et l'heure d'une représentation en octobre
-            b. Faire une recherche sur la page ![recherche](./images/recherchepage.jpg)
+            - Chercher la date et l'heure d'une représentation en octobre
+            - Faire une recherche sur la page
         3. Ouvrir un nouvel onglet
         4. Mettre une page en favori.
         5. Classer les favoris
