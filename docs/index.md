@@ -32,19 +32,19 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 !!! attention "CDI/PMB - Sites et Bases documentaires des CDI de nos établissements"
     === "Site Web du lycée"
         Actualités du CDI, ressources pédagogiques, parcours éducatif  
-        [se connecter](https://cdi-lycee.ecmorlaix.fr/){:target="_blank"}  
+        <center>[se connecter](https://cdi-lycee.ecmorlaix.fr/){:target="_blank"}</center>  
     === "PMB - Lycée"
-        Base Documentaire du CDI du Lycée Nd du Mur - Le Porsmeur
-        [Se connecter](https://ecmorlaix.basecdi.fr/pmb/opac_css/){:target="_blank"}  
+        Base Documentaire du CDI du Lycée Nd du Mur - Le Porsmeur  
+        <center>[Se connecter](https://ecmorlaix.basecdi.fr/pmb/opac_css/){:target="_blank"}</center>  
     === "PMB- Saint Augustin"
-        Base Documentaire du CDI du Collège Saint Augustin
-        [Se connecter](https://staugustin-morlaix.basecdi.fr/pmb/opac_css/){:target="_blank"}  
+        Base Documentaire du CDI du Collège Saint Augustin  
+        <center>[Se connecter](https://staugustin-morlaix.basecdi.fr/pmb/opac_css/){:target="_blank"}</center>  
     === "PMB- Saint Joseph"
-        Base Documentaire du CDI du Collège Saint Joseph
-        [Se connecter](https://stjosephmorlaix.basecdi.fr/pmb/opac_css/){:target="_blank"} 
+        Base Documentaire du CDI du Collège Saint Joseph  
+        <center>[Se connecter](https://stjosephmorlaix.basecdi.fr/pmb/opac_css/){:target="_blank"}</center>  
     === "PMB- Sainte Marie"
-        Base Documentaire du CDI du Collège Sainte Marie
-        [Se connecter](lien à revoir){:target="_blank"} 
+        Base Documentaire du CDI du Collège Sainte Marie  
+        <center>[Se connecter](lien à revoir){:target="_blank"} </center>  
 
         
 ### [Evaluation et Certification](./evalcertif.md)
