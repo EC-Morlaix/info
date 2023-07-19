@@ -14,12 +14,13 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
     ![office](./images/ent/rappel.svg){height="100px" width="100px"} [Office 365](https://www.office.com/){:target="_blank"}  
 
 !!! attention "Mon Espace Apple Education (Documents, Photos,..)"
-    [ICloud](https://www.icloud.com/){:target="_blank"}  
+    ![icloud](./images/ent/cloud.svg){height="100px" width="100px"}[ICloud](https://www.icloud.com/){:target="_blank"}  
 
 !!! attention "Logiciel de Modélisation"
     [Sketchup](https://edu.sketchup.com/app){:target="_blank"}  
 
 !!! attention "Manuels numériques mises à disposition par les éditeurs"
+    ![manuels](./images/ent/manuels.svg){height="100px" width="100px"}
     === "Le Livre Scolaire"
         [LSL](https://www.lelivrescolaire.fr/){:target="_blank"}  
     
