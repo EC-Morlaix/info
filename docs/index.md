@@ -4,18 +4,18 @@
 ## Bonjour
 Bienvenue sur l'E.N.T. du groupe ECA.M ...
 
-### [Effectuer une recherche sur internet](https://www.ecosia.org/?c=fr)  
+### [Effectuer une recherche sur internet](https://www.ecosia.org/?c=fr){:target="_blank"}  
 
 ### Accéder aux applications
 
 !!! attention "Mon Espace Ecole directe (EDT, Cahier de texte, Cahier de correspondance, Notes,...)"
-    [Ecole Directe](https://www.ecoledirecte.com/)  
+    [Ecole Directe](https://www.ecoledirecte.com/){:target="_blank"}  
 
 !!! attention "Mon espace Microsoft Education (Messagerie, Documents, Logiciels Office,..)"
-    [Office 365](https://www.office.com/)  
+    [Office 365](https://www.office.com/){:target="_blank"}  
 
 !!! attention "Mon Espace Apple Education (Documents, Photos,..)"
-    [ICloud](https://www.icloud.com/)  
+    [ICloud](https://www.icloud.com/){:target="_blank"}  
 
 ### [Evaluation et Certification](./evalcertif.md)
 
