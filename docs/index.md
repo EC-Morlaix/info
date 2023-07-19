@@ -9,13 +9,13 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 ### Accéder aux applications
 
 !!! attention "Mon Espace Ecole directe (EDT, Cahier de texte, Cahier de correspondance, Notes,...)"
-    [Ecole Directe](https://www.ecoledirecte.com/)
+    [Ecole Directe](https://www.ecoledirecte.com/)  
 
 !!! attention "Mon espace Microsoft Education (Messagerie, Documents, Logiciels Office,..)"
-    [Office 365](https://www.office.com/)
+    [Office 365](https://www.office.com/)  
 
 !!! attention "Mon Espace Apple Education (Documents, Photos,..)"
-    [ICloud](https://www.icloud.com/)
+    [ICloud](https://www.icloud.com/)  
 
 ### [Evaluation et Certification](./evalcertif.md)
 
