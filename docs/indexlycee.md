@@ -1,7 +1,7 @@
 # Page d'accueil
 
 
-<center>[![logo ECAM](./images/logo_ecam.jpg "ENT Lycée"){width=30% align=left}](https://ent.ecmorlaix.fr/)</center>  
+<center>[![logo ECAM](./images/logo_ecam.jpg "ENT Lycée")](https://ent.ecmorlaix.fr/)</center>  
 
 Ce site permet de regrouper l'ensemble des documents ressources pour les lycée du groupe ECA.M. 
 <br>
