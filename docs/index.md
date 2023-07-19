@@ -29,7 +29,24 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 
     === "Sésamaths"
         [Manuels](https://manuel.sesamath.net/){:target="_blank"}  
+!!! attention "CDI/PMB - Sites et Bases documentaires des CDI de nos établissements"
+    === "Site Web du lycée"
+        Actualités du CDI, ressources pédagogiques, parcours éducatif  
+        [se connecter](https://cdi-lycee.ecmorlaix.fr/){:target="_blank"}  
+    === "PMB - Lycée"
+        Base Documentaire du CDI du Lycée Nd du Mur - Le Porsmeur
+        [Se connecter](https://ecmorlaix.basecdi.fr/pmb/opac_css/){:target="_blank"}  
+    === "PMB- Saint Augustin"
+        Base Documentaire du CDI du Collège Saint Augustin
+        [Se connecter](https://staugustin-morlaix.basecdi.fr/pmb/opac_css/){:target="_blank"}  
+    === "PMB- Saint Joseph"
+        Base Documentaire du CDI du Collège Saint Joseph
+        [Se connecter](https://stjosephmorlaix.basecdi.fr/pmb/opac_css/){:target="_blank"} 
+    === "PMB- Sainte Marie"
+        Base Documentaire du CDI du Collège Sainte Marie
+        [Se connecter](lien à revoir){:target="_blank"} 
 
+        
 ### [Evaluation et Certification](./evalcertif.md)
 
 ### [Ressources Lycée](./indexlycee.md)
