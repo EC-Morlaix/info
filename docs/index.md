@@ -9,7 +9,7 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 ### Accéder aux applications
 
 !!! attention "Mon Espace Ecole directe (EDT, Cahier de texte, Cahier de correspondance, Notes,...)"
-    ![educ](./images/ent/education.svg){height="100px" width="100px"} [Ecole Directe]{https://www.ecoledirecte.com/"}{:target="_blank"}  
+    ![educ](./images/ent/education.svg){height="100px" width="100px"} [Ecole Directe]{https://www.ecoledirecte.com/}{:target="_blank"}  
 !!! attention "Mon espace Microsoft Education (Messagerie, Documents, Logiciels Office,..)"
     ![office](./images/ent/rappel.svg){height="100px" width="100px"} [Office 365](https://www.office.com/){:target="_blank"}  
 
