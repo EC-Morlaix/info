@@ -20,8 +20,9 @@ docs_dir: docs
 nav: 
 - ENT ECA.M : index.md    
 - Lycée : indexlycee.md
-    Documents administratifs pour les enseignants et personnels : 
-        Organistion : adminprofs.md
+<!--
+- Documents administratifs pour les enseignants et personnels : 
+     Organistion : adminprofs.md
         Documents Ressources : docressources.md
         Lycée Pofessionnel : lyceepro.md
         Lycée Général et Technologique : lyceelgt.md
@@ -36,7 +37,7 @@ nav:
         Projet Numérique : projetnum.md
         Tutoriel : tuto.md
         Sobriété : sobre.md
-    
+-->
 
     # Référencer vos autres pages ci-dessus...
 
