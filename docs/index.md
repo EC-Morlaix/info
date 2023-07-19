@@ -47,6 +47,7 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 
         
 ## Evaluation et Certification
+![certifications](./images/ent/certificat.svg){height="100px" width="100px"}  
 !!! attention "Direction de l'évaluation, de la prospective et de la performance"
     [Depp](https://eval.depp.taocloud.fr/){:target="_blank"}  
 !!! attention " Evaluation et certification des compétences numériques"
