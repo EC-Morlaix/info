@@ -1,12 +1,11 @@
 # E.N.T - ECA.M
 ![ENT](./images/accueilENT.png)
 
-## Bonjour
 Bienvenue sur l'E.N.T. du groupe ECA.M ...
 
-### [Effectuer une recherche sur internet](https://www.ecosia.org/?c=fr){:target="_blank"}  
+## [Effectuer une recherche sur internet](https://www.ecosia.org/?c=fr){:target="_blank"}  
 
-### Accéder aux applications
+## Accéder aux applications
 
 !!! attention "Mon Espace Ecole directe (EDT, Cahier de texte, Cahier de correspondance, Notes,...)"
     ![educ](./images/ent/education.svg){height="100px" width="100px"} [Ecole Directe](https://www.ecoledirecte.com/){:target="_blank"}  
@@ -47,7 +46,7 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
         <center>[Se connecter](lien à revoir){:target="_blank"} </center>  
 
         
-### Evaluation et Certification
+## Evaluation et Certification
 !!! attention "Direction de l'évaluation, de la prospective et de la performance"
     [Depp](https://eval.depp.taocloud.fr/){:target="_blank"}  
 !!! attention " Evaluation et certification des compétences numériques"
@@ -55,11 +54,11 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 !!! attention "Test de positionnement en anglais - Niveau Collège"
     [Ev@lang](https://evalangcollege.fr/){:target="_blank"}  
 
-### Ressources Lycée
+## Ressources Lycée
 Ensemble des ressources pour les enseignants, le personnel et les élèves du lycée  
 [Se connecter](./indexlycee.md)
 
-### Besoin d'assistance ?
+## Besoin d'assistance ?
 
 :white_check_mark: Vous êtes élève ou parent d'élève.  
 Envoyez-nous un email : [assistance@emcorlaix.fr](mailto:assistance@ecmorlaix.fr)  
