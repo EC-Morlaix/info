@@ -5,6 +5,6 @@
 Ce site permet de regrouper l'ensemble des documents ressources du groupe ECAM. 
 <br>
 
-- Documents administratifs pour les enseignants et personnels 
-- Documents administratifs pour les élèves
-- Numérique au lycée
+## Documents administratifs pour les enseignants et personnels 
+## Documents administratifs pour les élèves
+## Numérique au lycée
