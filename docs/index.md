@@ -7,7 +7,8 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 ### [Effectuer une recherche sur internet](https://www.ecosia.org/?c=fr)  
 
 ### Accéder aux applications
-!!! Mon Espace Ecole directe ( EDT, Cahier de texte, Cahier de correspondance, Notes,...)
+
+!!! attention "Mon Espace Ecole directe ( EDT, Cahier de texte, Cahier de correspondance, Notes,...)"
     [Ecole Directe](https://www.ecoledirecte.com/)
 
 ### [Evaluation et Certification](./evalcertif.md)
