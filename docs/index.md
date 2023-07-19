@@ -55,7 +55,9 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 !!! attention "Test de positionnement en anglais - Niveau Collège"
     [Ev@lang](https://evalangcollege.fr/){:target="_blank"}  
 
-### [Ressources Lycée](./indexlycee.md)
+### Ressources Lycée
+Ensemble des ressources pour les enseignants, le personnel et les élèves du lycée
+[Se connecter](./indexlycee.md)
 
 ### [Besoin d'assistance ?](assistance.md)
 
