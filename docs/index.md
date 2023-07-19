@@ -8,8 +8,9 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 
 # [Accéder aux applications](./liensappli.md)
 
-
 # [Evaluation et Certification](./evalcertif.md)
+
+# [Ressources Lycée](./indexlycee.md)
 
 # [Besoin d'assistance ?](assistance.md)
 
