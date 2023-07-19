@@ -17,6 +17,19 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 !!! attention "Mon Espace Apple Education (Documents, Photos,..)"
     [ICloud](https://www.icloud.com/){:target="_blank"}  
 
+!!! attention "Logiciel de Modélisation"
+    [Sketchup](https://edu.sketchup.com/app){:target="_blank"}  
+
+!!! attention "Manuels numériques mises à disposition par les éditeurs"
+    === "Le Livre Scolaire"
+        [LSL](https://www.lelivrescolaire.fr/){:target="_blank"}  
+    
+    === "Belin Education"
+        [Belin](https://www.belin-education.com/travailler-a-la-maison){:target="_blank"}  
+
+    === "Sésamaths"
+        [Manuels](https://manuel.sesamath.net/){:target="_blank"}  
+
 ### [Evaluation et Certification](./evalcertif.md)
 
 ### [Ressources Lycée](./indexlycee.md)
