@@ -59,5 +59,10 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 Ensemble des ressources pour les enseignants, le personnel et les élèves du lycée  
 [Se connecter](./indexlycee.md)
 
-### [Besoin d'assistance ?](assistance.md)
+### Besoin d'assistance ?
 
+:white_check_mark: Vous êtes élève ou parent d'élève.  
+Envoyez-nous un email : assistance@ecmorlaix.fr  
+
+:white_check_mark: Vous êtes enseignant ou personnel.  
+Connectez-vous sur l'application GLPI
