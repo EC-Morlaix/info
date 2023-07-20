@@ -56,6 +56,7 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
     [Ev@lang](https://evalangcollege.fr/){:target="_blank"}  
 
 ## Ressources Lycée
+![ressources](./images/ent/ressources.svg){height="100px" width="100px"}  
 Ensemble des ressources pour les enseignants, le personnel et les élèves du lycée  
 [Se connecter](./indexlycee.md)
 
