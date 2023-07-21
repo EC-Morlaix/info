@@ -5,9 +5,9 @@
 Ce site permet de regrouper l'ensemble des documents ressources pour les lycées du groupe ECA.M. 
 <br>
 
-## Documents administratifs pour les enseignants et personnels 
+- Documents administratifs pour les enseignants et personnels 
 
-## Documents administratifs pour les élèves
+- Documents administratifs pour les élèves
 
-## Numérique au lycée
+- Le projet Numérique du lycée
 
