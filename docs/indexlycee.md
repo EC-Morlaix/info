@@ -1,8 +1,7 @@
 # Ressources Lycées Notre Dame du Mur - Le Porsmeur
 
 
-<center>[![logo ECAM](./images/logo_ecam.jpg "ENT Lycée")](https://ent.ecmorlaix.fr/)</center>  
-
+![logo ECAM](./images/logo_ecam.jpg "ENT Lycée"){align=center width=45%}
 Ce site permet de regrouper l'ensemble des documents ressources pour les lycée du groupe ECA.M. 
 <br>
 
