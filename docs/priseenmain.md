@@ -224,7 +224,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 ## Prise de Notes
 
 !!! tip "Notes"
-    === "Remarque"
+    === "Remarque :"
         L'application Notes doit être utilisée en cahier de brouillon, pour rendre un travail ou le partager, privilégier les traitements de texte (Word, Pages,...)
     === "Activités :"
         1. Créer un dossier par matière + 1 dossier administration + 1 dossier formation IPAD
