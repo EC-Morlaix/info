@@ -18,16 +18,16 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 !!! attention "Logiciel de Modélisation"
     [Sketchup](https://edu.sketchup.com/app){:target="_blank"}  
 
-!!! attention "Manuels numériques mises à disposition par les éditeurs"
+!!! attention "Ressources pédagogiques"
     ![manuels](./images/ent/manuels.svg){height="100px" width="100px"}
     === "Le Livre Scolaire"
         [LSL](https://www.lelivrescolaire.fr/){:target="_blank"}  
-    
-    === "Belin Education"
-        [Belin](https://www.belin-education.com/travailler-a-la-maison){:target="_blank"}  
-
     === "Sésamaths"
         [Manuels](https://manuel.sesamath.net/){:target="_blank"}  
+    === "Sites Delphine NUNEZ"
+        [SNT - 2nde](https://dnunez-gua.github.io/SNT/){:target="_blank"}  
+        [Spécialité Maths Terminales](https://dnunez-gua.github.io/Maths_Terminales/){:target="_blank"}  
+        
 !!! attention "CDI/PMB - Sites et Bases documentaires des CDI de nos établissements"
     === "Site Web du lycée"
         Actualités du CDI, ressources pédagogiques, parcours éducatif  
