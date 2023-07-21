@@ -263,9 +263,9 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
     === "Activités :"
         1. Prendre une photo d'un manuel scolaire ou d'un document en votre possession
         2. Rogner les contour de la photo grace à l'outil ![rogner](./images/priseenmain/rogner.jpg){height="50px" width="50px"} 
-        3. Tracer un cercle avec la fonctionnalité "annotation" ![note](./images/priseenmain/annoter.png){height="100px" width="100px"} 
-        4. Sélectionner la couleur verte ainsi que la forme du stylo puis tracer le cercle.![palette](./images/priseenmain/palette.png){height="100px" width="100px"} 
-        5. Renommer la photo en l'identifiant et en ajoutant son prénom ![nom](./images/priseenmain/info.jpeg){height="100px" width="100px"} 
+        3. Tracer un cercle avec la fonctionnalité "annotation" ![note](./images/priseenmain/annoter.png){height="50px" width="50px"}  
+        4. Sélectionner la couleur verte ainsi que la forme du stylo puis tracer le cercle.![palette](./images/priseenmain/palette.png){height="50px" width="50px"} 
+        5. Renommer la photo en l'identifiant et en ajoutant son prénom ![nom](./images/priseenmain/info.jpeg){height="50px" width="50px"} 
     === "Bilan :"
         - [ ] Je sais prendre une photo (dans le respect du droit à l'image).
         - [ ] Je sais écrire et modifier la photo.
