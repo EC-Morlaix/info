@@ -36,8 +36,8 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
           
 ???+ tip "Pack Office"
     - [ ] J’ai compris que je peux aussi télécharger le pack office 365 (word, outlook, powerpoint, excel) sur cinq appareils numériques gratuitement grâce à mon adresse ecmorlaix. (ent.ecmorlaix.fr).
-
-- [ ] Je suis connecté avec mon adresse ecmorlaix sur les différentes applications (OneDrive, Word, PowerPoint, Excel, Teams).
+    - [ ] Je suis connecté avec mon adresse ecmorlaix sur les différentes applications (OneDrive, Word, PowerPoint, Excel, Teams).
+         
 ???+ tip "Ecole Directe"
     - [ ] Je suis connecté sur Ecole Directe avec mon identifiant et mot de passe temporaire
     - [ ] Je dois modifier les paramètres d'école directe, je retiens mon identifiant et mot de passe.
