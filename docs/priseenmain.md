@@ -2,7 +2,7 @@
 
 ## Le suivi des compétences
 
-A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre enseignant en cliquant sur le carré avec la flèche qui va vers le haut ![Icone partage](./images/partager-message.jpg){width=10% align=left} puis "annoter". Cela génère un PDF que vous pouvez envoyer à votre enseignant (même icone) par Air Drop ou par mail.
+A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre enseignant en cliquant sur le carré avec la flèche qui va vers le haut ![Icone partage](./images/partager-message.jpg){width=10% align=left} puis "annoter". Cela génère un PDF que vous pouvez enregistrer sur votre dossier "Vie_de_classe" - "Formation IPAD" de votre OneDrive.
 
 ### Prérequis
 
@@ -37,12 +37,20 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 ???+ tip "Pack Office"
     - [ ] J’ai compris que je peux aussi télécharger le pack office 365 (word, outlook, powerpoint, excel) sur cinq appareils numériques gratuitement grâce à mon adresse ecmorlaix. (ent.ecmorlaix.fr).
 
-- [ ] Je suis connectée avec mon adresse ecmorlaix sur les différentes applications (OneDrive, Word, PowerPoint, Excel, Teams).
+- [ ] Je suis connecté avec mon adresse ecmorlaix sur les différentes applications (OneDrive, Word, PowerPoint, Excel, Teams).
+???+ tip "Ecole Directe"
+    - [ ] Je suis connecté sur Ecole Directe avec mon identifiant et mot de passe temporaire
+    - [ ] Je dois modifier les paramètres d'école directe, je retiens mon identifiant et mot de passe.
+    - [ ] Je consulte les informations disponibles sur Ecole Directe (Emploi du temps, Cahier de texte, Cahier de correspondance,...)
 
 ## Présentation de l'IPAD
 
 !!! tip "IPAD "
     === "Activités :" 
+        1. Ajouter ou supprimer des widgets en appuyant quelques secondes sur l'écran de l'IPAD. Les applications peuvent être supprimer (-) et des widgets ajouter (+).
+        2. Créer des dossiers pour classer les applications. En superposant deux applications et en relachant la pression, cela crée un dossier que vous pourrez renommer.
+        3. Paramétrer le Dock en ajoutant sur la partie favori "Ecole Directe" et "Outlook".
+        4. Ouvrir Outlook. Faire apparaitre le dock puis selectionner Safari et le glisser à coté d'Outlook pour avoir les 2 applications ouverts. (Remarque : cela ne fonctionne pas avec Ecole Directe)
     === "Bilan :"
         - [ ] J’ai trouvé où se trouvait le AirDrop.
         - [ ] J’ai rangé les widgets d’application sur l’écran d’accueil de ma tablette.
