@@ -30,14 +30,14 @@ nav:
       - Documents administratifs pour les élèves : admineleves.md
       - Numérique :
            Page d'accueil : numindex.md
-            Actualités : actualites.md
-            La réglementation : reglementation.md
-            Prise en main : priseenmain.md
-            Les indispensables : indispensables.md
-            Les spéciales enseignants : prof.md
-            Projet Numérique : projetnum.md
-            Tutoriel : tuto.md
-            Sobriété : sobre.md
+           Actualités : actualites.md
+           La réglementation : reglementation.md
+           Prise en main : priseenmain.md
+           Les indispensables : indispensables.md
+           Les spéciales enseignants : prof.md
+           Projet Numérique : projetnum.md
+           Tutoriel : tuto.md
+           Sobriété : sobre.md
             
     # Référencer vos autres pages ci-dessus...
 
