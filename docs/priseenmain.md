@@ -261,6 +261,11 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
 !!! tip  "Appareil photo"
     === "Activités :"
+        1. Prendre une photo d'un manuel scolaire ou d'un document en votre possession
+        2. Rogner les contour de la photo grace à l'outil ![rogner](./images/priseenmain/rogner.jpg)
+        3. Tracer un cercle avec la fonctionnalité "annotation" ![note](./images/priseenmain/annoter.png)
+        4. Sélectionner la couleur verte ainsi que la forme du stylo puis tracer le cercle.![palette](./images/priseenmain/palette.png)
+        5. Renommer la photo en l'identifiant et en ajoutant son prénom ![nom](./images/priseenmain/info.png)
     === "Bilan :"
         - [ ] Je sais prendre une photo (dans le respect du droit à l'image).
         - [ ] Je sais écrire et modifier la photo.
