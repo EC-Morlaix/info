@@ -24,7 +24,7 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
         [LSL](https://www.lelivrescolaire.fr/){:target="_blank"}  
     === "Sésamaths"
         [Manuels](https://manuel.sesamath.net/){:target="_blank"}  
-    === "Sites Delphine NUNEZ"
+    === "Sites Enseignants"
         [SNT - 2nde](https://dnunez-gua.github.io/SNT/){:target="_blank"}  
         [Spécialité Maths Terminales](https://dnunez-gua.github.io/Maths_Terminales/){:target="_blank"}  
         
