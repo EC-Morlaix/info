@@ -262,17 +262,22 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 !!! tip  "Appareil photo"
     === "Activités :"
         1. Prendre une photo d'un manuel scolaire ou d'un document en votre possession
-        2. Rogner les contour de la photo grace à l'outil ![rogner](./images/priseenmain/rogner.jpg){height="100px" width="100px"} 
+        2. Rogner les contour de la photo grace à l'outil ![rogner](./images/priseenmain/rogner.jpg){height="50px" width="50px"} 
         3. Tracer un cercle avec la fonctionnalité "annotation" ![note](./images/priseenmain/annoter.png){height="100px" width="100px"} 
         4. Sélectionner la couleur verte ainsi que la forme du stylo puis tracer le cercle.![palette](./images/priseenmain/palette.png){height="100px" width="100px"} 
-        5. Renommer la photo en l'identifiant et en ajoutant son prénom ![nom](./images/priseenmain/info.png){height="100px" width="100px"} 
+        5. Renommer la photo en l'identifiant et en ajoutant son prénom ![nom](./images/priseenmain/info.jpeg){height="100px" width="100px"} 
     === "Bilan :"
         - [ ] Je sais prendre une photo (dans le respect du droit à l'image).
         - [ ] Je sais écrire et modifier la photo.
-        - [ ] Je sais l’enregistrer dans mes fichiers OneDrive.
+        - [ ] Je sais l’enregistrer dans mes fichiers OneDrive - remarque : les dernières versions de OneDrive permettent de faire des photos ou scans directement dans le dossier sélectionné. 
 
 !!! tip  "Vidéos"
     === "Activités :"
+        1. Aller dans la galerie de photo et sélectionner une photo (non modifiée)
+        2. Appuyer avec votre doigt dessus quelques secondes
+        3. Cliquer sur ![parametres](./images/priseenmain/parametres.jpeg){height="50px" width="50px"} 
+        4. Sélectionner "Enregistrer comme vidéo" ![video](./images/priseenmain/video.png){height="50px" width="50px"} 
+        5. Retrouver la vidéo dans la galerie.
     === "Bilan :"
         - [ ] Je sais utiliser les paramètres de l'appareil photo pour créer une vidéo.
         - [ ] Je sais comment faire une vidéo capture d'écran.
