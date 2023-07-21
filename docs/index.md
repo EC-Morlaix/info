@@ -25,8 +25,9 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
     === "Sésamaths"
         [Manuels](https://manuel.sesamath.net/){:target="_blank"}  
     === "Sites Enseignants"
-        [SNT - 2nde](https://dnunez-gua.github.io/SNT/){:target="_blank"}  
-        [Spécialité Maths Terminales](https://dnunez-gua.github.io/Maths_Terminales/){:target="_blank"}  
+        - Delphine NUNEZ :  
+            - [SNT - 2nde](https://dnunez-gua.github.io/SNT/){:target="_blank"}  
+            -  [Spécialité Maths Terminales](https://dnunez-gua.github.io/Maths_Terminales/){:target="_blank"}  
         
 !!! attention "CDI/PMB - Sites et Bases documentaires des CDI de nos établissements"
     === "Site Web du lycée"
