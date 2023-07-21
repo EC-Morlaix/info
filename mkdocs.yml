@@ -20,7 +20,22 @@ docs_dir: docs
 nav: 
 - E.N.T. - ECA.M : index.md    
 - Lycée Notre Dame du Mur - Le Porsmeur : indexlycee.md
-
+- Documents administratifs pour les enseignants et personnels : 
+    Organisation : adminprofs.md
+    Documents Ressources : docressources.md
+    Lycée Pofessionnel : lyceepro.md
+    Lycée Général et Technologique : lyceelgt.md
+- Documents administratifs pour les élèves : admineleves.md
+- Numérique :
+    Page d'accueil : numindex.md
+    Actualités : actualites.md
+    La réglementation : reglementation.md
+    Prise en main : priseenmain.md
+    Les indispensables : indispensables.md
+    Les spéciales enseignants : prof.md
+    Projet Numérique : projetnum.md
+    Tutoriel : tuto.md
+    Sobriété : sobre.md
     # Référencer vos autres pages ci-dessus...
 
 
@@ -49,7 +64,7 @@ theme:
 
     features:
         - navigation.instant
-        - navigation.tabs
+   #     - navigation.tabs
         - navigation.expand
         - navigation.top
         - toc.integrate
