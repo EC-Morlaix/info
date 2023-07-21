@@ -1,4 +1,4 @@
-# E.N.T - ECA.M
+# Espace Numérique de Travail  - ECA.M
 ![ENT](./images/accueilENT.png)
 
 Bienvenue sur l'E.N.T. du groupe ECA.M ...
