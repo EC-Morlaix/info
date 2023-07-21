@@ -276,7 +276,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
         1. Aller dans la galerie de photo et sélectionner une photo (non modifiée)
         2. Appuyer avec votre doigt dessus quelques secondes
         3. Cliquer sur ![parametres](./images/priseenmain/parametres.jpeg){height="50px" width="50px"} 
-        4. Sélectionner "Enregistrer comme vidéo" ![video](./images/priseenmain/video.png){height="50px" width="50px"} 
+        4. Sélectionner "Enregistrer comme vidéo" ![video](./images/priseenmain/video.png){height="100px" width="100px"} 
         5. Retrouver la vidéo dans la galerie.
     === "Bilan :"
         - [ ] Je sais utiliser les paramètres de l'appareil photo pour créer une vidéo.
