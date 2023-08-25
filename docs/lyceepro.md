@@ -4,14 +4,32 @@
 
 [Lien vers le calendrier](ajouter le lien OneDrive)
 
-## Périodes de formation en milieu professionnel 
+
+## Secteur Sanitaire 
+
+### Périodes de formation en milieu professionnel 
 
 [Calendrier PFMP](ajouter le lien OneDrive)
 <br>
 [Convention](ajouter le lien OneDrive)
 
 
-## Contrôles en Cours de Formation  
+### Contrôles en Cours de Formation  
+
+[Calendrier CCF](ajouter le lien OneDrive)
+<br>
+
+
+## Secteur Vente 
+
+### Périodes de formation en milieu professionnel 
+
+[Calendrier PFMP](ajouter le lien OneDrive)
+<br>
+[Convention](ajouter le lien OneDrive)
+
+
+### Contrôles en Cours de Formation  
 
 [Calendrier CCF](ajouter le lien OneDrive)
 <br>
