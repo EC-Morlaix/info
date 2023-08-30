@@ -255,7 +255,12 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 ## Mail 
 !!! tip  "Outlook"
     === "Activités :"
-    === "Bilan :"
+        1. En fin de mail, je dois le signer et préciser ma classe 
+            - [ ] Vrai
+            - [ ] Faux
+
+    
+    === "Réponse :"
         - [ ] Je sais rédiger un mail (un objet clair, des formules de politesse, ...).
         - [ ] Je sais envoyer un mail (un ou plusieurs destinataires principaux ou en copie).
         - [ ] Je sais envoyer un document en pièce jointe (le destinataire pourra facilement identifier le fichier joint par son nom).
