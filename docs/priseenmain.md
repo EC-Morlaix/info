@@ -308,7 +308,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
             - [ ] Vrai 
             - [ ] Faux
 
-        11.. Parmi les propositions suivantes, lequelles vous paraissent appropriées?
+        11. Parmi les propositions suivantes, lequelles vous paraissent appropriées?
             - [ ] Salut, merci de m’expliquer ma note. Cordialement
             - [ ] Bonjour, comme j’étais absent(e), serait-il possible de me transmettre le document du cours d’aujourd’hui, s’il vous plaît ? En vous remerciant d’avance, Cordialement
             - [ ] Bonjour, comme j’étais absent(e), serait-il possible de me transmettre le document du cours d’aujourd’hui.  
@@ -317,7 +317,8 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
     
     === "Réponse :"
-               1. En fin de mail, je dois le signer et préciser ma classe 
+    
+        1. En fin de mail, je dois le signer et préciser ma classe 
             - [x] Vrai
             - [ ] Faux
             
@@ -370,7 +371,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
             - [x] Vrai 
             - [ ] Faux
 
-        11.. Parmi les propositions suivantes, lequelles vous paraissent appropriées?
+        11. Parmi les propositions suivantes, lequelles vous paraissent appropriées?
             - [ ] Salut, merci de m’expliquer ma note. Cordialement
             - [x] Bonjour, comme j’étais absent(e), serait-il possible de me transmettre le document du cours d’aujourd’hui, s’il vous plaît ? En vous remerciant d’avance, Cordialement
             - [ ] Bonjour, comme j’étais absent(e), serait-il possible de me transmettre le document du cours d’aujourd’hui.  
