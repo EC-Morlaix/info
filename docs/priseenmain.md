@@ -258,17 +258,124 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
         1. En fin de mail, je dois le signer et préciser ma classe 
             - [ ] Vrai
             - [ ] Faux
+            
+        2.	Quel est le moment le plus approprié pour envoyer un mail ?
+            - [ ] À 22h
+            - [ ] À 17h, après mes cours
+	        - [ ] Un dimanche
+            - [ ] À 4h du matin
+
+        3.	Que veut dire CC dans l’en-tête un mail ?
+            - [ ] Destinataire caché
+            - [ ] Destinataire principal
+            - [ ] Destinataire secondaire
+            - [ ] L’objet
+
+        4. Je dois renseigner un objet 
+            - [ ] Vrai 
+            - [ ] Faux
+
+        5. Parmi les 4 propositions, laquelle est fausse
+            - [ ] Je signe avec une formule de politesse
+            - [ ] Je commence mon mail avec „Bonjour“ ou „Madame“ ou „Monsieur“
+            - [ ] Je ne peux pas transmettre un document par mail
+            - [ ] Je vérifie l’orthographe avant d’envoyer le mail
+
+        6. Lorsque je reçois un mail qui est adressé à un groupe et que je dois répondre, je
+            - [ ] Réponds systématiquement à tout le monde
+            - [ ] Réfléchis bien à la nécessité d’envoyer le mail à tout le monde
+
+          7. Pour n’envoyer le mail adressé à un groupe uniquement à l’expéditeur, Je clique en bas du mail sur l’icône des deux flèches à côté de "Répondre à tous“ et je clique sur:
+            - [ ] "Répondre à tous“
+            - [ ] "Répondre“
+            - [ ] "Transférer“
+            - [ ] "Modifier ou afficher les destiataires“
+
+        8. Dans "l’Objet“ je renseigne obligatoirement (choix multiples)
+            - [ ] le sujet
+            - [ ] mon nom et prénom
+            - [ ] rien du tout
+            - [ ] la matière (si demandé par l’enseignant/e)
+            - [ ] ma classe
+
+        9. Lorsque j’envoie un document,
+            - [ ] Celui-ci est au format PDF (sauf indication contraire)
+            - [ ] Le nom indique mon nom, ma classe et le sujet
+            - [ ] Je peux l’envoyer sans modifier son nom
+            - [ ] Je n’ai pas besoin de rédiger un texte d’accompagnement expliquant l’envoi
+
+        10. Il est impératif qu’une demande soit rédigée de manière polie et respectueuse, quel que soit le destinataire
+            - [ ] Vrai 
+            - [ ] Faux
+
+        11.. Parmi les propositions suivantes, lequelles vous paraissent appropriées?
+            - [ ] Salut, merci de m’expliquer ma note. Cordialement
+            - [ ] Bonjour, comme j’étais absent(e), serait-il possible de me transmettre le document du cours d’aujourd’hui, s’il vous plaît ? En vous remerciant d’avance, Cordialement
+            - [ ] Bonjour, comme j’étais absent(e), serait-il possible de me transmettre le document du cours d’aujourd’hui.  
+            - [ ] Madame, pouvez-vous m’expliquer ma note s’il-vous plaît ? 
+            - [ ] Monsieur, serait-il possible de se voir à la fin du cours demain afin de m’expliquer ma note, s’il-vous-plaît ? En vous remerciant pour votre compréhension, Cordialement 
 
     
     === "Réponse :"
-        - [ ] Je sais rédiger un mail (un objet clair, des formules de politesse, ...).
-        - [ ] Je sais envoyer un mail (un ou plusieurs destinataires principaux ou en copie).
-        - [ ] Je sais envoyer un document en pièce jointe (le destinataire pourra facilement identifier le fichier joint par son nom).
-        - [ ] Je sais enregistrer une pièce jointe reçue par mail.
-        - [ ] Je sais déplacer le fichier (donc je sais où le retrouver).
-        - [ ] Je sais le renommer.
-        - [ ] Je sais compléter un fichier PDF.
+               1. En fin de mail, je dois le signer et préciser ma classe 
+            - [x] Vrai
+            - [ ] Faux
+            
+        2.	Quel est le moment le plus approprié pour envoyer un mail ?
+            - [ ] À 22h
+            - [x] À 17h, après mes cours
+	        - [ ] Un dimanche
+            - [ ] À 4h du matin
 
+        3.	Que veut dire CC dans l’en-tête un mail ?
+            - [ ] Destinataire caché
+            - [ ] Destinataire principal
+            - [x] Destinataire secondaire
+            - [ ] L’objet
+
+        4. Je dois renseigner un objet 
+            - [x] Vrai 
+            - [ ] Faux
+
+        5. Parmi les 4 propositions, laquelle est fausse
+            - [ ] Je signe avec une formule de politesse
+            - [ ] Je commence mon mail avec „Bonjour“ ou „Madame“ ou „Monsieur“
+            - [x] Je ne peux pas transmettre un document par mail
+            - [ ] Je vérifie l’orthographe avant d’envoyer le mail
+
+        6. Lorsque je reçois un mail qui est adressé à un groupe et que je dois répondre, je
+            - [ ] Réponds systématiquement à tout le monde
+            - [x] Réfléchis bien à la nécessité d’envoyer le mail à tout le monde
+
+          7. Pour n’envoyer le mail adressé à un groupe uniquement à l’expéditeur, Je clique en bas du mail sur l’icône des deux flèches à côté de "Répondre à tous“ et je clique sur:
+            - [ ] "Répondre à tous“
+            - [x] "Répondre“
+            - [ ] "Transférer“
+            - [ ] "Modifier ou afficher les destiataires“
+
+        8. Dans "l’Objet“ je renseigne obligatoirement (choix multiples)
+            - [x] le sujet
+            - [x] mon nom et prénom
+            - [ ] rien du tout
+            - [ ] la matière (si demandé par l’enseignant/e)
+            - [ ] ma classe
+
+        9. Lorsque j’envoie un document,
+            - [x] Celui-ci est au format PDF (sauf indication contraire)
+            - [x] Le nom indique mon nom, ma classe et le sujet
+            - [ ] Je peux l’envoyer sans modifier son nom
+            - [ ] Je n’ai pas besoin de rédiger un texte d’accompagnement expliquant l’envoi
+
+        10. Il est impératif qu’une demande soit rédigée de manière polie et respectueuse, quel que soit le destinataire
+            - [x] Vrai 
+            - [ ] Faux
+
+        11.. Parmi les propositions suivantes, lequelles vous paraissent appropriées?
+            - [ ] Salut, merci de m’expliquer ma note. Cordialement
+            - [x] Bonjour, comme j’étais absent(e), serait-il possible de me transmettre le document du cours d’aujourd’hui, s’il vous plaît ? En vous remerciant d’avance, Cordialement
+            - [ ] Bonjour, comme j’étais absent(e), serait-il possible de me transmettre le document du cours d’aujourd’hui.  
+            - [ ] Madame, pouvez-vous m’expliquer ma note s’il-vous plaît ? 
+            - [x] Monsieur, serait-il possible de se voir à la fin du cours demain afin de m’expliquer ma note, s’il-vous-plaît ? En vous remerciant pour votre compréhension, Cordialement 
 
 ## Médias
 
