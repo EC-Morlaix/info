@@ -2,7 +2,7 @@
 
 ## Calendrier général
 
-[Lien vers le calendrier](ajouter le lien OneDrive)
+[Lien vers le calendrier](https://ecmorlaix.sharepoint.com/:x:/s/lndm-conseildedirection/EQil5wh2XvBCnJ4KE8ppE_wB0vSHOxfiHWJrtOFLHC5QqA?e=KNeXVQ){:target="_blank"}
 
 ## Convention de Stages
 
