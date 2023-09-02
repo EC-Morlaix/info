@@ -16,7 +16,7 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
 ## Procédures
 
 - Droit à l'image :
-- Autorisation d'absence :
+- Autorisation d'absence : [ADA](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EZoj3RM0yK5CsclrqWRYCvUB0-4tnoCCeJSvYX6LtM1tsg?e=oUeNEQ){:target="_blank"}  
 - Procédure Voyage :
 - Procédure Sortie :
 - Ordre de mission : 
