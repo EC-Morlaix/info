@@ -49,7 +49,12 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
     === "PMB- Sainte Marie"
         Base Documentaire du CDI du Collège Sainte Marie  
         <center>[Se connecter](lien à revoir){:target="_blank"} </center>  
+        
+## Accéder aux documents ressources des lycées ND Mur - Le Porsmeur
 
+- Documents administratifs pour les enseignants et personnels : [ressources](./docressources.md)
+- Lycée Le Porsmeur : [LLPR](./lyceepro.md)
+- Lycée ND Mur : [LNDM](./lyceelgt.md)
         
 ## Evaluation et Certification
 ![certifications](./images/ent/certificat.svg){height="100px" width="100px"}  
