@@ -53,9 +53,10 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 ## Accéder aux documents ressources des lycées ND Mur - Le Porsmeur
 
 !!! attention " Ressources Lycées"  
-    - Documents administratifs pour les enseignants et personnels : [Ressources](./docressources.md). 
+    - Documents administratifs pour les enseignants et personnels : [Ressources](./docressources.md)  
     - Lycée Le Porsmeur : [LLPR](./lyceepro.md)  
     - Lycée ND Mur : [LNDM](./lyceelgt.md)  
+    - Projet Numérique : [projetNUM](./projetnum.md)  
         
 ## Evaluation et Certification
 ![certifications](./images/ent/certificat.svg){height="100px" width="100px"}  
