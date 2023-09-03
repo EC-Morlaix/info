@@ -56,7 +56,7 @@ Une vérification des bons usages de la tablette sera fait quelques semaines plu
 
 ## Pilier pédagogique
 
-L'ensemble des chartes élèves et familles est consultable ici (Lien)
+L'ensemble des chartes élèves et familles est consultable ici [charte](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EX0NzKSDmVlLvLA5DXY1IP0BY3WITbdNQz8jebaRq0m6sg?e=OxBMZ1){target="_blank"}  
 
 En cas de non-respect à la charte d'utilisation de l'IPAD, des sanctions pourront être posées. 
 
