@@ -17,8 +17,8 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
 
 - Droit à l'image :
 - Autorisation d'absence : [ADA](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EZoj3RM0yK5CsclrqWRYCvUB0-4tnoCCeJSvYX6LtM1tsg?e=oUeNEQ){:target="_blank"}  
-- Procédure Voyage :
-        [procédure](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/ETfJxCQjPHdAnA9sM36Xfw4B6GTX6yRUgkQMtFfeyLUl1g?e=JsaVM8){:target="_blank"}  
-        [voyage](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/EaRJCKxa3YBKus4qjQzQktAB7XbL_pua0ejnvb3loWwsQw?e=4hC3nX){:target="_blank"}
+- Procédure Voyage :  
+       - [procédure](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/ETfJxCQjPHdAnA9sM36Xfw4B6GTX6yRUgkQMtFfeyLUl1g?e=JsaVM8){:target="_blank"}  
+       - [voyage](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/EaRJCKxa3YBKus4qjQzQktAB7XbL_pua0ejnvb3loWwsQw?e=4hC3nX){:target="_blank"}
 - Procédure Sortie :
 - Ordre de mission : [OrdreMission](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EaNwHI5e1btMku0ZSpsYQZgBi7MrVKhkP376xoLZQPeuoQ?e=yKErrx){:target="_blank"}
