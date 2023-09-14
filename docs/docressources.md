@@ -23,5 +23,4 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
 - Procédure Sortie :
 - Ordre de mission :
         - [OrdreMission](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EaNwHI5e1btMku0ZSpsYQZgBi7MrVKhkP376xoLZQPeuoQ?e=yKErrx){:target="_blank"}
-
-  [ordreMission Divers](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EScXQSjK2hdDvyNHyeitYPIBSLd115Akf2oU8wkAAHiR0A?e=9AogVN){:target="_blank"}
+         - [OrdreMission Divers](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EScXQSjK2hdDvyNHyeitYPIBSLd115Akf2oU8wkAAHiR0A?e=9AogVN){:target="_blank"}
