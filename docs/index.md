@@ -3,6 +3,14 @@
 
 Bienvenue sur l'E.N.T. du groupe ECA.M ...
 
+## Accéder aux documents ressources des lycées ND Mur - Le Porsmeur
+
+!!! attention " Ressources Lycées"  
+    - Documents administratifs pour les enseignants et personnels : [Ressources](./docressources.md)  
+    - Lycée Le Porsmeur : [LLPR](./lyceepro.md)  
+    - Lycée ND Mur : [LNDM](./lyceelgt.md)  
+    - Projet Numérique : [projetNUM](./projetnum.md)  
+
 ## [Effectuer une recherche sur internet](https://www.ecosia.org/?c=fr){:target="_blank"}  
 
 ## Accéder aux applications
@@ -50,13 +58,7 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
         Base Documentaire du CDI du Collège Sainte Marie  
         <center>[Se connecter](lien à revoir){:target="_blank"} </center>  
         
-## Accéder aux documents ressources des lycées ND Mur - Le Porsmeur
 
-!!! attention " Ressources Lycées"  
-    - Documents administratifs pour les enseignants et personnels : [Ressources](./docressources.md)  
-    - Lycée Le Porsmeur : [LLPR](./lyceepro.md)  
-    - Lycée ND Mur : [LNDM](./lyceelgt.md)  
-    - Projet Numérique : [projetNUM](./projetnum.md)  
         
 ## Evaluation et Certification
 ![certifications](./images/ent/certificat.svg){height="100px" width="100px"}  
