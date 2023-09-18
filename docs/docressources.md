@@ -8,7 +8,7 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
     - [Consignes de sécurité](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/Eb3wauyK4B9ChIHm8cwKclABJ3dNZpqB492SEjMKZxgrHw?e=klc9fK){:target="_blank"}  
 
 
-!!! info "élèves à besoins particuliers"
+!!! info "Elèves à besoins particuliers"
     - Diaporama de C.MOYSAN juillet 2023 : [présentation](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EbIdgwtNS7lNhV8bBar3uh0BnuvOCEIiuq5kr7kEheomEg?e=aP3ubd){:target="_blank"}  
     - Grille officielle de mise en oeuvre de PAP : [PAP](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/ES2Rxs4DM6hFgyOA3_ioilYBsiti5k2fxyWuJOlEt1abPQ?e=BltkcD){:target="_blank"}  
     - Annexe 2 PAP - Parents : [Annexe2](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EUazOarPQkhAn7I2T0-iU-YBiOi6nWJxURm98pFarWRlkA?e=5bZzSI){:target="_blank"}  
