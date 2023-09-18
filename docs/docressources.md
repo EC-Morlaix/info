@@ -4,7 +4,7 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
 
 ## Informations
 
-!!! info "Plans particuliers de mise en sûreté"
+!!! info "Sécurité"
     - [Consignes de sécurité](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/Eb3wauyK4B9ChIHm8cwKclABJ3dNZpqB492SEjMKZxgrHw?e=klc9fK){:target="_blank"}  
 
 
