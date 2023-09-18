@@ -6,7 +6,7 @@
 
 ## Convention de Stages
 
-[Convention](ajouter le lien OneDrive)
+[Convention](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EdfqwILhZTROk7ru2Fzxyn8BYZpyxRP8rtLZr2ufD7cnBQ?e=WWfn3t){:target="_blank"}  
 
 
 ## Dossier professeurs principaux 
