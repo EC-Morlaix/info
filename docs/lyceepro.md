@@ -2,7 +2,7 @@
 
 ## Calendrier général
 
-[Lien vers le calendrier](ajouter le lien OneDrive)
+[Lien vers le calendrier](https://ecmorlaix.sharepoint.com/:x:/s/lndm-conseildedirection/ER9BPnw425hNqG1_O4KZ0SkBASoGc6C-cvoMoJXRMjg4Vg?e=nX9eMH)
 
 
 ## Secteur Sanitaire 
@@ -16,8 +16,8 @@
 
 ### Contrôles en Cours de Formation  
 
-[Calendrier CCF](ajouter le lien OneDrive)
-<br>
+[Calendrier CCF](https://ecmorlaix.sharepoint.com/:x:/s/lndm-conseildedirection/EfQCCETnBA5MpqqKBTNrrW0BSr-cYKyYGnsGU67C0XGByA?e=uTP7Ik)  
+ 
 
 
 ## Secteur Vente 
@@ -31,5 +31,4 @@
 
 ### Contrôles en Cours de Formation  
 
-[Calendrier CCF](ajouter le lien OneDrive)
-<br>
+[Calendrier CCF](https://ecmorlaix.sharepoint.com/:x:/s/lndm-conseildedirection/EWy9ACxIgf1Ar6rlKWeaQbUB_tRWvH6yG9KBK8wszrPedQ?e=9dQS6d)  
