@@ -13,6 +13,7 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
     - Grille officielle de mise en oeuvre de PAP : [PAP](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/ES2Rxs4DM6hFgyOA3_ioilYBsiti5k2fxyWuJOlEt1abPQ?e=BltkcD){:target="_blank"}  
     - Annexe 2 PAP - Parents : [Annexe2](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EUazOarPQkhAn7I2T0-iU-YBiOi6nWJxURm98pFarWRlkA?e=5bZzSI){:target="_blank"}  
     - Annexe 3 PAP - Equipe pédagogique : [Annexe3](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EQgJkVTQz6JGvYT_iN55aCQBcU4-OL_oMjLDWVqlzw0cpw?e=nhOba5){:target="_blank"}  
+    - Grille PPRE : [PPRE](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/EciJTqu5L6lJkQuYR-xmuoMButNaF-Gvt0N7lHb9u9CdEw?e=wVohPP){:target="_blank"}   
 
 ## Procédures
 
