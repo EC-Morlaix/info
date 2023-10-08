@@ -6,7 +6,7 @@
 
 ## Convention de Stages
 
-[Convention](https://ecmorlaix.sharepoint.com/:b:/r/sites/lndm-conseildedirection/Documents%20partages/2023-2024%20-%20Parcours%20%C3%A9ducatifs/Documents%20ressources/2023-2024%20-%20Convention%20de%20stage%20LGT.pdf?csf=1&web=1&e=OCatfX){:target="_blank"}  
+[Convention](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EU6jrkmz4WVBsdOSIc7s4tAB1bxkYNy1T5A0FHM2nKJe4w?e=2HZUaU){:target="_blank"}  
 
 
 ## Dossier professeurs principaux 
