@@ -3,7 +3,7 @@
 
 Bienvenue sur l'E.N.T. du groupe ECA.M ...
 
-## Accéder aux documents ressources des lycées ND Mur - Le Porsmeur
+## Ressources LGT et LP
 
 !!! attention " Ressources Lycées"  
     - Documents administratifs pour les enseignants et personnels : [Ressources](./docressources.md)  
@@ -11,7 +11,7 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
     - Lycée ND Mur : [LNDM](./lyceelgt.md)  
     - Projet Numérique : [projetNUM](./projetnum.md)  
 
-## [Effectuer une recherche sur internet](https://www.ecosia.org/?c=fr){:target="_blank"}  
+## [Rechercher sur internet](https://www.ecosia.org/?c=fr){:target="_blank"}  
 
 ## Accéder aux applications
 
