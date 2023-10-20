@@ -41,20 +41,20 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
         - Florence PETIT :  
             - [PADLET SES](https://padlet.com/florence_petit/ses-terminale-xzh6neigklzw){:target="_blank"}  
         
-!!! attention "CDI/PMB - Sites et Bases documentaires des CDI de nos établissements"
+!!! attention "CDI/PMB - Sites et Bases documentaires des CDI"
     === "Site Web du lycée"
         Actualités du CDI, ressources pédagogiques, parcours éducatif  
         <center>[se connecter](https://cdi-lycee.ecmorlaix.fr/){:target="_blank"}</center>  
     === "PMB - Lycée"
         Base Documentaire du CDI du Lycée Nd du Mur - Le Porsmeur  
         <center>[Se connecter](https://ecmorlaix.basecdi.fr/pmb/opac_css/){:target="_blank"}</center>  
-    === "PMB- Saint Augustin"
+    === "PMB- Saint-Augustin"
         Base Documentaire du CDI du Collège Saint Augustin  
         <center>[Se connecter](https://staugustin-morlaix.basecdi.fr/pmb/opac_css/){:target="_blank"}</center>  
-    === "PMB- Saint Joseph"
+    === "PMB- Saint-Joseph"
         Base Documentaire du CDI du Collège Saint Joseph  
         <center>[Se connecter](https://stjosephmorlaix.basecdi.fr/pmb/opac_css/){:target="_blank"}</center>  
-    === "PMB- Sainte Marie"
+    === "PMB- Sainte-Marie"
         Base Documentaire du CDI du Collège Sainte Marie  
         <center>[Se connecter](lien à revoir){:target="_blank"} </center>  
         
