@@ -20,14 +20,14 @@ docs_dir: docs
 nav: 
 - E.N.T. - ECA.M : 
       - index.md  
-- Documents administratifs pour les enseignants et personnels : 
+- Documents administratifs : 
       - docressources.md
 - Lycée Le Porsmeur : 
       - lyceepro.md
 - Lycée Général et Technologique :  
       - lyceelgt.md
 
-- Projet Numérique du Lycée :
+- Projet Numérique :
       - Page d'accueil : numindex.md
       - Actualités : actualites.md
       - La réglementation : reglementation.md
