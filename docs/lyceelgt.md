@@ -18,8 +18,15 @@
 
 [Document Grand Oral](ajouter le lien OneDrive)
 
-## Dossier Folios 
+## Les parcours du lycéen  
 
+### Parcours avenir
 [Lien Folios](https://folios.onisep.fr/){:target="_blank"}  
+
+### Parcours Culturel
+[Film et Culture](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/Efz_mC4k2q9KiIOeJ_HGAtkBA50u1-mHRcdIeIUuJwiQTg?e=dLhXeH){:target="_blank"}  
+[TPMX](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EUf9RwM1sI5KrB0nXqabN_gBFYVLCZua1wssj4PA__9Ydw?e=fEalPA){:target="_blank"}  
+
+
 
 
