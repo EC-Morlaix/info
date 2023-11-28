@@ -6,6 +6,7 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 ## Ressources LGT et LP
 
 !!! attention " Ressources Lycées"  
+
     - Livret de rentrée 2023 : [Livret](./LIVRETRENTREE2023.pdf)  
     - Documents administratifs pour les enseignants et personnels : [Ressources](./docressources.md)  
     - Lycée Le Porsmeur : [LLPR](./lyceepro.md)  
