@@ -23,7 +23,7 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
     ![office](./images/ent/rappel.svg){height="100px" width="100px"} [Office 365](https://www.office.com/){:target="_blank"}  
 
 !!! attention "EDUCONNECT - Accès ENT Toutatice - Pass Culture "
-    ![office](./images/ent/educ_nat.png){height="100px" width="100px"} [EDUCONNECT](https://educonnect.education.gouv.fr/idp/profile/SAML2/Redirect/SSO?execution=e1s1)){:target="_blank"}  
+    ![office](./images/ent/educ_nat.png){height="100px" width="100px"} [EDUCONNECT](https://educonnect.education.gouv.fr/idp/profile/SAML2/Redirect/SSO?execution=e1s1){:target="_blank"}  
 
 
 !!! attention "Mon Espace Apple Education (Documents, Photos,..)"
