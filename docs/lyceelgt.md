@@ -6,8 +6,8 @@
 
 ## Convention de Stages
 
-[Convention sur temps scolaire](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EU6jrkmz4WVBsdOSIc7s4tAB1bxkYNy1T5A0FHM2nKJe4w?e=2HZUaU){:target="_blank"}  
-[Convention sur vacances scolaires](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/Ebn-w0CpfNFDnWP_ZXV2_aQBaqYlcK9d754zwfU7hv1MkQ?e=u78Gew){:target="_blank"}  
+[Convention en milieu scolaire](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EU6jrkmz4WVBsdOSIc7s4tAB1bxkYNy1T5A0FHM2nKJe4w?e=2HZUaU){:target="_blank"}  
+[Convention en milieu professionnel](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/Ebn-w0CpfNFDnWP_ZXV2_aQBaqYlcK9d754zwfU7hv1MkQ?e=u78Gew){:target="_blank"}  
 
 
 ## Dossier professeurs principaux 
