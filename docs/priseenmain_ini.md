@@ -42,7 +42,7 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
 
 ## De One Drive 
 
-- [ ] Je créé des dossiers dans OneDrive (une matière = un dossier + un dossier STAGE).
+- [ ] Je crée des dossiers dans OneDrive (une matière = un dossier + un dossier STAGE).
 - [ ] Je sais ouvrir un document en partant du dossier source.
 - [ ] Je sais renommer ce document.
 - [ ] Je sais partager ce document pour que la personne puisse le consulter uniquement.
@@ -61,7 +61,7 @@ A ouvrir dans Safari, une fois complété vous pouvez le transmettre à votre en
 - [ ] Je sais enregistrer ce fichier en PDF.			
 - [ ] Je sais copier/coller ou couper/coller un texte.
 - [ ] Je sais formater mes titres et mon corps de texte sur word.
-- [ ] Je sais ce qu’est un interligne 1,5 et le mettre.			
+- [ ] Je sais ce qu’est un interligne 1,5 et comment le mettre.			
 - [ ] Je sais utiliser le micro pour dicter un texte.
 - [ ] Je sais mettre un pied de page.			
 - [ ] Je sais mettre un en-tête.
