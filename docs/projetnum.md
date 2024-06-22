@@ -37,7 +37,7 @@ L'ensemble du projet est consultable [Projet Numérique](https://ecmorlaix-my.sh
 3. Une formation est prévue pour chaque élève :<br>
 [Prise en main](./priseenmain.md) <br>
 
-Une vérification des bons usages de la tablette sera effectué quelques semaines plus tard (en parallèle de la journée d'intégration).
+Une vérification des bons usages de la tablette sera effectuée quelques semaines plus tard (en parallèle de la journée d'intégration).
 
 ### Gestion des casses ou des pannes 
 
