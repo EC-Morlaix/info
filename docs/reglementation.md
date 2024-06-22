@@ -68,10 +68,10 @@ intervenants / collaborateurs extérieurs. Elle permettra également la mise en 
 strictement professionnel / pédagogique. Toute utilisation dans un autre cadre, ou non conforme à la législation en vigueur (injures, diffamation,
 etc…) est strictement interdite.
 Ce service offre également un espace de stockage en ligne (cloud) à chaque utilisateur, ainsi que des espaces de stockages partagés. Ces espaces
-devront être exclusivement utilisé dans un cadre professionnel / pédagogique. Aucun contenu illicite (Fichiers copiés illégalement, etc…) ne pourra
+devront être exclusivement utilisés dans un cadre professionnel / pédagogique. Aucun contenu illicite (Fichiers copiés illégalement, etc…) ne pourra
 y être stocké.
 Dans le cadre de ses échanges, l’utilisateur s’engage à respecter la règlementation mentionnée aux articles 4 et 7 de la présente charte. Les
-établissements du Groupe ECA.M ne pourront, de ce fait, être tenu responsable du contenu des messages échangés.
+établissements du Groupe ECA.M ne pourront, de ce fait, être tenu responsables du contenu des messages échangés.
 
 ### 6. Utilisation du réseau Internet de l’établissement :
 
@@ -111,7 +111,7 @@ remplacement de l’équipement en question.
 
 ### 9. Protection des données à caractère personnel :
 Conformément à la loi « Informatique et Liberté », l'utilisateur bénéficie d'un droit d'accès et de rectification aux informations qui le concernent. Si
-celui-ci souhaite exercer ce droit et obtenir communication des informations le concernant, il s'adressera auprès du service informatique.
+celui-ci souhaite exercer ce droit et obtenir communication des informations le concernant, il s'adressera au service informatique.
 
 ## L'usage de la tablette au lycée
 
