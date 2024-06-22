@@ -29,7 +29,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
     - [ ] OneDrive
     - [ ] EcoleDirecte
 
-- [ ] Je note que je pourrais charger d'autres applications à la maison :
+- [ ] Je note que je pourrai charger d'autres applications à la maison :
     - [ ] Excel
     - [ ] PowerPoint
     - [ ] Teams
@@ -39,7 +39,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
     - [ ] Je suis connecté avec mon adresse ecmorlaix sur les différentes applications (OneDrive, Word, PowerPoint, Excel, Teams).
          
 ???+ tip "Ecole Directe"
-    - [ ] Je suis connecté sur Ecole Directe avec mon identifiant et mot de passe temporaire
+    - [ ] Je suis connecté sur Ecole Directe avec mon identifiant et mot de passe temporaire.
     - [ ] Je dois modifier les paramètres d'école directe, je retiens mon identifiant et mot de passe.
     - [ ] Je consulte les informations disponibles sur Ecole Directe (Emploi du temps, Cahier de texte, Cahier de correspondance,...)
 
@@ -47,7 +47,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
 !!! tip "IPAD "
     === "Activités :" 
-        1. Ajouter ou supprimer des widgets en appuyant quelques secondes sur l'écran de l'IPAD. Les applications peuvent être supprimer (-) et des widgets ajouter (+).
+        1. Ajouter ou supprimer des widgets en appuyant quelques secondes sur l'écran de l'IPAD. Les applications peuvent être supprimées (-) et des widgets ajoutés (+).
         2. Créer des dossiers pour classer les applications. En superposant deux applications et en relachant la pression, cela crée un dossier que vous pourrez renommer.
         3. Paramétrer le Dock en ajoutant sur la partie favori "Ecole Directe" et "Outlook".
         4. Ouvrir Outlook. Faire apparaitre le dock puis selectionner Safari et le glisser à coté d'Outlook pour avoir les 2 applications ouverts. (Remarque : cela ne fonctionne pas avec Ecole Directe)
@@ -98,21 +98,21 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
                 
                 - **Ouvrir** le document `Portrait_chinois.docx` partagé avec vous en écriture par votre professeur ;
                 - **Renseigner** tous les champs d'une ligne du tableau en respectant l'ordre alphabétique des noms de votre classe ; 
-                - **Enregistrer** dans le dossier `Vie_de_classe` de votre OneDrive personnel une copie du document complété après la synthèse collective...
+                - **Enregistrer** dans le dossier `Vie_de_classe` de votre OneDrive personnel, une copie du document complété après la synthèse collective...
 
             === "Consigne profs :"
 
                 - **Créer** dans votre OneDrive un dossier nommé `Portraits` partagé en lecture avec les élèves de la classe ;
-                - y **placer** le fichier [`Portrait_chinois.docx`](../assets/OneDrive/Portrait_chinois.docx) à partager en écriture pour permettre aux élèves de le compléter en ligne ;
+                - **placer** dans ce dossier, le fichier [`Portrait_chinois.docx`](../assets/OneDrive/Portrait_chinois.docx) à partager en écriture pour permettre aux élèves de le compléter en ligne ;
                 - **Organiser** la modification : _un élève par ligne dans l'ordre alphabétique de la classe_....
 
         ???+ example "4 - Cadavre Exquis :"
         
             === "Consigne élèves :"
 
-                - Dans chaque groupe un premier élève récupère une copie du fichier `Cadavre_exquis.docx` partagé par votre professeur et le renomme au nom du groupe ;
+                - Dans chaque groupe un premier élève récupère une copie du fichier `Cadavre_exquis.docx` partagé par votre enseignant et le renomme au nom du groupe ;
                 - Ce premier élève complète la phrase "Il était une fois..." avec un premier groupe de mots ;
-                - Il transmet alors ce fichier modifier par AirDrop à son voisin dans le groupe qui réitère l'opération ;
+                - Il transmet ce fichier modifié par AirDrop à son voisin dans le groupe, qui réitère l'opération ;
                 - Et ainsi de suite... 
                 - Le dernier dépose dans le dossier `Cadavres_exquis` de la classe le fichier final modifié par chaque membre du groupe.
 
@@ -124,7 +124,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
  
     === "Bilan :"
-        - [ ] Je créé des dossiers dans OneDrive (une matière = un dossier + un dossier STAGE).
+        - [ ] Je crée des dossiers dans OneDrive (une matière = un dossier + un dossier STAGE).
         - [ ] Je sais ouvrir un document en partant du dossier source.
         - [ ] Je sais renommer ce document.
         - [ ] Je sais partager ce document pour que la personne puisse le consulter uniquement.
@@ -144,19 +144,19 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
         5. Classer les favoris
             a. Créer des dossiers de favoris
             b. Renommer les dossiers
-        6.Mettre une page sur l'écran d'accueil
+        6. Mettre une page sur l'écran d'accueil
         7. Créer un dossier regroupant les pages web enregistrées. 
         8. Envoyer un lien vers une page web
         9. Envoyer une page via AirDrop
         10. Créer un lien Hypertexte dans un éditeur ou traitement de texte  
-        [Théatre](https://www.theatre-du-pays-de-morlaix.fr/)
-        
+        [Théatre](https://www.theatre-du-pays-de-morlaix.fr/){target="_blank"}
+	        
     === "Bilan :"
         - [ ] Je sais ouvrir Safari et faire une recherche.
         - [ ] Je sais mettre une page en favori.
-        - [ ] Je sais faire une recherche de mot clé sur une page.
+        - [ ] Je sais faire une recherche de mot-clé sur une page.
         - [ ] Je sais mettre une page en raccourci écran.
-        - [ ] Je sais organiser mes pages web enregistrées (en favori ou sur l'IPAD).
+        - [ ] Je sais organiser mes pages web enregistrées (en favoris ou sur l'IPAD).
 
 ## Traitement de Texte
 
@@ -174,7 +174,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
                 2. Depuis l'application `Word`, **ouvrir** une page blanche
                 3. **Enregistrer** le document sur votre ipad dans « Sur mon IPad » sous le nom « Atelier traitement de texte »
                 4. **Copier-coller** le texte suivant : 
-                *Responsabilité de l’élève L’élève s’engage à̀ : Respecter le règlement intérieur du lycée. Utiliser les appareils de manière responsable et éthique.  Utiliser toutes les ressources technologiques de manière appropriée afin de ne pas endommager les équipements de l’ensemble scolaire. Aider l’établissement à protéger les systèmes et équipements informatiques en contactant le service informatique pour tout problème de sécurité. Surveiller et protéger l’appareil et l’accès à ses données personnels (mots de passe appropriés) ; Ne prêter sa tablette à personne. Ne pas modifier la configuration initiale de l’iPad (profil, …). Activités strictement interdites aux élèves Sans être exhaustive, voici la liste de ce qui est interdit lors de l’usage de l’iPad : Toute infraction à la charte d’utilisation et aux lois en vigueur.*
+                *Responsabilité de l’élève L’élève s’engage à̀ : Respecter le règlement intérieur du lycée. Utiliser les appareils de manière responsable et éthique.  Utiliser toutes les ressources technologiques de manière appropriée afin de ne pas endommager les équipements de l’ensemble scolaire. Aider l’établissement à protéger les systèmes et équipements informatiques en contactant le service informatique pour tout problème de sécurité. Surveiller et protéger l’appareil et l’accès à ses données personnelles (mots de passe appropriés) ; Ne prêter sa tablette à personne. Ne pas modifier la configuration initiale de l’iPad (profil, …). Activités strictement interdites aux élèves Sans être exhaustive, voici la liste de ce qui est interdit lors de l’usage de l’iPad : Toute infraction à la charte d’utilisation et aux lois en vigueur.*
                 5. **Double-cliquer** en haut du document pour accéder à l’en-tête 
                 6. **Écrire** le texte « Charte d’utilisation de la tablette » en majuscule
                 7. Mettre la phrase en **gras**
@@ -207,23 +207,23 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
                 **Présenter** les outils de mise en page et de correction disponibles sur `Word`...
                 
     === "Bilan :"
-        - [ ] Je sais ouvrir une page blanche sur Word.
-        - [ ] Je sais enregistrer ce document Word sur mon Ipad.
-        - [ ] Je sais enregistrer ce document Word  en le renommant dans mon dossier OneDrive.
+        - [ ] Je sais ouvrir une page blanche sur `Word`.
+        - [ ] Je sais enregistrer ce document `Word` sur mon Ipad.
+        - [ ] Je sais enregistrer ce document `Word`en le renommant dans mon dossier OneDrive.
         - [ ] Je sais copier/coller un texte.
         - [ ] Je sais mettre un pied de page.			
         - [ ] Je sais mettre un en-tête.
         - [ ] Je sais mettre en gras.
         - [ ] Je sais mettre un numéro de page de manière automatique.
-        - [ ] Je sais ce qu’est un interligne 1,5 et le mettre.	
+        - [ ] Je sais ce qu’est un interligne 1,5 et comment le mettre.	
         - [ ] Je sais justifier un texte sur word/open office
         - [ ] Je sais modifier la police, la taille et le style de police.
         - [ ] Je sais faire et enregistrer une capture d'écran
-        - [ ] Je sais utiliser les numérotations automatique.
+        - [ ] Je sais utiliser les numérotations automatiques.
         - [ ] Je sais insérer une photo dans un fichier word.
         - [ ] Je sais modifier l'habillage de l'image en permettant le texte autour.
         - [ ] Je sais insérer une zone de texte.
-        - [ ] Je sais utiliser l'outil dessin dans un fichier Word.
+        - [ ] Je sais utiliser l'outil dessin dans un fichier `Word`.
         - [ ] Je sais dicter à ma tablette pour rédiger un paragraphe.
         - [ ] Je sais surligner un texte.
         - [ ] Je sais exporter ce fichier en PDF.			
@@ -233,7 +233,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
 !!! tip "Notes"
     === "Remarque :"
-        L'application Notes doit être utilisée en cahier de brouillon, pour rendre un travail ou le partager, privilégier les traitements de texte (Word, Pages,...)
+        L'application `Notes` doit être utilisée en cahier de brouillon. Pour rendre un travail ou le partager, privilégier les traitements de texte (Word, Pages,...)
     === "Activités :"
         1. Créer un dossier par matière + 1 dossier administration + 1 dossier formation IPAD
         2. Dans le dossier "formation IPAD", créer une nouvelle note
@@ -255,7 +255,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 ## Mail 
 !!! tip  "Outlook"
     === "Activités :"
-        1. En fin de mail, je dois le signer et préciser ma classe 
+        1. En fin de mail, je dois signer et préciser ma classe 
             - [ ] Vrai
             - [ ] Faux
             
@@ -289,7 +289,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
             - [ ] "Répondre à tous“
             - [ ] "Répondre“
             - [ ] "Transférer“
-            - [ ] "Modifier ou afficher les destiataires“
+            - [ ] "Modifier ou afficher les destinataires“
 
         8. Dans "l’Objet“ je renseigne obligatoirement (choix multiples)
             - [ ] le sujet
@@ -308,7 +308,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
             - [ ] Vrai 
             - [ ] Faux
 
-        11. Parmi les propositions suivantes, lequelles vous paraissent appropriées?
+        11. Parmi les propositions suivantes, lequelles vous paraissent appropriées ?
             - [ ] Salut, merci de m’expliquer ma note. Cordialement
             - [ ] Bonjour, comme j’étais absent(e), serait-il possible de me transmettre le document du cours d’aujourd’hui, s’il vous plaît ? En vous remerciant d’avance, Cordialement
             - [ ] Bonjour, comme j’étais absent(e), serait-il possible de me transmettre le document du cours d’aujourd’hui.  
@@ -383,7 +383,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 !!! tip  "Appareil photo"
     === "Activités :"
         1. Prendre une photo d'un manuel scolaire ou d'un document en votre possession
-        2. Rogner les contour de la photo grace à l'outil ![rogner](./images/priseenmain/rogner.jpg){height="50px" width="50px"} 
+        2. Rogner les contours de la photo grace à l'outil ![rogner](./images/priseenmain/rogner.jpg){height="50px" width="50px"} 
         3. Tracer un cercle avec la fonctionnalité "annotation" ![note](./images/priseenmain/annoter.png){height="50px" width="50px"}  
         4. Sélectionner la couleur verte ainsi que la forme du stylo puis tracer le cercle.![palette](./images/priseenmain/palette.png){height="50px" width="50px"} 
         5. Renommer la photo en l'identifiant et en ajoutant son prénom ![nom](./images/priseenmain/info.jpeg){height="50px" width="50px"} 
@@ -394,7 +394,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
 !!! tip  "Vidéos"
     === "Activités :"
-        1. Aller dans la galerie de photo et sélectionner une photo (non modifiée)
+        1. Aller dans la galerie de photos et sélectionner une photo (non modifiée)
         2. Appuyer avec votre doigt dessus quelques secondes
         3. Cliquer sur ![parametres](./images/priseenmain/parametres.jpeg){height="50px" width="50px"} 
         4. Sélectionner "Enregistrer comme vidéo" ![video](./images/priseenmain/video.png){height="100px" width="100px"} 
