@@ -35,18 +35,19 @@ L'ensemble du projet est consultable [Projet Numérique](https://ecmorlaix-my.sh
 2. La distribution des tablettes des élèves de seconde se déroule selon un planning établi en conseil numérique
    
 3. Une formation est prévue pour chaque élève :<br>
-[prise en main](./priseenmain.md) <br>
-Une vérification des bons usages de la tablette sera fait quelques semaines plus tard (en parallèle de la journée d'intégration).
+[Prise en main](./priseenmain.md) <br>
 
-### Gestion des casses ou des panne 
+Une vérification des bons usages de la tablette sera effectué quelques semaines plus tard (en parallèle de la journée d'intégration).
 
-1. **En cas de panne pour les enseignants** : faire un ticket GLPI
-2. **En cas de panne pour les élèves** : mail au service informatique : [assistance@ecmorlaix.fr](mailto:assistance@ecmorlaix.fr)  
+### Gestion des casses ou des pannes 
+
+1. **En cas de panne pour les enseignants** : faire un ticket [GLPI](https://glpi.ecmorlaix.fr/){target="_blank"} 
+2. **En cas de panne pour les élèves** : envoyer un mail au service informatique : [assistance@ecmorlaix.fr](mailto:assistance@ecmorlaix.fr)  
  Si besoin, l'enseignant peut faire un ticket GLPI pour être informé de l'évolution de la prise en charge.<br>
  Une permanence informatique pour les élèves se déroule les mardis et les jeudis de 9h55 à 10h10 dans le BOX rouge de l'Atrium.
 3. **En cas de casse d'une tablette d'un élève** : celui-ci doit voir Doriane DOUARIN à la comptabilité pour faire réparer sa tablette par le prestataire. Il recevra une tablette de prêt et sera informé par mail pour la récupération de sa tablette.
-4. **Gestion APPLE TV** : En cas de disfonctionnement, débrancher l'appareil et le rebrancher.
-5. **Pour tout problème informatique** : Wifi, télécommande ... faire un ticket GLPI pour remonter le problème afin qu'il soit résolu le plus rapidement possible.
+4. **Gestion APPLE TV** : En cas de dysfonctionnement, débrancher l'appareil et le rebrancher.
+5. **Pour tout problème informatique** : Wifi, télécommande... faire un ticket GLPI pour remonter le problème afin qu'il soit résolu le plus rapidement possible.
 
 
 ### Mise à disposition des applications sur les logiciels "Enseignants" ou "Elèves"
@@ -65,7 +66,7 @@ En cas de non-respect à la charte d'utilisation de l'IPAD, des sanctions pourro
 | :--------------- :|:---------------:|
 | Oubli de l'IPAD ou IPAD déchargé  |   Remarque Ecole Directe      |  
 | Utilisation non appropriée   | Retenue             |   
-| Envoi d'e-mail innaproprié  | Remarque, retenue   ou avertissement (en fonction de la diffusion et du contenu)       |
+| Envoi d'e-mail innaproprié  | Remarque, retenue ou avertissement (en fonction de la diffusion et du contenu)       |
 | 3 remarques  |  1 retenue          |
 
 
