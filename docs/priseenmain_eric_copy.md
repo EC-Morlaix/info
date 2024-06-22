@@ -40,7 +40,7 @@
 
 ## De One Drive 
 
-- [ ] Je créé des dossiers dans OneDrive (une matière = un dossier + un dossier STAGE).
+- [ ] Je crée des dossiers dans OneDrive (une matière = un dossier + un dossier STAGE).
 - [ ] Je sais ouvrir un document en partant du dossier source.
 - [ ] Je sais renommer ce document.
 - [ ] Je sais partager ce document pour que la personne puisse le consulter uniquement.
