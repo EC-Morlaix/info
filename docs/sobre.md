@@ -2,7 +2,7 @@
 
 Comment agir positivement pour la planète dans le domaine du numérique ?
 
-Peut-être simplement en prenant conscience de notre impact, puis en changeant quelques une de nos habitudes du quotidien ?
+Peut-être simplement en prenant conscience de notre impact, puis en changeant quelques-unes de nos habitudes du quotidien ?
 
 ## Les recommandations de l'ADEME
 
@@ -24,9 +24,9 @@ Voir également de nombreuses autres propositions écologiques sur le site de [l
 
 Pour cela, il faut dans un premier temps mesurer le volume occupé par tous nos fichiers, puis d'y faire un peu de tri, et enfin mesurer à nouveau l'espace ainsi gagné...
 
-### Connaitre sa taille
+### Connaître sa taille
 
-Pour connaitre la taille que vos données occupent :
+Pour connaître la taille que vos données occupent :
 
 <!-- -  sur iCloud, sur votre iPad rendez-vous dans :  **Réglages > [votre nom] > iCloud** : -->
 -  sur votre iPad, rendez-vous dans :  **Réglages > Général > Stockage iPad** ;
@@ -34,10 +34,10 @@ Pour connaitre la taille que vos données occupent :
 -  sur votre OneDrive, dans Safari, connectez vous à [Office365](https://www.office.com/) puis dans **OneDrive**,  cliquez sur le mot **OneDrive** à droite du logo ECA.M, cliquez sur la roue dentée  **paramètres> paramètres de votre espace OneDrive > Autres paramètres > Métriques de stockage** ;
 -  sur votre Outlook, dans Safari, connectez vous à [Office365](https://www.office.com/) puis dans **Outlook**, cliquez sur le mot **Outlook** à droite du logo ECA.M, cliquez alors sur les trois points et choisir la roue dentée  **paramètres>Afficher tous les paramètres d'Outlook>Général>Stockage** ;
 
-Notez toutes ces valeurs et reportez les dans le [questionnaire du défi du grand ménage numérique 2023](https://forms.office.com/Pages/ResponsePage.aspx?id=15R5OuUcb0Km4-7gYW4qbK8if53guTRDmm-NDtFB1m9UQUpKN1I5V0JVVDQyTTFLSjVKNDJITEFDTiQlQCN0PWcu){target=_blank}...
+Notez toutes ces valeurs et reportez-les dans le [questionnaire du défi du grand ménage numérique 2023](https://forms.office.com/Pages/ResponsePage.aspx?id=15R5OuUcb0Km4-7gYW4qbK8if53guTRDmm-NDtFB1m9UQUpKN1I5V0JVVDQyTTFLSjVKNDJITEFDTiQlQCN0PWcu){target=_blank}...
 
 ### Faire du ménage
 
-Ok, mais comment ? Que garder, que supprimer ??
+Ok, mais comment ? Que garder, que supprimer ?
 
 Les méthodes sont multiples, proposez-nous vos solutions à [# ECAM - Conseil Numérique](mailto:ecam-numerique@ecmorlaix.fr) et nous les publierons sur cette page pour les partager avec tous...
