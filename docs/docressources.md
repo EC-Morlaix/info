@@ -18,7 +18,7 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
 
 ## Procédures
 
-!!! info "Documents Administratifs"
+!!! info "Documents Administratifs"  
     - Ressources Personnel OGEC : [OGEC](https://ecmorlaix.sharepoint.com/:f:/s/lndm-conseildedirection/EmS_q0zRyTZEuair6xQQYO8B6sId5J9P0Lcwzonvid7g-A?e=lVYXuo){:target="_blank"}  
     - Autorisation d'absence : [ADA](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EZoj3RM0yK5CsclrqWRYCvUB0-4tnoCCeJSvYX6LtM1tsg?e=oUeNEQ){:target="_blank"}  
     - Procédure Voyage : 
