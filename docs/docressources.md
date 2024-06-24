@@ -8,7 +8,7 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
     - [Consignes de sécurité](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/Eb3wauyK4B9ChIHm8cwKclABJ3dNZpqB492SEjMKZxgrHw?e=klc9fK){:target="_blank"}  
 
 
-!!! info "Elèves à besoins particuliers"
+!!! info "Elèves à besoins particuliers"  
     - Formation Santé Mentale des Adolescents : [Diaporama](https://ecmorlaix.sharepoint.com/:b:/r/sites/lndm-conseildedirection/Documents%20partages/2023-2024%20-%20Documents%20Ressources/ECOLE%20INCLUSIVE/SanteMentale.pdf?csf=1&web=1&e=K0diaN){:target="_blank"}  
     - Diaporama de C.MOYSAN juillet 2023 : [présentation](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EbIdgwtNS7lNhV8bBar3uh0BnuvOCEIiuq5kr7kEheomEg?e=aP3ubd){:target="_blank"}  
     - Grille officielle de mise en oeuvre de PAP : [PAP](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/ES2Rxs4DM6hFgyOA3_ioilYBsiti5k2fxyWuJOlEt1abPQ?e=BltkcD){:target="_blank"}  
