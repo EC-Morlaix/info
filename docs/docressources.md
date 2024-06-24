@@ -9,6 +9,7 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
 
 
 !!! info "Elèves à besoins particuliers"
+    - Formation Santé Mentale des Adolescents : [Diaporama](https://ecmorlaix.sharepoint.com/:b:/r/sites/lndm-conseildedirection/Documents%20partages/2023-2024%20-%20Documents%20Ressources/ECOLE%20INCLUSIVE/SanteMentale.pdf?csf=1&web=1&e=K0diaN){:target="_blank"}  
     - Diaporama de C.MOYSAN juillet 2023 : [présentation](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EbIdgwtNS7lNhV8bBar3uh0BnuvOCEIiuq5kr7kEheomEg?e=aP3ubd){:target="_blank"}  
     - Grille officielle de mise en oeuvre de PAP : [PAP](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/ES2Rxs4DM6hFgyOA3_ioilYBsiti5k2fxyWuJOlEt1abPQ?e=BltkcD){:target="_blank"}  
     - Annexe 2 PAP - Parents : [Annexe2](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EUazOarPQkhAn7I2T0-iU-YBiOi6nWJxURm98pFarWRlkA?e=5bZzSI){:target="_blank"}  
@@ -17,6 +18,7 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
 
 ## Procédures
 
+!!! info "Documents Administratifs"
 - Ressources Personnel OGEC : [OGEC](https://ecmorlaix.sharepoint.com/:f:/s/lndm-conseildedirection/EmS_q0zRyTZEuair6xQQYO8B6sId5J9P0Lcwzonvid7g-A?e=lVYXuo){:target="_blank"}  
 - Autorisation d'absence : [ADA](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EZoj3RM0yK5CsclrqWRYCvUB0-4tnoCCeJSvYX6LtM1tsg?e=oUeNEQ){:target="_blank"}  
 - Procédure Voyage : 
