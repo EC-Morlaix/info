@@ -22,8 +22,8 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
     - Ressources Personnel OGEC : [OGEC](https://ecmorlaix.sharepoint.com/:f:/s/lndm-conseildedirection/EmS_q0zRyTZEuair6xQQYO8B6sId5J9P0Lcwzonvid7g-A?e=lVYXuo){:target="_blank"}  
     - Autorisation d'absence : [ADA](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EZoj3RM0yK5CsclrqWRYCvUB0-4tnoCCeJSvYX6LtM1tsg?e=oUeNEQ){:target="_blank"}  
     - Procédure Voyage : 
-       - [procédure](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/ETfJxCQjPHdAnA9sM36Xfw4B6GTX6yRUgkQMtFfeyLUl1g?e=JsaVM8){:target="_blank"}  
+      - [procédure](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/ETfJxCQjPHdAnA9sM36Xfw4B6GTX6yRUgkQMtFfeyLUl1g?e=JsaVM8){:target="_blank"}  
        - [voyage](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/EaRJCKxa3YBKus4qjQzQktAB7XbL_pua0ejnvb3loWwsQw?e=4hC3nX){:target="_blank"}  
-       - Ordre de mission :  
-        - [Ordre de Mission Visite de stage](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EaNwHI5e1btMku0ZSpsYQZgBi7MrVKhkP376xoLZQPeuoQ?e=yKErrx){:target="_blank"}  
-         - [Ordre de Mission Divers](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EScXQSjK2hdDvyNHyeitYPIBSLd115Akf2oU8wkAAHiR0A?e=9AogVN){:target="_blank"}
+    - Ordre de mission :  
+      - [Ordre de Mission Visite de stage](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EaNwHI5e1btMku0ZSpsYQZgBi7MrVKhkP376xoLZQPeuoQ?e=yKErrx){:target="_blank"}  
+      - [Ordre de Mission Divers](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EScXQSjK2hdDvyNHyeitYPIBSLd115Akf2oU8wkAAHiR0A?e=9AogVN){:target="_blank"}
