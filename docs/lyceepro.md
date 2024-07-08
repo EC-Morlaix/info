@@ -7,9 +7,6 @@
 
 ## Les parcours du lycéen  
 
-[Synthèse des projets envisagés](https://ecmorlaix.sharepoint.com/:x:/r/sites/lndm-conseildedirection/_layouts/15/Doc.aspx?sourcedoc=%7B502E9AD0-3A6B-483A-951A-248CD6BC38C5%7D&file=2024-2025_Projets_educatifs_envisage%CC%81s%202024-07-04%2012_25_47.xlsx&action=default&mobileredirect=true&wdsle=0){:target="_blank"}
-
-
 ### Parcours avenir
 [Lien Folios](https://folios.onisep.fr/){:target="_blank"}  
 
