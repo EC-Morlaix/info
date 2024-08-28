@@ -1,0 +1,140 @@
+# Fichier de configuration du site à personnaliser
+
+# Informations du site 
+site_name: EC@M ressources 
+site_description: Site de ressources de l'ensemble scolaire EC@M
+site_author: "Jocelyne COZ, Eric MADEC, Delphine NUNEZ, Patrice BELLOUR" 
+copyright: Document partagé par <a href="https://github.com/EC-Morlaix/info" target="_blank">EC@Morlaix</a> &copy; 2022 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a> <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
+site_url: https://EC-Morlaix.github.io/info #  modifier au format https://votrePseudoGitHub.github.io/votreDepot/
+
+# Dépot du projet 
+repo_name: 'info' 
+repo_url: https://github.com/EC-Morlaix/info # Ajoute l'icone et le lien vers le dépot GitHub en haut à droite pour afficher et permettre d'éditer le fichier source
+edit_uri: tree/main/docs/
+
+
+# Structure des dossiers :
+docs_dir: docs
+
+# Menu de navigation
+nav: 
+- E.N.T. - ECA.M : 
+      - index.md  
+- Documents administratifs : 
+      - docressources.md
+- LP Le Porsmeur : 
+      - lyceepro.md
+- LGT ND du Mur :  
+      - lyceelgt.md
+
+- Projet Numérique :
+      - Page d'accueil : numindex.md
+      - Actualités : actualites.md
+      - La réglementation : reglementation.md
+      - Prise en main : priseenmain.md
+      - Les indispensables : indispensables.md
+      - Les spéciales enseignants : prof.md
+      - Projet Numérique : projetnum.md
+      - Tutoriel : tuto.md
+      - Sobriété : sobre.md
+      - Cybersécurité : cybersecu.md
+            
+    # Référencer vos autres pages ci-dessus...
+
+
+# Définition du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/
+theme:
+    name: material
+    custom_dir: overrides
+    font: false  # RGPD ; pas de fonte Google
+    language: fr # français
+    icon:
+      logo: fontawesome/solid/code
+
+    palette: # Palettes de couleurs jour/nuit, cf : https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+      - scheme: default # nom du thème clair
+        primary: deep purple # couleur primaire des titres, des liens, ..., à prendre dans la liste
+        accent: deep orange # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
+        toggle: # définition du bouton pour switcher de palette
+          icon: material/weather-sunny # apparence
+          name: Basculer en mode sombre # message
+      - scheme: slate # nom du thème sombre
+        primary: deep orange
+        accent: deep purple
+        toggle: 
+          icon: material/weather-night
+          name: Basculer en mode clair
+ 
+    features:
+        - navigation.instant
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.expand
+        - navigation.top
+        - navigation.path
+        - toc.integrate
+        - header.autohide
+
+
+markdown_extensions: # https://squidfunk.github.io/mkdocs-material/reference/abbreviations/
+    # extensions de la bibliothèque markdown standard
+    - abbr # infobulles sur abbréviations 
+    - meta # Métadonnées
+    - def_list                      # Les listes de définition.
+    - attr_list                     # Un peu de CSS et des attributs HTML.
+    - footnotes                     # Notes[^1] de bas de page.  [^1]: ma note.
+    - admonition                    # Blocs colorés  !!! info "ma remarque"
+    - toc: # Table des matières
+        permalink: ⚓︎
+        toc_depth: 3
+    # extensions de python-markdown https://facelessuser.github.io/pymdown-extensions/
+    - pymdownx.details              #   qui peuvent se plier/déplier.
+    - pymdownx.caret                # Passage ^^souligné^^ ou en ^exposant^.
+    - pymdownx.mark                 # Passage ==surligné==.
+    - pymdownx.tilde                # Passage ~~barré~~ ou en ~indice~.
+    - pymdownx.highlight            # Coloration syntaxique du code
+    - pymdownx.inlinehilite         # pour  `#!python  <python en ligne>`
+    - pymdownx.snippets             # Inclusion de fichiers externe.
+    - pymdownx.tasklist:            # Cases à cocher  - [ ]  et - [x]
+        custom_checkbox:    false   #   avec cases d'origine
+        clickable_checkbox: true    #   et cliquables.
+    - pymdownx.tabbed:
+        alternate_style: true       # Volets glissants.  === "Mon volet"
+    - pymdownx.superfences          # Imbrication de blocs.
+    - pymdownx.keys:                # Touches du clavier.  ++ctrl+d++
+        separator: "\uff0b"
+    - pymdownx.emoji:               # Émojis  :boom:
+        emoji_index:     !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.arithmatex:  # Formules en LaTeX 
+        generic: true
+    
+  
+
+plugins:
+  - search # Inclure une barre de recherche
+  # - mkdocs-jupyter: # Convertir les fichiers .ipynb et .py en pages du site https://github.com/danielfrg/mkdocs-jupyter
+  #     kernel_name: python3
+  #     execute: False
+  #     include_source: True
+
+
+extra:
+  social: # A personaliser...
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:assistance@ecmorlaix.fr
+      name: Pour toute question, suggestion ou commentaire, écrire à l'auteur
+    - icon: fontawesome/brands/github
+      link: https://github.com/EC-Morlaix/info/
+      name: dépôt github
+    - icon: fontawesome/solid/school
+      link: https://EC-Morlaix.github.io/info/profs
+      name: EC@M
+
+
+extra_javascript:
+  - javascripts/config.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - stylesheets/extra.css
