@@ -7,7 +7,7 @@ Bienvenue sur l'E.N.T. du groupe ECA.M ...
 
 !!! attention " Ressources Lycées"  
 
-    - Livret de rentrée 2024 : [Livret](./pdf/LIVRETRENTREE2023.pdf)  
+    - Livret de rentrée 2024 : [Livret](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EVx10wHVjC1MnqN2HEz2-NEBEfS7Y4CtYJc8DJTzz1gkLw?e=MRdgXf)  
     - Documents administratifs pour les enseignants et personnels : [Ressources](./docressources.md)  
     - Lycée Le Porsmeur : [LLPR](./lyceepro.md)  
     - Lycée ND Mur : [LNDM](./lyceelgt.md)  
