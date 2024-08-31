@@ -68,10 +68,10 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
                 Depuis l'application `Fichiers`,
 		-  cliquer sur le logo options en haut à gauche ![options](./images/priseenmain/parametres.jpeg); 
-		-  cliquer sur "modifier la barre latérale"  <img src="./images/priseenmain/LogoOptions.png" width="200">
+		-  cliquer sur "modifier la barre latérale"
   		- activer OneDrive.  
-Cela vous permettra d'utiliser "Fichiers" pour travailler sur vos documents.
- **Créer** dans Onedrive/ Fichiers :
+		Cela vous permettra d'utiliser "Fichiers" pour travailler sur vos documents.
+		 **Créer** dans Onedrive/ Fichiers :
 		- Un dossier nommé 'Seconde' ;
   		- Un dossier nommé 'Ipad' ;
                 - Un dossier nommé 'Vie_de_classe' contenant un sous-dossier nommé 'Stages' ;            
