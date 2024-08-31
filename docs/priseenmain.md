@@ -75,10 +75,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
                 - Un dossier nommé 'Cours' contenant des sous-dossiers par matière...
 		
             === "Consigne profs :"
-                - test2	          
-
-            === "Consigne profs :" 
-	        Présenter la création d'une arborescence de dossiers OneDrive depuis l'application `Fichiers`...
+                Présenter la création d'une arborescence de dossiers OneDrive depuis l'application `Fichiers`...
 
         ???+ example "2 - Récupérer un fichier :"
 
