@@ -85,7 +85,8 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
                 - le **renommer** `Charte-Ipad.pdf`;
 		
             === "Consigne profs :"
-		- **Demander** aux élèves d'activer le AirDrop pendant 10 minutes
+	    
+	        - **Demander** aux élèves d'activer le AirDrop pendant 10 minutes
                 - **Transmettre** le fichier [`Charte.pdf`](./pdf/Charte.pdf) par AirDrop à chaque élèves de la classe ;
                 - **Présenter** le nommage 
          
