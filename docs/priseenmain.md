@@ -87,7 +87,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
             === "Consigne profs :"
 	    
 	        - **Demander** aux élèves d'activer le AirDrop pendant 10 minutes
-                - **Transmettre** le fichier [`Charte.pdf`](./pdf/Charte.pdf) par AirDrop à chaque élèves de la classe ;
+                - **Transmettre** le fichier [`Charte.pdf`](./pdf/Charte.pdf) par AirDrop à chaque élève de la classe ;
                 - **Présenter** le nommage 
          
         ???+ example "3 - Portrait chinois :"
