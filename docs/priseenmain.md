@@ -68,7 +68,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
                 - test
 		
             === "Consigne profs :"
-	        - test2
+                - test2
 	 
             === "Consigne élèves :"
 	        Depuis l'application `Fichiers`,  
