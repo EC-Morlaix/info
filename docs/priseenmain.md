@@ -66,10 +66,10 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
             === "Consigne élèves :"
 
-                Depuis l'application `Fichiers`,
-		-  cliquer sur le logo options en haut à gauche ![options](./images/priseenmain/parametres.jpeg); 
-		-  cliquer sur "modifier la barre latérale"
-  		- activer OneDrive.  
+                Depuis l'application `Fichiers`,  
+			-  cliquer sur le logo options en haut à gauche ![options](./images/priseenmain/parametres.jpeg); 
+			-  cliquer sur "modifier la barre latérale"
+  			- activer OneDrive.  
 		Cela vous permettra d'utiliser "Fichiers" pour travailler sur vos documents.
 		 **Créer** dans Onedrive/ Fichiers :
 		- Un dossier nommé 'Seconde' ;
