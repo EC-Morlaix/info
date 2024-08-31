@@ -63,7 +63,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
     === "Activités :"
 
         ???+ example "1 - Créer des dossiers"
-            === "Consigne élèves :"
+            === "Consignes élèves :"
                 Depuis l'application `Fichiers`,  
 			-  cliquer sur le logo options en haut à gauche ![options](./images/priseenmain/parametres.jpeg); 
 			-  cliquer sur "modifier la barre latérale"
@@ -74,7 +74,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
                			- Un dossier nommé 'Vie_de_classe' contenant un sous-dossier nommé 'Stages' ;            
                 		- Un dossier nommé 'Cours' contenant des sous-dossiers par matière...  
             === "Consigne profs :"  
-     		 **Présenter** la création d'une arborescence de dossiers OneDrive depuis l'application `Fichiers`...
+	        Présenter la création d'une arborescence de dossiers OneDrive depuis l'application `Fichiers`...
 
         ???+ example "2 - Récupérer un fichier :"
 
