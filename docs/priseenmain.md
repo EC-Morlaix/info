@@ -34,9 +34,6 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
     - [ ] PowerPoint
     - [ ] Teams
           
-???+ tip "Pack Office"
-    - [ ] J’ai compris que je peux aussi télécharger le pack office 365 (word, outlook, powerpoint, excel) sur cinq appareils numériques gratuitement grâce à mon adresse ecmorlaix. (ent.ecmorlaix.fr).
-    - [ ] Je suis connecté avec mon adresse ecmorlaix sur les différentes applications (OneDrive, Word, PowerPoint, Excel, Teams).
          
 ???+ tip "Ecole Directe"
     - [ ] Je suis connecté sur Ecole Directe avec mon identifiant et mot de passe temporaire.
@@ -69,10 +66,16 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
             === "Consigne élèves :"
 
-                Depuis l'application `Fichiers`, **créer** dans Onedrive :
-
-                - Un dossier nommé `Vie_de_classe` contenant un sous-dossier nommé `Stages` ;            
-                - Un dossier nommé `Cours` contenant des sous-dossiers par matière...
+                Depuis l'application `Fichiers`,
+		-  cliquer sur le logo options en haut à gauche ![options](./images/priseenmain/parametres.jpeg); 
+		-  cliquer sur "modifier la barre latérale"  ![laterale](./images/priseenmain/LogoOptions.png)
+  		- activer OneDrive.  
+Cela vous permettra d'utiliser "Fichiers" pour travailler sur vos documents.
+ **Créer** dans Onedrive/ Fichiers :
+		- Un dossier nommé 'Seconde' ;
+  		- Un dossier nommé 'Ipad' ;
+                - Un dossier nommé 'Vie_de_classe' contenant un sous-dossier nommé 'Stages' ;            
+                - Un dossier nommé 'Cours' contenant des sous-dossiers par matière...
 
             === "Consigne profs :"
 
@@ -82,15 +85,13 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
             === "Consigne élèves :"
 
-                - **Enregistrer** dans votre dossier `Stages` le fichier `Convention.pdf` reçu par airdrop ;
-                - le **renommer** `Convention_Nom_Prenom.pdf`;
-                - puis le **partager** en lecture seule avec votre professeur principal.
-
+                - **Enregistrer** dans votre dossier `Ipad` le fichier `Charte.pdf` reçu par airdrop ;
+                - le **renommer** `Charte-Ipad.pdf`;
+		
             === "Consigne profs :"
-
-                - **Transmettre** le fichier [`Convention.pdf`]() par AirDrop à chaque élèves de la classe ;
-                - **Présenter** le nommage et le partage de fichiers ;
-                - **Vérifier** le bon partage pour chaque élève.
+		- **Demander** aux élèves d'activer le AirDrop pendant 10 minutes
+                - **Transmettre** le fichier [`Charte.pdf`](./pdf/Charte.pdf) par AirDrop à chaque élèves de la classe ;
+                - **Présenter** le nommage 
          
         ???+ example "3 - Portrait chinois :"
         
