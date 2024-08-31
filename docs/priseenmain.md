@@ -68,7 +68,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
                 Depuis l'application `Fichiers`,
 		-  cliquer sur le logo options en haut à gauche ![options](./images/priseenmain/parametres.jpeg); 
-		-  cliquer sur "modifier la barre latérale"  ![laterale](./images/priseenmain/LogoOptions.png)
+		-  cliquer sur "modifier la barre latérale"  <img src="./images/priseenmain/LogoOptions.png" width="200">
   		- activer OneDrive.  
 Cela vous permettra d'utiliser "Fichiers" pour travailler sur vos documents.
  **Créer** dans Onedrive/ Fichiers :
