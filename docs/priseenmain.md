@@ -64,7 +64,7 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
 
         ???+ example "1 - Créer des dossiers"
             === "Consignes élèves :"
-                Depuis l'application `Fichiers`,  
+	        Depuis l'application `Fichiers`,  
 			-  cliquer sur le logo options en haut à gauche ![options](./images/priseenmain/parametres.jpeg); 
 			-  cliquer sur "modifier la barre latérale"
   			- activer OneDrive.  
@@ -73,9 +73,8 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
   				- Un dossier nommé 'Ipad' ;
                			- Un dossier nommé 'Vie_de_classe' contenant un sous-dossier nommé 'Stages' ;            
                 		- Un dossier nommé 'Cours' contenant des sous-dossiers par matière...
-             === "Consignes élèves :"
-	         blabla
-	     === "Consigne profs :"  
+            
+	    === "Consigne profs :"  
 	         Présenter la création d'une arborescence de dossiers OneDrive depuis l'application `Fichiers`...
 
         ???+ example "2 - Récupérer un fichier :"
