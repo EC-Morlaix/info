@@ -63,7 +63,15 @@ Des tutoriels sont accessibles [indispensables](./indispensables.md)
     === "Activités :"
 
         ???+ example "1 - Créer des dossiers"
-            === "Consignes élèves :"
+            === "Consigne élèves :"
+
+                - test
+		
+            === "Consigne profs :"
+	    
+	        - test
+	 
+            === "Consigne élèves :"
 	        Depuis l'application `Fichiers`,  
 			-  cliquer sur le logo options en haut à gauche ![options](./images/priseenmain/parametres.jpeg);  
 			-  cliquer sur "modifier la barre latérale"  
