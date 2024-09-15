@@ -5,20 +5,20 @@ Dans le cadre du projet numérique du lycée Nd du Mur – Le Porsmeur, un « 
 L’équipement, identifié par son numéro de série, ne peut être utilisé que par l’élève destinataire. Conformément à la convention de mise à disposition, la revente, la cession, l’échange, le prêt ou la location de l’équipement est strictement interdit durant la scolarité de l’élève. 
 
 !!! note "Article 1 : Précautions d’usage "
-    1.1. Précautions générales : 
-    La tablette reste la propriété de la société BNP PARIBAS 3 STEP IT durant toute la scolarité de l’élève. Elle est mise à sa disposition en tant qu’outil pédagogique. L’élève doit ainsi accepter et respecter cette charte sans réserve. Sauf autorisation spécifique de la direction, la tablette utilisée au sein du lycée doit être celle mise à disposition par l’établissement. 
-    1.2. Transport et rangement des tablettes : 
-    La tablette doit être transportée avec soin, dans une coque de protection (celle fournie par l’établissement, ou dans une coque de qualité et de protection équivalente). La coque peut être personnalisée dans la limite du respect du matériel et de la correction des images. 
-    La tablette ne doit en aucun cas être laissée dans un lieu non sécurisé (couloirs, self, atrium, vestiaire non fermé, etc…). L’élève peut déposer sa tablette dans son casier. L’établissement ne peut être tenu responsable en cas de dégradation ou de vol, en particulier si l’élève n’a pas respecté ces consignes. Si une tablette est retrouvée, elle sera remise au service vie scolaire. 
-    1.3. Sons, musiques, jeux ou programmes : 
-    Les jeux en ligne ne sont pas autorisés sur les tablettes, au sein de l’établissement. Les élèves ne sont autorisés à utiliser les dispositifs audios qu’avec l’accord de l’enseignant. 
-    1.4. Apport et recharge de la tablette : 
-    La tablette étant un outil pédagogique, elle doit systématiquement (sauf consigne contraire spécifique de l’enseignant) accompagner l’élève en cours. L’élève doit par ailleurs procéder (à la maison) à la recharge complète de l’appareil. Celui-ci doit être prêt à l’emploi à son arrivé dans l’établissement. En cas d’oubli répété de la tablette (ou de sa recharge), l’élève pourra être sanctionné par l’enseignant.  
-    1.5. Incidents : 
-    En cas de dysfonctionnement de la tablette, l’élève devra solliciter le service informatique par courriel (assistance@ecmorlaix.fr), ou se présenter aux permanences informatiques proposées les mardis et jeudis, de 9h55 à 10h10 (atrium). La maintenance et la configuration de la tablette sont de la compétence exclusive du service informatique de l’établissement. 
-    En cas de casse de la tablette, l’élève devra se rendre au service comptabilité afin d’effectuer une déclaration d’incident et déposer sa tablette. Une tablette lui sera alors prêtée pour la durée de traitement de l’incident. Aucune réparation n’est autorisée en dehors d’une demande effectuée par l’établissement ou par la société BNP PARIBAS 3 STEP IT, propriétaire de l’appareil. 
-    En cas de perte ou de vol de la tablette, l’élève doit en informer immédiatement le service informatique de l’établissement. Une géolocalisation et un verrouillage de l’appareil pourront alors être activés sur demande de l’utilisateur.  
-    La réparation ou le remplacement des accessoires de la tablette (cordon, étui) ne sont pas pris en charge par l’établissement. En cas d’une détérioration importante de l’un de ces accessoires, il pourra être demandé à l’élève de procéder à son remplacement. 
+    1.1. Précautions générales :   
+    La tablette reste la propriété de la société BNP PARIBAS 3 STEP IT durant toute la scolarité de l’élève. Elle est mise à sa disposition en tant qu’outil pédagogique. L’élève doit ainsi accepter et respecter cette charte sans réserve. Sauf autorisation spécifique de la direction, la tablette utilisée au sein du lycée doit être celle mise à disposition par l’établissement.  
+    1.2. Transport et rangement des tablettes :  
+    La tablette doit être transportée avec soin, dans une coque de protection (celle fournie par l’établissement, ou dans une coque de qualité et de protection équivalente). La coque peut être personnalisée dans la limite du respect du matériel et de la correction des images.  
+    La tablette ne doit en aucun cas être laissée dans un lieu non sécurisé (couloirs, self, atrium, vestiaire non fermé, etc…). L’élève peut déposer sa tablette dans son casier. L’établissement ne peut être tenu responsable en cas de dégradation ou de vol, en particulier si l’élève n’a pas respecté ces consignes. Si une tablette est retrouvée, elle sera remise au service vie scolaire.  
+    1.3. Sons, musiques, jeux ou programmes :  
+    Les jeux en ligne ne sont pas autorisés sur les tablettes, au sein de l’établissement. Les élèves ne sont autorisés à utiliser les dispositifs audios qu’avec l’accord de l’enseignant.  
+    1.4. Apport et recharge de la tablette :  
+    La tablette étant un outil pédagogique, elle doit systématiquement (sauf consigne contraire spécifique de l’enseignant) accompagner l’élève en cours. L’élève doit par ailleurs procéder (à la maison) à la recharge complète de l’appareil. Celui-ci doit être prêt à l’emploi à son arrivé dans l’établissement. En cas d’oubli répété de la tablette (ou de sa recharge), l’élève pourra être sanctionné par l’enseignant.   
+    1.5. Incidents :  
+    En cas de dysfonctionnement de la tablette, l’élève devra solliciter le service informatique par courriel (assistance@ecmorlaix.fr), ou se présenter aux permanences informatiques proposées les mardis et jeudis, de 9h55 à 10h10 (atrium). La maintenance et la configuration de la tablette sont de la compétence exclusive du service informatique de l’établissement.  
+    En cas de casse de la tablette, l’élève devra se rendre au service comptabilité afin d’effectuer une déclaration d’incident et déposer sa tablette. Une tablette lui sera alors prêtée pour la durée de traitement de l’incident. Aucune réparation n’est autorisée en dehors d’une demande effectuée par l’établissement ou par la société BNP PARIBAS 3 STEP IT, propriétaire de l’appareil.  
+    En cas de perte ou de vol de la tablette, l’élève doit en informer immédiatement le service informatique de l’établissement. Une géolocalisation et un verrouillage de l’appareil pourront alors être activés sur demande de l’utilisateur.    
+    La réparation ou le remplacement des accessoires de la tablette (cordon, étui) ne sont pas pris en charge par l’établissement. En cas d’une détérioration importante de l’un de ces accessoires, il pourra être demandé à l’élève de procéder à son remplacement.   
 
 Article 2 : Contenu et enregistrement du travail 
 
