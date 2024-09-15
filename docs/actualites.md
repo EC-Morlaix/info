@@ -1,24 +1,17 @@
 # Les actualités
 
-**:construction:**
-
 ## Les petites news du numérique
 
-- Le 15 décembre, [premier pas vers plus de sobriété numérique](./sobre)...
+- Cette année, les élèves de seconde ont reçu leur tablette le jour de la rentrée, avec un atelier de [prise en main](https://ec-morlaix.github.io/info/priseenmain/) fait le jour même. Dès le lendemain, ils étaient tous des pros !  
 
-- Le 30 septembre, nouveau tuto sur l'utilisation de Word.
+![Les élèves quand on leur dit que la tablette est un outil pédagogique](./images/meme_bébé.jpg)
+> *Les élèves quand on leur dit que la tablette est un outil pédagogique !*
 
 - Vous saviez que tout s'enregistre automatiquement sur le pack office ?? 
 Si ce n'est pas enregistré, vous retrouverez votre document dans les brouillons ou "consulté récemment"
-
-
 - ![Une coupure de courant ??? No panic ! Si vous êtes enregistrés, la sauvegarde est automatique !](./images/1BF9A846-5ACD-4EE7-A72F-880B2E373CC0.gif) 
 
-- Lors de la semaine du 12 septembre, les nouveaux élèves ont reçu leur tablette !
-
-- ![Les élèves quand on leur dit que la tablette est un outil pédagogique](./images/meme_bébé.jpg)
-> *Les élèves quand on leur dit que la tablette est un outil pédagogique !*
-
+- [premier pas vers plus de sobriété numérique](./sobre)...
 
 ## Espace Numérique de Travail
 
