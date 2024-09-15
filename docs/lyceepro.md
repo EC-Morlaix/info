@@ -1,13 +1,13 @@
 # Ressources pour le LP
 
 
-! note "Calendrier Général"
-    [Lien vers le calendrier](https://ecmorlaix.sharepoint.com/:x:/r/sites/lndm-conseildedirection/Documents%20partages/0-Coordination%20LP/G%C3%A9n%C3%A9ralit%C3%A9s/2024%20-%202025%20Calendrier%20g%C3%A9n%C3%A9ral.xlsx?d=w790fafd6d8b149adb0c264e044b8a696&csf=1&web=1&e=6jHfot){:target="_blank"}
+!!! note "Calendrier Général"
+    [Lien vers le calendrier](https://ecmorlaix.sharepoint.com/:x:/r/sites/lndm-conseildedirection/Documents%20partages/0-Coordination%20LP/G%C3%A9n%C3%A9ralit%C3%A9s/2024%20-%202025%20Calendrier%20g%C3%A9n%C3%A9ral.xlsx?d=w790fafd6d8b149adb0c264e044b8a696&csf=1&web=1&e=6jHfot){:target="_blank"}  
+    [Dates PFMP](https://ecmorlaix.sharepoint.com/:w:/r/sites/lndm-conseildedirection/Documents%20partages/0-Coordination%20LP/G%C3%A9n%C3%A9ralit%C3%A9s/Dates%20de%20stages%20et%20PFMP.docx?d=wc52d4e2f77ae4f15b5b5a645b4b94e34&csf=1&web=1&e=3kZEJU){:target="_blank"}  
 
-! note "Secteur Sanitaire" 
+!!! note "Secteur Sanitaire" 
     === "PFMP"
         [Dossier PFMP Sanitaire](https://ecmorlaix.sharepoint.com/:f:/s/lndm-conseildedirection/Eg-o_gBbkilEhvS1A2j9R5kBWcVqw7xcUMgvjHby7UCBbQ?e=nWPmHj){:target="_blank"}  
-
     === "CCF" 
         [Calendrier CCF](https://ecmorlaix.sharepoint.com/:x:/r/sites/lndm-conseildedirection/Documents%20partages/0-Coordination%20LP/G%C3%A9n%C3%A9ralit%C3%A9s/CCF%202024%202025/2024%202025%20CCF%20Calendrier%20Sant%C3%A9%20-Animation.xlsx?d=w98f6be7fecfd4e7ba006e7d05996b324&csf=1&web=1&e=NzMBk4){:target="_blank"}  
  
