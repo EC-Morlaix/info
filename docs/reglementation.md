@@ -5,7 +5,7 @@ Dans le cadre du projet numérique du lycée Nd du Mur – Le Porsmeur, un « 
 L’équipement, identifié par son numéro de série, ne peut être utilisé que par l’élève destinataire. Conformément à la convention de mise à disposition, la revente, la cession, l’échange, le prêt ou la location de l’équipement est strictement interdit durant la scolarité de l’élève. 
 
 !!! note "Article 1 : Précautions d’usage "
-    1.1. Précautions générales :   
+    **1.1. Précautions générales : **  
     La tablette reste la propriété de la société BNP PARIBAS 3 STEP IT durant toute la scolarité de l’élève. Elle est mise à sa disposition en tant qu’outil pédagogique. L’élève doit ainsi accepter et respecter cette charte sans réserve. Sauf autorisation spécifique de la direction, la tablette utilisée au sein du lycée doit être celle mise à disposition par l’établissement.  
     1.2. Transport et rangement des tablettes :  
     La tablette doit être transportée avec soin, dans une coque de protection (celle fournie par l’établissement, ou dans une coque de qualité et de protection équivalente). La coque peut être personnalisée dans la limite du respect du matériel et de la correction des images.  
