@@ -26,5 +26,5 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
             - [procédure](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/ETfJxCQjPHdAnA9sM36Xfw4B6GTX6yRUgkQMtFfeyLUl1g?e=JsaVM8){:target="_blank"}  
              - [voyage](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/EaRJCKxa3YBKus4qjQzQktAB7XbL_pua0ejnvb3loWwsQw?e=4hC3nX){:target="_blank"}  
            - Ordre de mission :  
-               - [Ordre de Mission Visite de stage](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EaNwHI5e1btMku0ZSpsYQZgBi7MrVKhkP376xoLZQPeuoQ?e=yKErrx){:target="_blank"}  
-               - [Ordre de Mission Divers](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EScXQSjK2hdDvyNHyeitYPIBSLd115Akf2oU8wkAAHiR0A?e=9AogVN){:target="_blank"}
+               - [Ordre de Mission Visite de stage](https://ecmorlaix.sharepoint.com/:b:/r/sites/lndm-conseildedirection/Documents%20partages/2024-2025%20-%20Documents%20Ressources/DOCUMENTS%20COMPTA/ordre%20de%20mission%20-%20Visite%20de%20stage%2024-25.pdf?csf=1&web=1&e=BIK6ex){:target="_blank"}  
+               - [Ordre de Mission Divers](https://ecmorlaix.sharepoint.com/:b:/r/sites/lndm-conseildedirection/Documents%20partages/2024-2025%20-%20Documents%20Ressources/DOCUMENTS%20COMPTA/ordre%20de%20mission%20Divers%202024%202025.pdf?csf=1&web=1&e=HGn0RO){:target="_blank"}
