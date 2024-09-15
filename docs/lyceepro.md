@@ -13,7 +13,7 @@
  
 !!! note "Vente"  
     === "PFMP"
-        [Dossier PFMP Vente]([https://ecmorlaix.sharepoint.com/:f:/s/lndm-conseildedirection/Ep8usNViwB1OlO4TD8vZdmMBClSSEWI86TnbnNxTb6Ta-g?e=s6UNwj](https://ecmorlaix.sharepoint.com/:f:/r/sites/lndm-conseildedirection/Documents%20partages/0-Coordination%20LP/Vente/2024%20-%202025/PFMP?csf=1&web=1&e=d3dScF)){:target="_blank"}  
+        [Dossier PFMP Vente]([https://ecmorlaix.sharepoint.com/:f:/s/lndm-conseildedirection/Ep8usNViwB1OlO4TD8vZdmMBClSSEWI86TnbnNxTb6Ta-g?e=s6UNwj](https://ecmorlaix.sharepoint.com/:f:/r/sites/lndm-conseildedirection/Documents%20partages/0-Coordination%20LP/Vente/2024%20-%202025/PFMP?csf=1&web=1&e=d3dScF){:target="_blank"}  
     === "CCF"
         [Calendrier CCF](https://ecmorlaix.sharepoint.com/:x:/r/sites/lndm-conseildedirection/Documents%20partages/0-Coordination%20LP/G%C3%A9n%C3%A9ralit%C3%A9s/CCF%202024%202025/2024%202025-%20CCF%20-%20Calendrier%20Vente.xlsx?d=wa521cc29e2fc4d0b8dfcaf50d4fcc66b&csf=1&web=1&e=OTOcWy){:target="_blank"}  
 
