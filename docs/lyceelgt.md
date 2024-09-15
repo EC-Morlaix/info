@@ -16,7 +16,6 @@
 
 !!! info "Parcours Educatifs à renseigner"  
     [Synthèse des projets envisagés](https://ecmorlaix.sharepoint.com/:x:/r/sites/lndm-conseildedirection/_layouts/15/Doc.aspx?sourcedoc=%7B502E9AD0-3A6B-483A-951A-248CD6BC38C5%7D&file=2024-2025_Projets_educatifs_envisage%CC%81s%202024-07-04%2012_25_47.xlsx&action=default&mobileredirect=true&wdsle=0){:target="_blank"}  
-    [Formulaire LGT](https://ecmorlaix.sharepoint.com/:x:/r/sites/lndm-conseildedirection/Documents%20partages/2024-2025%20-%20Documents%20Ressources/PROJETS%20%C3%89DUCATIFS/Formulaire_aide_recensement_PROJETS_EDUCATIFS_2024-2025_LGT%202024-07-04%2012_26_12.xlsx?d=w25712bab00c54aa1a8965fb076fd15ab&csf=1&web=1&e=fN3L74){:target="_blank"}  
-    [Formulaire LP](https://ecmorlaix.sharepoint.com/:x:/r/sites/lndm-conseildedirection/Documents%20partages/2024-2025%20-%20Documents%20Ressources/PROJETS%20%C3%89DUCATIFS/Formulaire_aide_recensement_PROJETS_EDUCATIFS_2024-2025_LP%202024-07-04%2012_26_23.xlsx?d=wf0da3c56d9414328b9e04a2ea6101c7b&csf=1&web=1&e=FnlVit){:target="_blank"}  
+    [Formulaire LGT](https://ecmorlaix.sharepoint.com/:x:/r/sites/lndm-conseildedirection/Documents%20partages/2024-2025%20-%20Documents%20Ressources/PROJETS%20%C3%89DUCATIFS/Formulaire_aide_recensement_PROJETS_EDUCATIFS_2024-2025_LGT%202024-07-04%2012_26_12.xlsx?d=w25712bab00c54aa1a8965fb076fd15ab&csf=1&web=1&e=fN3L74){:target="_blank"}    
 
 
