@@ -74,7 +74,7 @@ L’équipement, identifié par son numéro de série, ne peut être utilisé qu
     - Utilisation non appropriée, sans l’accord de l’enseignant, des réseaux sociaux ou applications de messagerie  
     - Envoi de courriels en masse ou inappropriés  
     - Accéder aux comptes, fichiers et/ou données d’autres utilisateurs, sans leur accord   
-    - Utilisation d’Internet et de son compte Microsoft 365 en vue de gains financiers ou de toute activité contraire à la loi 
+    - Utilisation d’Internet et de son compte Microsoft 365 en vue de gains financiers ou de toute activité contraire à la loi  
     - Utilisation de communications anonymes et/ou fausses.  
     - Communication de ses propres informations personnelles ou de celles d’autrui sur Internet  
     - Tentative de passer outre le filtrage ou des sécurités de l’établissement  
