@@ -20,8 +20,8 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
 ## Procédures
 
 !!! info "Documents Administratifs"  
-    - Ressources Personnel OGEC : [OGEC](https://ecmorlaix.sharepoint.com/:f:/s/lndm-conseildedirection/EmS_q0zRyTZEuair6xQQYO8B6sId5J9P0Lcwzonvid7g-A?e=lVYXuo){:target="_blank"}  
-    - Autorisation d'absence : [ADA](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EZoj3RM0yK5CsclrqWRYCvUB0-4tnoCCeJSvYX6LtM1tsg?e=oUeNEQ){:target="_blank"}  
+    - Ressources Personnel OGEC : [OGEC](https://ecmorlaix.sharepoint.com/:f:/s/lndm-conseildedirection/EmS_q0zRyTZEuair6xQQYO8B6sId5J9P0Lcwzonvid7g-A?email=ogec.ecam%40ecmorlaix.fr&e=IiTb1s){:target="_blank"}  
+    - Autorisation d'absence : [ADA](https://ecmorlaix.sharepoint.com/:b:/r/sites/lndm-conseildedirection/Documents%20partages/2024-2025%20-%20Documents%20Ressources/demande%20d%27autorisation%20absence.pdf?csf=1&web=1&e=ECC9LZ){:target="_blank"}  
           - Procédure Voyage : 
             - [procédure](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/ETfJxCQjPHdAnA9sM36Xfw4B6GTX6yRUgkQMtFfeyLUl1g?e=JsaVM8){:target="_blank"}  
              - [voyage](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/EaRJCKxa3YBKus4qjQzQktAB7XbL_pua0ejnvb3loWwsQw?e=4hC3nX){:target="_blank"}  
