@@ -7,21 +7,21 @@
 
 !!! note "Secteur Sanitaire" 
     === "PFMP"
-        [Dossier PFMP Sanitaire](https://ecmorlaix.sharepoint.com/:f:/s/lndm-conseildedirection/Eg-o_gBbkilEhvS1A2j9R5kBWcVqw7xcUMgvjHby7UCBbQ?e=nWPmHj){:target="_blank"}  
+        [Dossier PFMP Sanitaire](https://ecmorlaix.sharepoint.com/:f:/r/sites/lndm-conseildedirection/Documents%20partages/0-Coordination%20LP/Sant%C3%A9-Animation/0%20PFMP?csf=1&web=1&e=tElN8K){:target="_blank"}  
     === "CCF" 
-        [Calendrier CCF](https://ecmorlaix.sharepoint.com/:x:/r/sites/lndm-conseildedirection/Documents%20partages/0-Coordination%20LP/G%C3%A9n%C3%A9ralit%C3%A9s/CCF%202024%202025/2024%202025%20CCF%20Calendrier%20Sant%C3%A9%20-Animation.xlsx?d=w98f6be7fecfd4e7ba006e7d05996b324&csf=1&web=1&e=NzMBk4){:target="_blank"}  
+        [Calendrier CCF](https://ecmorlaix.sharepoint.com/:x:/r/sites/lndm-conseildedirection/Documents%20partages/0-Coordination%20LP/G%C3%A9n%C3%A9ralit%C3%A9s/CCF%202024%202025/2024%202025-%20CCF%20-%20Calendrier%20Vente.xlsx?d=wa521cc29e2fc4d0b8dfcaf50d4fcc66b&csf=1&web=1&e=oQ6bda){:target="_blank"}  
  
+!!! note "Vente"  
+    === "PFMP"
+        [Dossier PFMP Vente]([https://ecmorlaix.sharepoint.com/:f:/s/lndm-conseildedirection/Ep8usNViwB1OlO4TD8vZdmMBClSSEWI86TnbnNxTb6Ta-g?e=s6UNwj](https://ecmorlaix.sharepoint.com/:f:/r/sites/lndm-conseildedirection/Documents%20partages/0-Coordination%20LP/Vente/2024%20-%202025/PFMP?csf=1&web=1&e=d3dScF)){:target="_blank"}  
+    === "CCF"
+        [Calendrier CCF](https://ecmorlaix.sharepoint.com/:x:/r/sites/lndm-conseildedirection/Documents%20partages/0-Coordination%20LP/G%C3%A9n%C3%A9ralit%C3%A9s/CCF%202024%202025/2024%202025-%20CCF%20-%20Calendrier%20Vente.xlsx?d=wa521cc29e2fc4d0b8dfcaf50d4fcc66b&csf=1&web=1&e=OTOcWy){:target="_blank"}  
 
 
-## Secteur Vente 
 
-### PFMP 
 
-[Dossier PFMP Vente](https://ecmorlaix.sharepoint.com/:f:/s/lndm-conseildedirection/Ep8usNViwB1OlO4TD8vZdmMBClSSEWI86TnbnNxTb6Ta-g?e=s6UNwj){:target="_blank"}  
 
-### CCF  
 
-[Calendrier CCF](https://ecmorlaix.sharepoint.com/:x:/r/sites/lndm-conseildedirection/Documents%20partages/0-Coordination%20LP/G%C3%A9n%C3%A9ralit%C3%A9s/CCF%202024%202025/2024%202025-%20CCF%20-%20Calendrier%20Vente.xlsx?d=wa521cc29e2fc4d0b8dfcaf50d4fcc66b&csf=1&web=1&e=OTOcWy){:target="_blank"}  
 ## Les parcours du lycéen  
 
 !!! info "Parcours Avenir"  
