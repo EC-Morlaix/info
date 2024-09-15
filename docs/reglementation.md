@@ -81,5 +81,5 @@ L’équipement, identifié par son numéro de série, ne peut être utilisé qu
     - Vandalisme sur les équipements informatiques de l’établissement  
     - Conception ou diffusion de programmes malveillants de type virus 
 
-!!! alerte "Article 6 : Non-respect de la charte et sanctions "
+!!! danger "Article 6 : Non-respect de la charte et sanctions "
     En cas d’infraction à la présente charte, les privilèges accordés pourront être restreints, et l’accès aux ressources de l’établissements pourra être refusé. Outre des sanctions disciplinaires appropriées pouvant également être appliquées, en conformité avec le règlement intérieur de l’établissement, des poursuites judiciaires pourront également être envisagées dans les situations les plus graves. 
