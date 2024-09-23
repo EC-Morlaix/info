@@ -21,7 +21,7 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
 ## Procédures
 
 !!! info "Procédures Vie scolaire"
-    [info](https://ecmorlaix.sharepoint.com/:b:/r/sites/lndm-conseildedirection/Documents%20partages/2024-2025%20-%20Documents%20Ressources/Proce%CC%81dures%20Vie%20scolaire.pdf?csf=1&web=1&e=NiSHMC){:target="_blank"}  
+    [Document](https://ecmorlaix.sharepoint.com/:b:/r/sites/lndm-conseildedirection/Documents%20partages/2024-2025%20-%20Documents%20Ressources/Proce%CC%81dures%20Vie%20scolaire.pdf?csf=1&web=1&e=NiSHMC){:target="_blank"}  
 
 !!! info "Documents Administratifs"  
     - Ressources Personnel OGEC : [OGEC](https://ecmorlaix.sharepoint.com/:f:/s/lndm-conseildedirection/EmS_q0zRyTZEuair6xQQYO8B6sId5J9P0Lcwzonvid7g-A?email=ogec.ecam%40ecmorlaix.fr&e=IiTb1s){:target="_blank"}  
