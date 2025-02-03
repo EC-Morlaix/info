@@ -17,7 +17,12 @@ Cette page regroupe tous les documents ressources utiles pour le lycée.
     - Annexe 3 PAP - Equipe pédagogique : [Annexe3](https://ecmorlaix.sharepoint.com/:b:/s/lndm-conseildedirection/EQgJkVTQz6JGvYT_iN55aCQBcU4-OL_oMjLDWVqlzw0cpw?e=nhOba5){:target="_blank"}  
     - Grille PPRE : [PPRE](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/EUMOc9aKcnpCqTwv3a_HZ-MBMVH_iVYqMgnl5gJMW9aVRQ?e=HxUo9C){:target="_blank"}   
 
-
+!!! note "Aménagements aux examens"  
+    - Notice explicative des aménagements aux examens [guide](https://ecmorlaix.sharepoint.com/:b:/r/sites/lndm-conseildedirection/Documents%20partages/2024-2025%20-%20Documents%20Ressources/ECOLE%20INCLUSIVE/Amenagements%20EXAM/Guide-amenagement-examens_-academie-Dijon-6.pdf?csf=1&web=1&e=RQi2or){:target="_blank"}   
+    - Procédure simplifiée LP [PSLP](https://ecmorlaix.sharepoint.com/:b:/r/sites/lndm-conseildedirection/Documents%20partages/2024-2025%20-%20Documents%20Ressources/ECOLE%20INCLUSIVE/Amenagements%20EXAM/Formulaire_Exapros_ExaSup_ProcedSimplifiee_v2.pdf?csf=1&web=1&e=iaBLPx){:target="_blank"}   
+    - Procédure complète LP [PCLP](https://ecmorlaix.sharepoint.com/:b:/r/sites/lndm-conseildedirection/Documents%20partages/2024-2025%20-%20Documents%20Ressources/ECOLE%20INCLUSIVE/Amenagements%20EXAM/Formulaire_Exapros_ExaSup_ProcedComplete_v2.pdf?csf=1&web=1&e=mokZRc){:target="_blank"}   
+    - Procédure simplifiée LGT [PSLGT](https://ecmorlaix.sharepoint.com/:b:/r/sites/lndm-conseildedirection/Documents%20partages/2024-2025%20-%20Documents%20Ressources/ECOLE%20INCLUSIVE/Amenagements%20EXAM/Formulaire_BG-BTN_ProcedSimplifiee_v2.pdf?csf=1&web=1&e=kHMPVc){:target="_blank"}   
+    - Procédure complète LGT [PCLGT](https://ecmorlaix.sharepoint.com/:b:/r/sites/lndm-conseildedirection/Documents%20partages/2024-2025%20-%20Documents%20Ressources/ECOLE%20INCLUSIVE/Amenagements%20EXAM/Formulaire_BG-BTN_ProcedComplete_v2.pdf?csf=1&web=1&e=ZBqpkh){:target="_blank"}   
 ## Procédures
 
 !!! info "Procédures Vie scolaire"
