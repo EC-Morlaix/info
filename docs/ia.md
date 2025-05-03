@@ -67,7 +67,9 @@
     - [wooclap](https://wooclap.com/) ;
     - [educaplay](https://fr.educaplay.com/) ;
 - Analyse de données avec [julius.ai](https://julius.ai/)
-- Réaliser des cartes mentales à partir d'un document [Mymap](https://www.mymap.ai/mindmap)
+- Réaliser des cartes mentales à partir d'un document
+  [Mindmap](https://www.mymap.ai/mindmap)
+  [Napkin](https://www.napkin.ai)
 - Réaliser un diaporama à partir d'un document [Gamma](https://gamma.app/fr)
 ## Ingénierie de "prompt" (requête)
 
