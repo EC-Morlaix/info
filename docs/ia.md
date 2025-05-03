@@ -93,6 +93,9 @@
 
 > Pour pouvoir construire des prompts de qualité, il est nécessaire de bien comprendre le fonctionnement des IA et la façon dont elles interprètent les mots…
 
+### Guide pratique de l’IA à l’Inspé de l’académie de Créteil :Une approche technique, pédagogique et critique de son usage dans un cadre scolaire et universitaire
+Un [guide](./GuideIACreteil.pdf) très compplet.
+
 ## Expériences
 
 ### Professeur Hervé ALLESANT
