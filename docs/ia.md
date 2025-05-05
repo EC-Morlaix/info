@@ -102,7 +102,7 @@ Un [guide](./pdf/GuideIACreteil.pdf) très compplet.
 
 ### Professeur Hervé ALLESANT
 
-<center><iframe title="Créer une application avec l'IA - un bidouIAge pour &quot;Organizator1999&quot;" width="560" height="315" src="https://tube-numerique-educatif.apps.education.fr/videos/embed/430aea1f-2493-44bf-8090-818261153d7b" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></center>center>
+<center><iframe title="Créer une application avec l'IA - un bidouIAge pour &quot;Organizator1999&quot;" width="560" height="315" src="https://tube-numerique-educatif.apps.education.fr/videos/embed/430aea1f-2493-44bf-8090-818261153d7b" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></center>
 
 - [Expérience Hexapawn](https://www.palais-decouverte.fr/fr/explorer-nos-contenus/experiences-dinformatique/une-intelligence-artificielle-en-papier#topMenu) Construire une Intelligence Artificielle par renforcement en papier capable de jouer à un jeu de plateau en s'améliorant.
 
