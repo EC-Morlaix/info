@@ -88,7 +88,7 @@
 
 #### Document de Sébastion DONVAL décrivant la méthode en l'illustrant pour l'enseignement
 
-<center><iframe src="https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IA/IA_CRAFT_Enseignement.pdf" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Optimiser l'Utilisation de l'IA en Enseignement avec la Méthode CRAFT"></iframe></center>center>
+<center><iframe src="https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IA/IA_CRAFT_Enseignement.pdf" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Optimiser l'Utilisation de l'IA en Enseignement avec la Méthode CRAFT"></iframe></center>
 
 
 > Retrouvez également le détail de cette méthode sur le site : [Méthode CRAFT et 7 techniques avancées de prompting](https://www.extencia.fr/prompting-chatgpt-methode-craft-techniques-avancees)
